@@ -1,0 +1,13 @@
+<map id="spams::Vector::mean" name="spams::Vector::mean">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#ac4640cb20bb72d2723d88b55677d127b" title="whiten " alt="" coords="215,9,361,36"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a23815998cb12a24ba3fd3d9ee9d5e9a1" title="spams::Vector::project_sft" alt="" coords="200,64,376,91"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a447a6f66d82e0fe0cf4d923ca0aec4c2" title="spams::Vector::project\l_sft_binary" alt="" coords="211,115,365,157"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a1e421631828828a6152cf6c264e92b91" title="whiten " alt="" coords="221,181,355,208"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#a3aaa7b9c9f673b91e462068c022d7241" title="whiten " alt="" coords="205,232,371,259"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a048b7d564b76ca6f6314276e2ff943c5" title="whiten " alt="" coords="211,283,365,309"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#a3d44794e9cd7e8f7924d457183079207" title="whiten " alt="" coords="451,5,601,32"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#aaaa990843ebcc1b1c4ca6a02ba79fdb6" title="spams::FISTA::MultiLogLoss\l::var_fenchel" alt="" coords="430,57,622,98"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1LogLoss.html#ab92d35d079f7c5a2f2a51ea9b55b734e" title="spams::FISTA::LogLoss\l::var_fenchel" alt="" coords="444,122,608,163"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1SqLossMissing.html#a825aa4069468fb43a8aa55958fd6724e" title="spams::FISTA::SqLossMissing\l::var_fenchel" alt="" coords="424,242,628,283"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1SqLoss.html#adca6f3fabe324aff996e581eb2a26947" title="spams::FISTA::SqLoss\l::var_fenchel" alt="" coords="447,307,605,349"/>
+</map>

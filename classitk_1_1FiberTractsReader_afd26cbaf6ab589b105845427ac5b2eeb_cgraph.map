@@ -1,0 +1,14 @@
+<map id="itk::FiberTractsReader::Update" name="itk::FiberTractsReader::Update">
+<area shape="rect" id="node2" href="$namespaceutl.html#a9dbc24283e7a8aef598604e8f8cf4eb8" title="utl::GetFiberTractsFormat" alt="" coords="205,5,377,32"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#ace21d694314841e980b1751b34b763eb" title="utl::IsFileExist" alt="" coords="238,56,345,83"/>
+<area shape="rect" id="node5" href="$classitk_1_1FiberTractsReader.html#ad5b20958bdd929d2a18192d795dcc162" title="itk::FiberTractsReader\l::ReadTractsTCK" alt="" coords="215,107,367,149"/>
+<area shape="rect" id="node6" href="$classitk_1_1FiberTractsReader.html#a1d1aa53f6e81e05c993a58d4ff89fb22" title="itk::FiberTractsReader\l::ReadTractsTRK" alt="" coords="215,173,367,214"/>
+<area shape="rect" id="node13" href="$classitk_1_1FiberTractsReader.html#a57b0a9c8d329d3e79787620aa75293ec" title="itk::FiberTractsReader\l::ReadTractsVTK" alt="" coords="215,238,367,279"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#ad2170921486bbe1efe1934650ffe4a44" title="utl::GetFileExtension" alt="" coords="438,5,582,32"/>
+<area shape="rect" id="node7" href="$namespaceitk.html#a286ccaf539233fa8546ed7649f520474" title="itk::GetDimensionOfProperties" alt="" coords="643,129,843,156"/>
+<area shape="rect" id="node10" href="$namespaceitk.html#aee22dd9e9803cad3bf026e60fba7e3f9" title="itk::GetDimensionOfScalars" alt="" coords="650,180,835,207"/>
+<area shape="rect" id="node11" href="$classitk_1_1Fiber.html#ab793e711bc36e993396bffb4584e945c" title="itk::Fiber::New" alt="" coords="456,256,564,283"/>
+<area shape="rect" id="node12" href="$namespaceitk.html#a12fe61e4ae510ca844a3755400547dd3" title="itk::ReadTrackVisHeader" alt="" coords="425,155,595,181"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a764bece42487f4dd6cdbdbeb1c696187" title="utl::GetScalarsDimention\lByName" alt="" coords="891,147,1059,189"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a182ec809013fd5d9a9a577d27c8f53e4" title="utl::IsInt" alt="" coords="1107,155,1177,181"/>
+</map>

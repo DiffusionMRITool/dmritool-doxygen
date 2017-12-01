@@ -1,0 +1,26 @@
+<map id="Modules/DWIProcessing/include/itkDWIReader.hxx" name="Modules/DWIProcessing/include/itkDWIReader.hxx">
+<area shape="rect" id="node2" href="$itkDWIReader_8h.html" title="itkDWIReader.h" alt="" coords="2121,95,2237,121"/>
+<area shape="rect" id="node37" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="952,319,999,345"/>
+<area shape="rect" id="node6" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="1800,557,1868,584"/>
+<area shape="rect" id="node35" href="$itkSamplingSchemeQSpace_8h.html" title="itkSamplingSchemeQSpace.h" alt="" coords="2081,169,2277,196"/>
+<area shape="rect" id="node13" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="443,721,518,748"/>
+<area shape="rect" id="node32" href="$utlITKConceptChecking_8h.html" title="Created &quot;06&#45;10&#45;2016. " alt="" coords="1911,639,2083,666"/>
+<area shape="rect" id="node33" href="$utlITKMacro_8h.html" title="utlITKMacro.h" alt="" coords="2107,639,2211,666"/>
+<area shape="rect" id="node14" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="721,796,891,823"/>
+<area shape="rect" id="node18" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="620,871,731,897"/>
+<area shape="rect" id="node21" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="921,945,1043,972"/>
+<area shape="rect" id="node27" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="323,796,443,823"/>
+<area shape="rect" id="node36" href="$itkSamplingScheme3D_8h.html" title="itkSamplingScheme3D.h" alt="" coords="1820,244,1987,271"/>
+<area shape="rect" id="node50" href="$itkSamplingSchemeQSpace_8hxx.html" title="itkSamplingSchemeQSpace.hxx" alt="" coords="2070,244,2281,271"/>
+<area shape="rect" id="node38" href="$DMRITOOLConfigure_8h.html" title="DMRITOOLConfigure.h" alt="" coords="720,557,879,584"/>
+<area shape="rect" id="node39" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="867,639,966,666"/>
+<area shape="rect" id="node40" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="131,401,207,427"/>
+<area shape="rect" id="node41" href="$utlVNL_8h.html" title="help functions for VNL " alt="" coords="471,639,544,666"/>
+<area shape="rect" id="node42" href="$utlVNLIO_8h.html" title="utlVNLIO.h" alt="" coords="557,557,644,584"/>
+<area shape="rect" id="node43" href="$utlVNLBlas_8h.html" title="utlVNLBlas.h" alt="" coords="383,557,482,584"/>
+<area shape="rect" id="node44" href="$utlVNLLapack_8h.html" title="utlVNLLapack.h" alt="" coords="295,483,410,509"/>
+<area shape="rect" id="node45" href="$utlDMRI_8h.html" title="utlDMRI.h" alt="" coords="1005,557,1087,584"/>
+<area shape="rect" id="node46" href="$itkSphericalHarmonicsGenerator_8h.html" title="itkSphericalHarmonicsGenerator.h" alt="" coords="1314,401,1535,427"/>
+<area shape="rect" id="node48" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="955,483,1113,509"/>
+<area shape="rect" id="node49" href="$itkMultiVolumeImageToVectorImageFilter_8h.html" title="itkMultiVolumeImageToVector\lImageFilter.h" alt="" coords="1610,393,1807,435"/>
+</map>

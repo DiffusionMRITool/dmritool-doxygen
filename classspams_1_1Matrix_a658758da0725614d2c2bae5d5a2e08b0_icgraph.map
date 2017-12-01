@@ -1,0 +1,51 @@
+<map id="spams::Matrix::setZeros" name="spams::Matrix::setZeros">
+<area shape="rect" id="node2" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="224,216,359,243"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="701,707,843,733"/>
+<area shape="rect" id="node5" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="705,1903,839,1929"/>
+<area shape="rect" id="node7" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="477,267,571,293"/>
+<area shape="rect" id="node8" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="705,312,839,339"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#a54af7b580ff7d751141e4fb40476ce00" title="set the matrix to the identity; " alt="" coords="224,2716,359,2743"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1SqLoss.html#aa4bec9d6d45236eddc4eb2fba013c9fb" title="spams::FISTA::SqLoss\l::init_split_variables" alt="" coords="445,318,603,359"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1HingeLoss.html#ac0b995d122d3068ca3711294edb3d7eb" title="spams::FISTA::HingeLoss\l::init_split_variables" alt="" coords="435,383,613,425"/>
+<area shape="rect" id="node12" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="474,449,574,476"/>
+<area shape="rect" id="node13" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="471,500,577,527"/>
+<area shape="rect" id="node14" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="703,1975,841,2001"/>
+<area shape="rect" id="node15" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="439,551,609,577"/>
+<area shape="rect" id="node16" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="453,601,595,628"/>
+<area shape="rect" id="node17" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="413,652,635,679"/>
+<area shape="rect" id="node18" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="222,2767,361,2793"/>
+<area shape="rect" id="node19" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="447,703,601,729"/>
+<area shape="rect" id="node20" href="$classspams_1_1FISTA_1_1MixedL1L2.html#a9b5a5a545aa9ba3d36d045b5ef59ca07" title="spams::FISTA::MixedL1L2\l::prox" alt="" coords="683,53,861,94"/>
+<area shape="rect" id="node21" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="699,1815,845,1857"/>
+<area shape="rect" id="node22" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="217,1335,365,1361"/>
+<area shape="rect" id="node42" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#ad0543fa312afa7744c5c77f9a7a2aecd" title="spams::FISTA::MixedL1LINF\l::sub_grad" alt="" coords="427,2295,621,2337"/>
+<area shape="rect" id="node45" href="$classspams_1_1SpMatrix.html#aec43a32168faec26d4fdfe4a5f961900" title="copy the sparse matrix into a dense matrix " alt="" coords="443,2361,605,2388"/>
+<area shape="rect" id="node46" href="$classspams_1_1SpMatrix.html#a3c90b3186821693a2d6d8ec871b46ea9" title="copy the sparse matrix into a dense transposed matrix " alt="" coords="427,2412,621,2439"/>
+<area shape="rect" id="node47" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="434,2463,614,2489"/>
+<area shape="rect" id="node50" href="$classspams_1_1SpMatrix.html#a201da7740a038d35571368b1a8c9a6ec" title="XtX = A&#39;*A. " alt="" coords="449,2513,599,2540"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a4c2c75f7becf58d5830733655a400da1" title="Auxiliary function of omp. " alt="" coords="453,165,595,192"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="909,1903,1011,1929"/>
+<area shape="rect" id="node23" href="$classspams_1_1SpMatrix.html#aeb18a9b6c4a48768ee1e9795e134a3ab" title="aat &lt;&#45; A*A&#39; " alt="" coords="449,1057,599,1084"/>
+<area shape="rect" id="node24" href="$classspams_1_1Matrix.html#af57893b5095264a1efe0ab064c539bf3" title="make a copy of the matrix mat in the current matrix " alt="" coords="453,855,595,881"/>
+<area shape="rect" id="node25" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="705,956,839,983"/>
+<area shape="rect" id="node26" href="$classspams_1_1Matrix.html#ab6a9bac72f822171bed7b2efe1a4d430" title="extract the rows of a matrix corresponding to a binary mask " alt="" coords="437,1276,611,1303"/>
+<area shape="rect" id="node27" href="$classspams_1_1Matrix.html#a828b170b59af1aa9fc973318e3a569a3" title="C = A .* B, elementwise multiplication. " alt="" coords="459,1109,589,1150"/>
+<area shape="rect" id="node28" href="$classspams_1_1Matrix.html#a0173e737cb9ddf1c26412bb919976c8a" title="extract the group i " alt="" coords="441,1175,607,1201"/>
+<area shape="rect" id="node29" href="$classspams_1_1SpMatrix.html#a4e9a19caa977cd8b389db26ee9618458" title="spams::SpMatrix::getGroup" alt="" coords="433,1225,615,1252"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="428,1327,620,1369"/>
+<area shape="rect" id="node31" href="$classspams_1_1FISTA_1_1LossCur.html#a2a35824c6e1131722c5cedca89aeccb4" title="spams::FISTA::LossCur\l::grad" alt="" coords="442,1393,606,1434"/>
+<area shape="rect" id="node32" href="$classspams_1_1FISTA_1_1LossMatSup.html#a525af2b75211e5916e3321ec97c9aa31" title="spams::FISTA::LossMatSup\l\&lt; T, SqLossMissing\&lt; T \&gt;\l \&gt;::grad" alt="" coords="430,1459,618,1515"/>
+<area shape="rect" id="node33" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="483,1539,565,1565"/>
+<area shape="rect" id="node34" href="$classspams_1_1Matrix.html#a6f39122f004df59e1daf9e1e497eee30" title="merge two dictionaries " alt="" coords="449,1589,599,1616"/>
+<area shape="rect" id="node35" href="$classspams_1_1Matrix.html#a4572baed656a90cffc6bd39499220e94" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="455,1640,593,1667"/>
+<area shape="rect" id="node36" href="$classspams_1_1Matrix.html#a58c750136dff42a4aaa656f896440931" title="C = A .* B, elementwise multiplication. " alt="" coords="455,1691,593,1733"/>
+<area shape="rect" id="node37" href="$classspams_1_1FISTA_1_1SpecGraphMat.html#ac637fe0f6d858b73dc2464ab9c05ca1d" title="spams::FISTA::SpecGraphMat\l::prox" alt="" coords="423,1757,625,1798"/>
+<area shape="rect" id="node38" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="697,2168,847,2195"/>
+<area shape="rect" id="node39" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="427,2025,621,2052"/>
+<area shape="rect" id="node40" href="$namespacespams_1_1FISTA.html#a66ada1de8cc9b253fbe1920a48672cd9" title="spams::FISTA::solver_aux1" alt="" coords="431,2143,617,2169"/>
+<area shape="rect" id="node41" href="$namespacespams_1_1FISTA.html#ab2bb1f19457b72256fe7f55be83b6c52" title="spams::FISTA::solver_aux2" alt="" coords="431,2193,617,2220"/>
+<area shape="rect" id="node43" href="$classspams_1_1FISTA_1_1RegMat.html#af86b05db56abdcc4a219a6b72f348d3c" title="spams::FISTA::RegMat\l::sub_grad" alt="" coords="443,2077,605,2118"/>
+<area shape="rect" id="node44" href="$classspams_1_1Matrix.html#aeea28f9a81331e2e41437185b4685ee7" title="extract a sub&#45;matrix of a symmetric matrix " alt="" coords="425,905,623,932"/>
+<area shape="rect" id="node48" href="$classspams_1_1Matrix.html#a4ff5cb3ec958813522b1c69f92aa2d13" title="spams::Matrix::transpose" alt="" coords="439,1007,609,1033"/>
+<area shape="rect" id="node49" href="$classspams_1_1Matrix.html#ab4ed322e9ad1c8ffa500fa81031e68fc" title="XXt = A*A&#39; where A is an upper triangular matrix. " alt="" coords="433,1873,615,1900"/>
+</map>

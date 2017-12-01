@@ -1,0 +1,19 @@
+<map id="spams::coreORMP" name="spams::coreORMP">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="202,5,338,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="199,107,341,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="621,107,743,133"/>
+<area shape="rect" id="node8" href="$classspams_1_1AbstractMatrix.html#ae8c66a610acaa672f255636cb68b3411" title="copy X(:,i) into Xi " alt="" coords="193,158,347,199"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#ae059b3f6d5547347a9c3b8318f388082" title="A &lt;&#45; A ./ x. " alt="" coords="204,224,336,251"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="198,275,342,301"/>
+<area shape="rect" id="node11" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="210,325,330,352"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="199,376,341,403"/>
+<area shape="rect" id="node13" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="197,427,343,453"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="401,564,549,591"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="203,528,337,555"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="188,579,352,605"/>
+<area shape="rect" id="node17" href="$classspams_1_1Vector.html#af1c61585a174867d5628d9709992e47a" title="A &lt;&#45; x .^ 2. " alt="" coords="203,477,337,504"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#a1c2a39e500bcdba32db98d75a4bd62ba" title="A &lt;&#45; A &#45; x. " alt="" coords="202,680,338,707"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="400,317,551,344"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="611,433,753,460"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="599,317,765,344"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spams::FISTA::TreeLasso::fenchel" name="spams::FISTA::TreeLasso::fenchel">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="239,107,381,133"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="659,107,782,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="237,208,383,235"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#af73cc5c470cbb1ac67e6f62b2204a8f9" title="spams::Vector::setData" alt="" coords="229,259,391,285"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="230,309,390,336"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="439,56,589,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="649,56,792,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="637,5,804,32"/>
+</map>

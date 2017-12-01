@@ -1,0 +1,35 @@
+<map id="Modules/DWIProcessing/include/itkDWIGenerator.h" name="Modules/DWIProcessing/include/itkDWIGenerator.h">
+<area shape="rect" id="node2" href="$itkDWIGeneratorBase_8h.html" title="itkDWIGeneratorBase.h" alt="" coords="596,95,757,121"/>
+<area shape="rect" id="node45" href="$itkDWIGenerator_8hxx.html" title="itkDWIGenerator.hxx" alt="" coords="1939,244,2084,271"/>
+<area shape="rect" id="node3" href="$itkPeakContainerHelper_8h.html" title="itkPeakContainerHelper.h" alt="" coords="1213,707,1383,733"/>
+<area shape="rect" id="node21" href="$itkSamplingSchemeQSpace_8h.html" title="itkSamplingSchemeQSpace.h" alt="" coords="168,319,364,345"/>
+<area shape="rect" id="node40" href="$itkCylinderModelGenerator_8h.html" title="itkCylinderModelGenerator.h" alt="" coords="583,169,770,196"/>
+<area shape="rect" id="node44" href="$itkDWIGeneratorBase_8hxx.html" title="itkDWIGeneratorBase.hxx" alt="" coords="795,169,969,196"/>
+<area shape="rect" id="node4" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="1445,871,1519,897"/>
+<area shape="rect" id="node5" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="1029,945,1199,972"/>
+<area shape="rect" id="node7" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="936,1020,1047,1047"/>
+<area shape="rect" id="node9" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="702,1095,825,1121"/>
+<area shape="rect" id="node11" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="1453,945,1573,972"/>
+<area shape="rect" id="node22" href="$itkSamplingScheme3D_8h.html" title="itkSamplingScheme3D.h" alt="" coords="576,393,743,420"/>
+<area shape="rect" id="node39" href="$itkSamplingSchemeQSpace_8hxx.html" title="itkSamplingSchemeQSpace.hxx" alt="" coords="189,393,399,420"/>
+<area shape="rect" id="node23" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="1235,468,1281,495"/>
+<area shape="rect" id="node24" href="$DMRITOOLConfigure_8h.html" title="DMRITOOLConfigure.h" alt="" coords="1029,707,1188,733"/>
+<area shape="rect" id="node25" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="754,789,853,815"/>
+<area shape="rect" id="node26" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="1459,550,1535,577"/>
+<area shape="rect" id="node27" href="$utlVNL_8h.html" title="help functions for VNL " alt="" coords="1657,789,1731,815"/>
+<area shape="rect" id="node28" href="$utlVNLIO_8h.html" title="utlVNLIO.h" alt="" coords="1408,707,1495,733"/>
+<area shape="rect" id="node29" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="1621,707,1689,733"/>
+<area shape="rect" id="node31" href="$utlVNLBlas_8h.html" title="utlVNLBlas.h" alt="" coords="1866,707,1965,733"/>
+<area shape="rect" id="node32" href="$utlVNLLapack_8h.html" title="utlVNLLapack.h" alt="" coords="1765,632,1879,659"/>
+<area shape="rect" id="node33" href="$utlDMRI_8h.html" title="utlDMRI.h" alt="" coords="770,707,853,733"/>
+<area shape="rect" id="node34" href="$itkSphericalHarmonicsGenerator_8h.html" title="itkSphericalHarmonicsGenerator.h" alt="" coords="898,550,1119,577"/>
+<area shape="rect" id="node36" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="912,632,1071,659"/>
+<area shape="rect" id="node38" href="$itkMultiVolumeImageToVectorImageFilter_8h.html" title="itkMultiVolumeImageToVector\lImageFilter.h" alt="" coords="677,543,874,584"/>
+<area shape="rect" id="node37" href="$itkUnaryFunctorLookUpTable_8h.html" title="itkUnaryFunctorLookUpTable.h" alt="" coords="493,707,695,733"/>
+<area shape="rect" id="node41" href="$itkDiffusionModelGenerator_8h.html" title="itkDiffusionModelGenerator.h" alt="" coords="5,244,196,271"/>
+<area shape="rect" id="node42" href="$itkFunctors_8h.html" title="itkFunctors.h" alt="" coords="626,244,725,271"/>
+<area shape="rect" id="node43" href="$itkCylinderModelGenerator_8hxx.html" title="itkCylinderModelGenerator.hxx" alt="" coords="749,244,951,271"/>
+<area shape="rect" id="node46" href="$itkDiffusionTensor_8h.html" title="itkDiffusionTensor.h" alt="" coords="1189,319,1327,345"/>
+<area shape="rect" id="node49" href="$utlRotationMatrixFromVectors_8h.html" title="utlRotationMatrixFromVectors.h" alt="" coords="2169,789,2376,815"/>
+<area shape="rect" id="node48" href="$itkDiffusionTensor_8hxx.html" title="itkDiffusionTensor.hxx" alt="" coords="1181,393,1335,420"/>
+</map>

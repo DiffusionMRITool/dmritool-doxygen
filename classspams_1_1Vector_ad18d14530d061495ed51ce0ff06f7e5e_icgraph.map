@@ -1,0 +1,10 @@
+<map id="spams::Vector::mult" name="spams::Vector::mult">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1SqLoss.html#a3b568727b2e095c10f9d80892901a4c1" title="spams::FISTA::SqLoss\l::compute_new_prim" alt="" coords="203,5,361,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1HingeLoss.html#a620be51ab7edba3c9d15c9ed6c5fa3a2" title="spams::FISTA::HingeLoss\l::compute_new_prim" alt="" coords="193,71,371,112"/>
+<area shape="rect" id="node4" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="215,137,349,163"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#affa4433f45eb4e0c87d3420c56130d16" title="spams::Vector\&lt; int\l \&gt;::mult_elementWise" alt="" coords="207,188,357,229"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1SqLoss.html#a4651187ece5e6148e5d16eb72f3f0153" title="spams::FISTA::SqLoss\l::test_backtracking" alt="" coords="203,253,361,295"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1LogLoss.html#ab92d35d079f7c5a2f2a51ea9b55b734e" title="spams::FISTA::LogLoss\l::var_fenchel" alt="" coords="200,319,364,360"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="419,137,520,163"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="568,137,669,163"/>
+</map>

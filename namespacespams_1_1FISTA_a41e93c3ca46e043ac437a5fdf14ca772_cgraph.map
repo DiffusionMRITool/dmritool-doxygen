@@ -1,0 +1,12 @@
+<map id="spams::FISTA::convert_paths_to_mat" name="spams::FISTA::convert_paths_to_mat">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="440,35,576,62"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#aac5be2c27933a429bc6a4e7879eb52fd" title="returns pB[i] " alt="" coords="221,35,367,62"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#ae714083cdc03f349f927654b1cca8d7d" title="Direct access to _pE. " alt="" coords="221,86,367,113"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#a1d5c3fe449efda28a69d91536f1a4a32" title="returns r[i] " alt="" coords="227,137,361,163"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="212,187,376,214"/>
+<area shape="rect" id="node10" href="$namespacespams.html#ad532d3bc49b745e3ce2e2677689b1769" title="spams::sort" alt="" coords="249,238,339,265"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#ac77e5c0f1817324676a9f9004b5dd109" title="returns v[i] " alt="" coords="226,289,362,315"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="429,137,587,163"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="438,187,578,214"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="424,238,592,265"/>
+</map>

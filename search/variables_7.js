@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['gamma',['gamma',['../structspams_1_1FISTA_1_1ParamFISTA.html#a0fd9b1eb16d523ab355d65edbadcb110',1,'spams::FISTA::ParamFISTA']]],
+  ['gamma1',['gamma1',['../structspams_1_1ParamDictLearn.html#aeca3ab01881e698c95d9dc68b585dfa7',1,'spams::ParamDictLearn']]],
+  ['gamma2',['gamma2',['../structspams_1_1ParamDictLearn.html#a4ec917020dcfbde7c5bba128ecf19350',1,'spams::ParamDictLearn']]],
+  ['gammahalfintegertable',['GammaHalfIntegerTable',['../group__utlMath.html#ga2396e03081d3310cd7c902bc9c996f2a',1,'utl']]],
+  ['gap_5fheuristic',['gap_heuristic',['../namespacespams.html#a28705c849d5faeab82cdee835b7c81f7',1,'spams']]],
+  ['gg_5fir',['gg_ir',['../structspams_1_1GraphStruct.html#af484dcfce0b0ad497960a93e589c2942',1,'spams::GraphStruct']]],
+  ['gg_5fjc',['gg_jc',['../structspams_1_1GraphStruct.html#a116260f96065dc9b70caf0ab6cd6b548',1,'spams::GraphStruct']]],
+  ['global_5fheuristic',['global_heuristic',['../namespacespams.html#ac8488ab7434e603eba5b0de00886d47a',1,'spams']]],
+  ['gradientselec',['GradientsElec',['../namespaceutl.html#ae1a301576656504f555de615852faa24',1,'utl']]],
+  ['graph_5fpath_5fst',['graph_path_st',['../structspams_1_1FISTA_1_1ParamReg.html#ac5d22ed932ec62bc641aca82eea5090c',1,'spams::FISTA::ParamReg']]],
+  ['graph_5fst',['graph_st',['../structspams_1_1FISTA_1_1ParamReg.html#a4910a56b5f034c9de66fef93adbd2a76',1,'spams::FISTA::ParamReg']]],
+  ['groups',['groups',['../structspams_1_1FISTA_1_1ParamFISTA.html#ac557b5928de5cf7507932bc80d9584c3',1,'spams::FISTA::ParamFISTA::groups()'],['../structspams_1_1FISTA_1_1ParamReg.html#a2e8eefc52d8f2b1c03403886289ff91b',1,'spams::FISTA::ParamReg::groups()']]],
+  ['groups_5fir',['groups_ir',['../structspams_1_1TreeStruct.html#a7c967e09f6fd27981c5029e3436b04e4',1,'spams::TreeStruct']]],
+  ['groups_5fjc',['groups_jc',['../structspams_1_1TreeStruct.html#a8b47204ab8f7241b47d5bc9f04f4e79c',1,'spams::TreeStruct']]],
+  ['gv_5fir',['gv_ir',['../structspams_1_1GraphStruct.html#a4a484f7dea08537c229a573695e4c19a',1,'spams::GraphStruct']]],
+  ['gv_5fjc',['gv_jc',['../structspams_1_1GraphStruct.html#a201cd5e72041c0e14c0797beb7b50d96',1,'spams::GraphStruct']]]
+];

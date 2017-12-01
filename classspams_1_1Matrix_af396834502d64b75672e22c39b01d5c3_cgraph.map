@@ -1,0 +1,14 @@
+<map id="spams::Matrix::svdRankOne" name="spams::Matrix::svdRankOne">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="257,5,399,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="461,56,612,83"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a317bea9c13796ff3a15399b34f64341c" title="returns A&#39;x " alt="" coords="261,107,395,133"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="259,157,397,184"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#acfa7b4257219e4b6eb3c47827a001a11" title="perform b = alpha*A&#39;x + beta*b " alt="" coords="243,208,413,235"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a9e9c791ed2afa83e0a0d3e6aa8f372ed" title="normalize the vector " alt="" coords="243,309,413,336"/>
+<area shape="rect" id="node11" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="465,284,609,311"/>
+<area shape="rect" id="node12" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="467,347,606,373"/>
+<area shape="rect" id="node13" href="$classspams_1_1Vector.html#a44ccd08409ac35d87d56da3583efff94" title="put random values in the vector (White Gaussian Noise) " alt="" coords="247,411,409,437"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="682,5,805,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="672,56,815,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="660,107,827,133"/>
+</map>

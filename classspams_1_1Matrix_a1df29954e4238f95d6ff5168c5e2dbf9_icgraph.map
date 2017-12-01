@@ -1,0 +1,31 @@
+<map id="spams::Matrix::mult" name="spams::Matrix::mult">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a17240502f70436419bb12d13b2eaca4d" title="compute x, such that b = Ax, " alt="" coords="215,5,384,47"/>
+<area shape="rect" id="node4" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="233,71,366,98"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#a78d30a0a51db12819307c8ceeab44dfa" title="spams::Matrix::eigLargest\lMagnSym" alt="" coords="213,123,386,164"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#ae7c644a26f48c9909ddfd8aa54f6f86f" title="spams::Matrix::eigLargest\lSymApprox" alt="" coords="213,188,386,229"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1LossCur.html#a8320c9e22441ecf9871a5390418b05b5" title="spams::FISTA::LossCur\l::eval" alt="" coords="217,253,381,295"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1LossCur.html#a2a35824c6e1131722c5cedca89aeccb4" title="spams::FISTA::LossCur\l::grad" alt="" coords="217,319,381,360"/>
+<area shape="rect" id="node12" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="258,385,341,411"/>
+<area shape="rect" id="node13" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="472,461,629,487"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#a0f56c597bd260c0647fbadb6953653ed" title="Compute the mean of the columns. " alt="" coords="217,486,382,513"/>
+<area shape="rect" id="node15" href="$classspams_1_1Matrix.html#a6f39122f004df59e1daf9e1e497eee30" title="merge two dictionaries " alt="" coords="225,537,374,563"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="230,587,369,614"/>
+<area shape="rect" id="node17" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="222,638,377,665"/>
+<area shape="rect" id="node18" href="$classspams_1_1Matrix.html#a03a80d4c081b98569cf2a50d24491243" title="perform C = a*B*A + b*C, possibly transposing A or B. " alt="" coords="210,689,389,715"/>
+<area shape="rect" id="node21" href="$classspams_1_1SpMatrix.html#aebc49339357454ec6fdbfdca6a735161" title="perform C = a*B*A + b*C, possibly transposing A or B. " alt="" coords="202,739,397,766"/>
+<area shape="rect" id="node22" href="$classspams_1_1Matrix.html#a648317b7a80514798a634c051b0754c5" title="compute a Nadaraya Watson estimator " alt="" coords="192,790,407,817"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1TraceNorm.html#a35d8257a24954b984bf5393476fd75e1" title="spams::FISTA::TraceNorm\l::prox" alt="" coords="461,884,641,925"/>
+<area shape="rect" id="node24" href="$classspams_1_1ProdMatrix.html#abc5acecde380dc6dc7066367d32404bb" title="spams::ProdMatrix::\lsetMatrices" alt="" coords="229,892,369,933"/>
+<area shape="rect" id="node25" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="232,958,367,985"/>
+<area shape="rect" id="node26" href="$classspams_1_1Matrix.html#af396834502d64b75672e22c39b01d5c3" title="spams::Matrix::svdRankOne" alt="" coords="205,1009,394,1035"/>
+<area shape="rect" id="node28" href="$classspams_1_1FISTA_1_1SqLossMat.html#a8ca44252b92068abcd291f8b99376a88" title="spams::FISTA::SqLossMat\l::test_backtracking" alt="" coords="209,1060,390,1101"/>
+<area shape="rect" id="node29" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="209,1126,389,1153"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1LossCur.html#a14b74bc991ac68d50d5e87cb110b95a7" title="spams::FISTA::LossCur\l::var_fenchel" alt="" coords="217,1177,381,1219"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="479,13,622,39"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="500,71,601,98"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="695,71,796,98"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1Rank.html#ad5fb80f09c7f972217bf459f6a2aa73e" title="spams::FISTA::Rank\l::eval" alt="" coords="477,123,624,164"/>
+<area shape="rect" id="node19" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ae51bb4e90a5d341cde1b8a9963f9e3d1" title="spams::FISTA::MultiLogLoss\l::eval" alt="" coords="455,649,647,691"/>
+<area shape="rect" id="node20" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="455,715,647,756"/>
+<area shape="rect" id="node27" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="477,1001,624,1043"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="utl::min_element" name="utl::min_element">
+<area shape="rect" id="node2" href="$classutl_1_1NDArrayBase.html#a8baad8fe8802255833e1ebf8cb6b30be" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::ArgAbsoluteMax" alt="" coords="172,27,321,69"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#a4289519fed8c280f3979dec88a62d1e2" title="utl::argmin" alt="" coords="205,93,288,120"/>
+<area shape="rect" id="node8" href="$cblas__template_8h.html#af1e3fb38e77fc5efe8c64031726cd67c" title="interface to cblas_i*amin " alt="" coords="201,151,292,177"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpaceIMOCEstimationFilter.html#a0a2d9db3fe035fc1006dbf39fdab3f09" title="itk::SamplingSchemeQSpace\lIMOCEstimationFilter::IsSatisfied\lSeparationAngles" alt="" coords="369,5,588,61"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArrayBase.html#a9efda26f23be10826fd5d1e746a5665c" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::MinValue" alt="" coords="404,86,553,127"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpaceIMOCEstimationFilter.html#aaed0b5848f45174e6158894daf7a60d9" title="itk::SamplingSchemeQSpace\lIMOCEstimationFilter::Initialization" alt="" coords="636,13,861,54"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingSchemeQSpaceIMOCEstimationFilter.html#aa4bbd028c8f8d8f9ab162337a8d1b050" title="itk::SamplingSchemeQSpace\lIMOCEstimationFilter::Sampling\lSchemeQSpaceIMOCEstimationFilter" alt="" coords="909,5,1152,61"/>
+<area shape="rect" id="node9" href="$classutl_1_1NDArrayBase.html#ab51e5aa9f3ffaf2062dbb821939af47a" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::AbsoluteMinValue" alt="" coords="399,151,558,193"/>
+</map>

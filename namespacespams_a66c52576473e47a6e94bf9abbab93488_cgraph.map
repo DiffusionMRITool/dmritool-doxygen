@@ -1,0 +1,51 @@
+<map id="spams::somp" name="spams::somp">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="865,27,1023,54"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a7e90f45c5446140bd184239867f8cdd3" title="use the data from v, r for _v, _r " alt="" coords="394,230,573,257"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="884,585,1004,611"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="882,382,1006,409"/>
+<area shape="rect" id="node15" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="183,1117,316,1143"/>
+<area shape="rect" id="node48" href="$namespacespams.html#a70671a263b259b8fcae010568dc63009" title="spams::init_omp" alt="" coords="190,433,309,459"/>
+<area shape="rect" id="node49" href="$classspams_1_1Matrix.html#ae27d4c75c7e252ad2f4d8399fc3f2c48" title="Check wether the columns of the matrix are normalized or not. " alt="" coords="155,483,344,510"/>
+<area shape="rect" id="node50" href="$classspams_1_1Matrix.html#ac3c6d6b164cd87d5c2ad2d200a0b5827" title="XtX = A&#39;*A. " alt="" coords="416,483,551,510"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#aa26c7e40729bd061baed9e762bb8df0e" title="Direct access to _r. " alt="" coords="651,27,784,54"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="645,889,790,915"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#ab5d8478d47aaee60b0aa7102fdf246a7" title="Direct access to _v. " alt="" coords="649,78,785,105"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="656,129,779,155"/>
+<area shape="rect" id="node10" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="635,179,799,206"/>
+<area shape="rect" id="node14" href="$namespacespams.html#ad532d3bc49b745e3ce2e2677689b1769" title="spams::sort" alt="" coords="672,230,763,257"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="876,230,1012,257"/>
+<area shape="rect" id="node12" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="874,129,1014,155"/>
+<area shape="rect" id="node13" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="860,179,1028,206"/>
+<area shape="rect" id="node16" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="649,1142,785,1169"/>
+<area shape="rect" id="node17" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="873,711,1015,738"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="646,1766,789,1793"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="869,1690,1019,1717"/>
+<area shape="rect" id="node22" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="1076,1689,1243,1715"/>
+<area shape="rect" id="node23" href="$classspams_1_1Matrix.html#ab1af359e8608b327f3bf0136a91484c8" title="Copy the column i into x. " alt="" coords="403,1699,564,1726"/>
+<area shape="rect" id="node24" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="416,1294,551,1321"/>
+<area shape="rect" id="node26" href="$classspams_1_1Vector.html#ae059b3f6d5547347a9c3b8318f388082" title="A &lt;&#45; A ./ x. " alt="" coords="651,1193,783,1219"/>
+<area shape="rect" id="node28" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="646,1513,789,1539"/>
+<area shape="rect" id="node29" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="643,1867,791,1894"/>
+<area shape="rect" id="node30" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="651,1563,784,1590"/>
+<area shape="rect" id="node31" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="862,838,1026,865"/>
+<area shape="rect" id="node32" href="$classspams_1_1Vector.html#af1c61585a174867d5628d9709992e47a" title="A &lt;&#45; x .^ 2. " alt="" coords="651,1462,784,1489"/>
+<area shape="rect" id="node33" href="$classspams_1_1Vector.html#a1c2a39e500bcdba32db98d75a4bd62ba" title="A &lt;&#45; A &#45; x. " alt="" coords="649,1614,785,1641"/>
+<area shape="rect" id="node34" href="$classspams_1_1Matrix.html#a492f6758d29690510ea1df121d6accba" title="extract the diagonal " alt="" coords="415,990,552,1017"/>
+<area shape="rect" id="node35" href="$classspams_1_1Vector.html#a317bea9c13796ff3a15399b34f64341c" title="returns A&#39;x " alt="" coords="417,1598,550,1625"/>
+<area shape="rect" id="node36" href="$classspams_1_1Vector.html#a9f819e4fd15c21ae3195ed58abd8d99e" title="returns the index of the largest value " alt="" coords="413,1649,553,1675"/>
+<area shape="rect" id="node37" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="414,1041,553,1067"/>
+<area shape="rect" id="node38" href="$classspams_1_1Vector.html#ad18d14530d061495ed51ce0ff06f7e5e" title="A &lt;&#45; x .* y. " alt="" coords="647,1817,787,1843"/>
+<area shape="rect" id="node39" href="$classspams_1_1Matrix.html#acfa7b4257219e4b6eb3c47827a001a11" title="perform b = alpha*A&#39;x + beta*b " alt="" coords="398,1547,569,1574"/>
+<area shape="rect" id="node40" href="$classspams_1_1Matrix.html#a9e23b2d0088f8d88e61f4ddb6be26a45" title="returns the l2 norms ^2 of the columns " alt="" coords="412,1911,555,1952"/>
+<area shape="rect" id="node42" href="$classspams_1_1Matrix.html#a5db114d11b8824292e56ff4e42870359" title="return ||A||_F^2 " alt="" coords="401,534,565,561"/>
+<area shape="rect" id="node43" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="643,686,791,713"/>
+<area shape="rect" id="node44" href="$classspams_1_1Matrix.html#a6e916bc7fc6a26819296018caab8d156" title="return the trace of the matrix " alt="" coords="412,382,555,409"/>
+<area shape="rect" id="node45" href="$classspams_1_1Matrix.html#ab4ed322e9ad1c8ffa500fa81031e68fc" title="XXt = A*A&#39; where A is an upper triangular matrix. " alt="" coords="392,635,575,662"/>
+<area shape="rect" id="node47" href="$classspams_1_1Matrix.html#ac0132cf1a5e79db2857fe8ef47252c18" title="XXt = A*A&#39;. " alt="" coords="416,686,551,713"/>
+<area shape="rect" id="node21" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="1098,1742,1221,1769"/>
+<area shape="rect" id="node20" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="1088,1830,1231,1857"/>
+<area shape="rect" id="node25" href="$classspams_1_1AbstractMatrix.html#ae8c66a610acaa672f255636cb68b3411" title="copy X(:,i) into Xi " alt="" coords="640,1345,795,1387"/>
+<area shape="rect" id="node27" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="645,1294,789,1321"/>
+<area shape="rect" id="node41" href="$classspams_1_1Vector.html#af9760154ac346f4c6d4bde89e4d56b9f" title="returns ||A||_2^2 " alt="" coords="638,1969,797,1995"/>
+<area shape="rect" id="node46" href="$classspams_1_1Matrix.html#a50a23463cea6ec59ab433fbb82d5bfdc" title="spams::Matrix::fillSymmetric" alt="" coords="623,635,812,662"/>
+</map>

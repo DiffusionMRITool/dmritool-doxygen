@@ -1,0 +1,7 @@
+<map id="spams::Vector::softmax" name="spams::Vector::softmax">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="227,5,363,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#aa8a084ede26fa27a868bb26ce3abdfaf" title="replace each value by its exponential " alt="" coords="227,56,363,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a9f819e4fd15c21ae3195ed58abd8d99e" title="returns the index of the largest value " alt="" coords="421,132,561,159"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ac22fda6887e8882e378e871d5985e4e5" title="returns the maximum value " alt="" coords="216,157,373,184"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#add5408c2aecfd998a19e9ec35260aa52" title="returns the sum of the vector " alt="" coords="225,208,365,235"/>
+</map>

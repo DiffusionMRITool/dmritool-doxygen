@@ -1,0 +1,13 @@
+<map id="itk::SamplingSchemeQSpace::CorrectRadiusValues" name="itk::SamplingSchemeQSpace::CorrectRadiusValues">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingSchemeQSpace.html#a22379998dd858e99826482311f5fb4a8" title="itk::SamplingSchemeQSpace\l::CorrectBValues" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingSchemeQSpace.html#a5f4e8f103fb14f98e47f3fe02cbff8d4" title="itk::SamplingSchemeQSpace\l::GroupBValues" alt="" coords="488,5,681,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpace.html#a9f89f9e46e296402bdc2a656463352b1" title="itk::SamplingSchemeQSpace\l::ConvertQVectorToBVector" alt="" coords="729,5,923,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpace.html#adc281fcfa0161fd14f953b109562a592" title="itk::SamplingSchemeQSpace\l::ConvertBVectorToQVector" alt="" coords="971,5,1164,47"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingSchemeQSpace.html#a7ef75f4363881ed2ee87767f2c8f968e" title="itk::SamplingSchemeQSpace\l::Clear" alt="" coords="1212,5,1405,47"/>
+<area shape="rect" id="node7" href="$classitk_1_1SamplingSchemeQSpace.html#a9c649cbfb3f1accc054a7b00f087ba52" title="itk::SamplingSchemeQSpace\l::SetSamplingScheme3D" alt="" coords="1453,5,1647,47"/>
+<area shape="rect" id="node8" href="$classitk_1_1SamplingSchemeQSpace.html#a815a130a32fce2ce43db1a2fa7981580" title="itk::SamplingSchemeQSpace\l::GetBVectorInShell" alt="" coords="1695,5,1888,47"/>
+<area shape="rect" id="node9" href="$classitk_1_1SamplingSchemeQSpace.html#a59743fedbe1ab3886cb38cdf9e9b8c95" title="itk::SamplingSchemeQSpace\l::SetBVector" alt="" coords="1936,5,2129,47"/>
+<area shape="rect" id="node10" href="$classitk_1_1SamplingSchemeQSpace.html#a90b99ee845a2bbea585b88df7cceaf31" title="itk::SamplingSchemeQSpace\l::PrintSelf" alt="" coords="2177,5,2371,47"/>
+<area shape="rect" id="node11" href="$classitk_1_1SamplingSchemeQSpace.html#a10db0e5e3056a394f0e845bdf29f91f6" title="itk::SamplingSchemeQSpace\l::InternalClone" alt="" coords="2419,5,2612,47"/>
+<area shape="rect" id="node12" href="$classitk_1_1SamplingSchemeQSpace.html#a1d51e9c82a8219522331d65c558b8e10" title="itk::SamplingSchemeQSpace\l::SamplingSchemeQSpace" alt="" coords="2660,5,2853,47"/>
+</map>

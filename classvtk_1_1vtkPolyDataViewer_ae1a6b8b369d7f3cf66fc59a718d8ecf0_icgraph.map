@@ -1,0 +1,7 @@
+<map id="vtk::vtkPolyDataViewer::SetCamara" name="vtk::vtkPolyDataViewer::SetCamara">
+<area shape="rect" id="node2" href="$classvtk_1_1vtkPolyDataViewer.html#add76ede5492432123c0bdbb9d86e1616" title="vtk::vtkPolyDataViewer\l::RenderWindowUpdate" alt="" coords="213,73,375,115"/>
+<area shape="rect" id="node6" href="$classvtk_1_1vtkPolyDataViewer.html#a89c98b4e9015f11bd74d3b7c6d5376d6" title="vtk::vtkPolyDataViewer\l::~vtkPolyDataViewer" alt="" coords="423,136,583,177"/>
+<area shape="rect" id="node3" href="$classvtk_1_1vtkPolyDataViewer.html#a5ab71b530cd360d8f6eb23cfd02c8070" title="vtk::vtkPolyDataViewer\l::SavePNG" alt="" coords="423,5,583,47"/>
+<area shape="rect" id="node5" href="$classvtk_1_1vtkPolyDataViewer.html#a8e4441adc86c3aa6e181047a83fc6fca" title="vtk::vtkPolyDataViewer\l::Show" alt="" coords="423,71,583,112"/>
+<area shape="rect" id="node4" href="$classvtk_1_1vtkPolyDataViewer.html#a13deb44bf39ae9014a8b3e10b58d0e88" title="vtk::vtkPolyDataViewer\l::SetBackground" alt="" coords="631,39,791,80"/>
+</map>

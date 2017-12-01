@@ -1,0 +1,14 @@
+<map id="spams::Matrix::scal" name="spams::Matrix::scal">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="220,5,376,32"/>
+<area shape="rect" id="node6" href="$classspams_1_1Matrix.html#a0d84d3a449fc3fae73d62425030cd79d" title="performs soft&#45;thresholding of the vector " alt="" coords="201,56,395,83"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="202,107,394,149"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="229,173,367,200"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="221,224,375,251"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a648317b7a80514798a634c051b0754c5" title="compute a Nadaraya Watson estimator " alt="" coords="191,275,405,301"/>
+<area shape="rect" id="node11" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="227,325,369,352"/>
+<area shape="rect" id="node12" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="208,376,388,403"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#aaaa990843ebcc1b1c4ca6a02ba79fdb6" title="spams::FISTA::MultiLogLoss\l::var_fenchel" alt="" coords="202,427,394,469"/>
+<area shape="rect" id="node3" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="453,5,647,32"/>
+<area shape="rect" id="node4" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="695,5,845,32"/>
+<area shape="rect" id="node5" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="893,5,985,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spams::SpMatrix::convert" name="spams::SpMatrix::convert">
+<area shape="rect" id="node2" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="286,5,386,32"/>
+<area shape="rect" id="node3" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="283,56,389,83"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="267,107,405,133"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="251,157,421,184"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="265,208,407,235"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="225,259,447,285"/>
+<area shape="rect" id="node8" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="289,309,383,336"/>
+<area shape="rect" id="node9" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="269,360,403,387"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="itk::FeaturesFromSPFImageFilter::VerifyInputParameters" name="itk::FeaturesFromSPFImageFilter::VerifyInputParameters">
+<area shape="rect" id="node2" href="$classitk_1_1FeaturesFromSPFImageFilter.html#ab68e314837d106c884ee60c81e5ba52f" title="itk::FeaturesFromSPFImage\lFilter::SetScaleImage" alt="" coords="243,5,429,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1FeaturesFromSPFImageFilter.html#a1d3a12bfb06a00d0964981e876b2d436" title="itk::FeaturesFromSPFImage\lFilter::SetBasisScale" alt="" coords="477,5,664,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1FeaturesFromSPFImageFilter.html#a165ae140746cb334d61c80b447162884" title="itk::FeaturesFromSPFImage\lFilter::ComputeScale" alt="" coords="712,5,899,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1FeaturesFromSPFImageFilter.html#a65e97dad545dddf0354b2ed746ec904d" title="itk::FeaturesFromSPFImage\lFilter::FeaturesFromSPFImageFilter" alt="" coords="947,5,1177,47"/>
+</map>

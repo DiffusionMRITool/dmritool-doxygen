@@ -1,0 +1,22 @@
+<map id="Modules/HelperFunctions/include/utlDMRI.h" name="Modules/HelperFunctions/include/utlDMRI.h">
+<area shape="rect" id="node2" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="1385,319,1460,345"/>
+<area shape="rect" id="node11" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="161,543,284,569"/>
+<area shape="rect" id="node36" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="1431,95,1529,121"/>
+<area shape="rect" id="node3" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="2170,393,2339,420"/>
+<area shape="rect" id="node8" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="2051,468,2162,495"/>
+<area shape="rect" id="node17" href="$utlCore11_8h.html" title="utl functions using c++11 Created &quot;07&#45;02&#45;2016 " alt="" coords="1706,543,1795,569"/>
+<area shape="rect" id="node20" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="911,393,1031,420"/>
+<area shape="rect" id="node34" href="$utlConstants_8h.html" title="Created &quot;09&#45;22&#45;2016. " alt="" coords="559,393,665,420"/>
+<area shape="rect" id="node35" href="$utlCoreMKL_8h.html" title="utlCoreMKL.h" alt="" coords="1461,393,1563,420"/>
+<area shape="rect" id="node18" href="$utlTypeinfo_8h.html" title="Created &quot;07&#45;04&#45;2016. " alt="" coords="562,617,659,644"/>
+<area shape="rect" id="node38" href="$utlBlas_8h.html" title="utlBlas.h" alt="" coords="285,319,358,345"/>
+<area shape="rect" id="node40" href="$utlExpression_8h.html" title="utlExpression.h" alt="" coords="961,319,1073,345"/>
+<area shape="rect" id="node41" href="$utlFunctors_8h.html" title="functors in utl " alt="" coords="1803,244,1901,271"/>
+<area shape="rect" id="node42" href="$utlNDArrayFunctions_8h.html" title="Created &quot;07&#45;03&#45;2016. " alt="" coords="1173,169,1328,196"/>
+<area shape="rect" id="node47" href="$utlVector_8h.html" title="utl::NDArray&lt;T,1&gt; class which uses blas mkl " alt="" coords="1460,169,1545,196"/>
+<area shape="rect" id="node48" href="$utlMatrix_8h.html" title="utl::NDArray&lt;T,2&gt; class which uses blas mkl " alt="" coords="1569,169,1652,196"/>
+<area shape="rect" id="node49" href="$utl4thOrderTensor_8h.html" title="Created &quot;06&#45;21&#45;2016. " alt="" coords="1677,169,1814,196"/>
+<area shape="rect" id="node39" href="$utl__cblas_8h.html" title="utl_cblas.h" alt="" coords="199,393,284,420"/>
+<area shape="rect" id="node43" href="$utlLapack_8h.html" title="utlLapack.h" alt="" coords="2463,244,2553,271"/>
+<area shape="rect" id="node45" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="1207,244,1283,271"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="spams::Matrix::setm" name="spams::Matrix::setm">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#ab6a9bac72f822171bed7b2efe1a4d430" title="extract the rows of a matrix corresponding to a binary mask " alt="" coords="196,31,369,57"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="417,5,556,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="420,68,553,95"/>
+</map>

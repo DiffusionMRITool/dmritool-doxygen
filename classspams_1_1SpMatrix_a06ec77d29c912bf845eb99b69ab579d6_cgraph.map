@@ -1,0 +1,9 @@
+<map id="spams::SpMatrix::norm_0_cols" name="spams::SpMatrix::norm_0_cols">
+<area shape="rect" id="node2" href="$classspams_1_1SpVector.html#a79cb37d38f1fc50be35d7c139009892f" title="returns the length of the vector " alt="" coords="212,5,379,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#ac04083fea4f5609e91e68f4a89e03377" title="reference the column i into vec " alt="" coords="213,56,377,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="220,132,371,159"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpVector.html#ac29fd3b425abd23b09853c4403f1f233" title="clears the vector " alt="" coords="431,43,589,69"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="439,93,581,120"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="449,144,571,171"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="427,195,593,221"/>
+</map>

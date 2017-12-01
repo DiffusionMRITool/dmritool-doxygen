@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classutl_1_1Expr.html" title="utl::Expr\&lt; NDArrayBase\l\&lt; T, Dim \&gt;, T \&gt;" alt="" coords="5,74,169,115"/>
+<area shape="rect" id="node2" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 1 \&gt;" alt="" coords="217,5,389,32"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 2 \&gt;" alt="" coords="217,56,389,83"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 4 \&gt;" alt="" coords="217,107,389,133"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArrayBase.html" title="Base class for utl::NDArray. " alt="" coords="229,179,378,221"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html" title="NDArray&lt;T,1&gt; is a vector class which uses blas mkl. " alt="" coords="464,5,607,32"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html" title="NDArray&lt;T,2&gt; is a row&#45;major matrix. " alt="" coords="464,56,607,83"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArray_3_01T_00_014_01_4.html" title="NDArray&lt;T,4&gt; is a 4th order tensor. " alt="" coords="464,107,607,133"/>
+<area shape="rect" id="node9" href="$classutl_1_1NDArray.html" title="utl::NDArray\&lt; double, 2 \&gt;" alt="" coords="449,157,621,184"/>
+<area shape="rect" id="node10" href="$classutl_1_1NDArray.html" title="utl::NDArray\&lt; ValueType, 1 \&gt;" alt="" coords="437,208,633,235"/>
+<area shape="rect" id="node11" href="$classutl_1_1NDArray.html" title="NDArray is a N&#45;Dimensional array class (row&#45;major, c version) " alt="" coords="456,259,615,285"/>
+</map>

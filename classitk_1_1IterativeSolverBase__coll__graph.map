@@ -1,0 +1,10 @@
+<map id="itk::IterativeSolverBase&lt; TPrecision &gt;" name="itk::IterativeSolverBase&lt; TPrecision &gt;">
+<area shape="rect" id="node2" href="$classitk_1_1SolverBase.html" title="Base class for some optimization solvers using primal&#45;dual updates. " alt="" coords="168,581,365,608"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArray.html" title="utl::NDArray\&lt; ValueType, 1 \&gt;" alt="" coords="169,433,365,460"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArrayBase.html" title="Base class for utl::NDArray. " alt="" coords="5,228,208,269"/>
+<area shape="rect" id="node6" href="$classutl_1_1Expr.html" title="utl::Expr\&lt; NDArrayBase\l\&lt; T, Dim \&gt;, T \&gt;" alt="" coords="66,124,230,165"/>
+<area shape="rect" id="node10" href="$classutl_1_1NDArrayBase.html" title="Base class for utl::NDArray. " alt="" coords="232,228,381,269"/>
+<area shape="rect" id="node7" href="$classutl_1_1Expr.html" title="base class for expression " alt="" coords="79,5,217,47"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="406,235,522,262"/>
+<area shape="rect" id="node9" href="$classutl_1_1NDArray.html" title="NDArray is a N&#45;Dimensional array class (row&#45;major, c version) " alt="" coords="198,332,357,359"/>
+</map>

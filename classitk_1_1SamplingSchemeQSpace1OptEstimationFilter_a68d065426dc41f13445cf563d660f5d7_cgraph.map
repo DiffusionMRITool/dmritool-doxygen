@@ -1,0 +1,9 @@
+<map id="itk::SamplingSchemeQSpace1OptEstimationFilter::Initialization" name="itk::SamplingSchemeQSpace1OptEstimationFilter::Initialization">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html#acd931bc13ef6e40b17959f0577928187" title="itk::SamplingSchemeQSpace1\lOptEstimationFilter::GenerateData" alt="" coords="264,99,487,141"/>
+<area shape="rect" id="node3" href="$group__utlMath.html#ga4fd354ebc8baecff7336e3543ed358d5" title="utl::Abs" alt="" coords="576,5,643,32"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#aa5bd6f0a8693d02a8f10a6b9d466308d" title="utl::argmax2" alt="" coords="562,56,657,83"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#a39c49ac47df1e3441dadbc181982f46e" title="utl::IsLogDebug" alt="" coords="552,107,667,133"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#abb718f8032ac5c09b3ecb07a9f0dafd3" title="utl::ProductUtlMMt" alt="" coords="543,157,675,184"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArrayBase.html#af1085c886d5e10b1c562456e4864cff9" title="utl::NDArrayBase\&lt; T,\l 1 \&gt;::Size" alt="" coords="535,209,684,250"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#aac788a6a884bb032d714beebf503b30f" title="utl::max" alt="" coords="732,56,801,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spams::FISTA::normLINF::fenchel" name="spams::FISTA::normLINF::fenchel">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="233,56,380,83"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="235,107,378,133"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="655,107,778,133"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="227,208,387,235"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="435,56,585,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="645,56,788,83"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="633,5,800,32"/>
+</map>

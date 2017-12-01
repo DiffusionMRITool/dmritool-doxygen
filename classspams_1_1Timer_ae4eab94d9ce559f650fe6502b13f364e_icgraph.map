@@ -1,0 +1,20 @@
+<map id="spams::Timer::stop" name="spams::Timer::stop">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="207,56,363,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1MaxFlow.html#a6aeaeffc64064b75f4e721f61b335dd4" title="spams::MaxFlow::component\l_relabelling" alt="" coords="188,303,383,345"/>
+<area shape="rect" id="node7" href="$classspams_1_1MinCostFlow.html#a939d1f0eb6f80ac2bb7f82da5354197f" title="spams::MinCostFlow\l::compute_min_cost" alt="" coords="212,369,359,410"/>
+<area shape="rect" id="node8" href="$namespacespams_1_1FISTA.html#adb9259a965c2f71247e842fb467736e2" title="spams::FISTA::FISTA\l_Generic" alt="" coords="209,107,362,149"/>
+<area shape="rect" id="node11" href="$classspams_1_1MaxFlow.html#ace6313667ef8b084889b8d4d42c32155" title="spams::MaxFlow::gap\l_relabelling" alt="" coords="210,434,361,475"/>
+<area shape="rect" id="node12" href="$namespacespams_1_1FISTA.html#a5c8636f0dcffe3f97a21181635cc91be" title="spams::FISTA::ISTA\l_Generic" alt="" coords="213,173,358,214"/>
+<area shape="rect" id="node13" href="$namespacespams_1_1FISTA.html#a6994862c705e47d3ad4629a8ecccf817" title="spams::FISTA::LinADMM" alt="" coords="199,5,372,32"/>
+<area shape="rect" id="node14" href="$classspams_1_1MaxFlow.html#a3027faec7693d6a4dc64de1d4ca16a81" title="spams::MaxFlow::perform\l_maxflow_component" alt="" coords="198,499,373,541"/>
+<area shape="rect" id="node15" href="$classspams_1_1MinCostFlow.html#aeb1e66d6c8848892d8ce1ec03ff81d2d" title="spams::MinCostFlow\l::price_refine" alt="" coords="212,565,359,606"/>
+<area shape="rect" id="node16" href="$classspams_1_1MinCostFlow.html#a9846d5fe614ad51c7ab310309d7cee09" title="spams::MinCostFlow\l::price_update" alt="" coords="212,630,359,671"/>
+<area shape="rect" id="node17" href="$classspams_1_1Graph.html#afcabf1bfe12efce030e5388710253bf9" title="spams::Graph::proximal\l_operator" alt="" coords="205,695,366,737"/>
+<area shape="rect" id="node18" href="$namespacespams_1_1FISTA.html#acbfeb57c48e6e1158302f81ab029ccea" title="spams::FISTA::subGradient\lDescent_Generic" alt="" coords="193,238,378,279"/>
+<area shape="rect" id="node19" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="214,761,357,788"/>
+<area shape="rect" id="node3" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="431,28,624,55"/>
+<area shape="rect" id="node4" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="672,155,823,181"/>
+<area shape="rect" id="node5" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="871,155,963,181"/>
+<area shape="rect" id="node9" href="$namespacespams_1_1FISTA.html#a66ada1de8cc9b253fbe1920a48672cd9" title="spams::FISTA::solver_aux1" alt="" coords="435,129,620,156"/>
+<area shape="rect" id="node10" href="$namespacespams_1_1FISTA.html#ab2bb1f19457b72256fe7f55be83b6c52" title="spams::FISTA::solver_aux2" alt="" coords="435,180,620,207"/>
+</map>

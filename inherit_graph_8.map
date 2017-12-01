@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classitk_1_1FiberTractsReader.html" title="itk::FiberTractsReader" alt="" coords="227,5,379,32"/>
+<area shape="rect" id="node3" href="$classitk_1_1FiberTractsWriter.html" title="itk::FiberTractsWriter" alt="" coords="231,56,376,83"/>
+<area shape="rect" id="node4" href="$classitk_1_1MeshFromFiberTractsFilter.html" title="Compute mesh from fibers. " alt="" coords="217,107,389,149"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpaceEstimationFilter.html" title="base class for the filters to estimate the sampling scheme in Q&#45;space " alt="" coords="189,173,417,214"/>
+<area shape="rect" id="node9" href="$classitk_1_1SamplingSchemeQSpaceWriter.html" title="write orientations and b values (single/multiple shells) into text files " alt="" coords="207,238,400,279"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html" title="incremental estimation of single/multi&#45;shell orientations " alt="" coords="473,85,681,141"/>
+<area shape="rect" id="node7" href="$classitk_1_1SamplingSchemeQSpaceIMOCEstimationFilter.html" title="Estimation of single/multi&#45;shell orientations using Iterative Maximum Overlap Construction (IMOC) ..." alt="" coords="465,165,688,221"/>
+<area shape="rect" id="node8" href="$classitk_1_1SamplingSchemeQSpaceIncrementalEstimationFilter.html" title="incremental estimation of single/multi&#45;shell orientations " alt="" coords="480,245,673,301"/>
+</map>

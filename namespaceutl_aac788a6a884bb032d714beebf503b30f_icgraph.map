@@ -1,0 +1,16 @@
+<map id="utl::max" name="utl::max">
+<area shape="rect" id="node2" href="$namespaceutl.html#aa5bd6f0a8693d02a8f10a6b9d466308d" title="utl::argmax2" alt="" coords="169,20,264,47"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#a7c1f94da4c2a2ffb53384e125027dbd0" title="utl::ArgmaxMatrix" alt="" coords="154,71,279,97"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#ac9e0f05add579cac172cb559a4255bbf" title="utl::ArgmaxSymmetricMatrix" alt="" coords="123,121,311,148"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#ac4c3dbc4264f18e1a55d64414db3123d" title="utl::ArgminMatrix" alt="" coords="156,172,277,199"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a0e3003d6882fe5ed559471dc2c820e48" title="utl::ArgminSymmetricMatrix" alt="" coords="125,223,309,249"/>
+<area shape="rect" id="node10" href="$namespaceutl.html#aebc27d5442f6adf7582fe9f3a3cef950" title="utl::NormalizeMax" alt="" coords="153,273,281,300"/>
+<area shape="rect" id="node11" href="$namespaceutl.html#a50b5a80030d7b149e5e8851f9207a5bb" title="utl::NormalizeMinMax" alt="" coords="142,324,291,351"/>
+<area shape="rect" id="node13" href="$namespaceutl.html#a0cd97ff144fe9c29885ed1f9224a8ca6" title="utl::TicToc" alt="" coords="175,375,259,401"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html#acd931bc13ef6e40b17959f0577928187" title="itk::SamplingSchemeQSpace1\lOptEstimationFilter::GenerateData" alt="" coords="359,13,581,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html#a68d065426dc41f13445cf563d660f5d7" title="itk::SamplingSchemeQSpace1\lOptEstimationFilter::Initialization" alt="" coords="629,13,840,54"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html#a86f55079b5b2fedd8438726981dfe20f" title="itk::SamplingSchemeQSpace1\lOptEstimationFilter::SamplingScheme\lQSpace1OptEstimationFilter" alt="" coords="888,5,1132,61"/>
+<area shape="rect" id="node12" href="$group__utlHelperFunctions.html#gac247c6372892f27d1b309fa6f038d60c" title="utl::NormalizeMinMax" alt="" coords="395,324,545,351"/>
+<area shape="rect" id="node14" href="$namespaceutl.html#a6d024520c9d9914c592663558fa123ea" title="Start tic/toc timer for time measurement between code instructions. " alt="" coords="439,375,501,401"/>
+<area shape="rect" id="node15" href="$namespaceutl.html#a72a123b7f796fd4e11341f50859dd574" title="End tic/toc timer and displays elapsed time from last call to tic(). " alt="" coords="437,425,503,452"/>
+</map>

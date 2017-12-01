@@ -1,0 +1,5 @@
+<map id="spams::FISTA::LogLoss::grad" name="spams::FISTA::LogLoss::grad">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="239,5,362,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="231,56,370,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ae7a47651f6c2a53283e89dbe0787e387" title="make a sparse copy " alt="" coords="217,107,384,133"/>
+</map>

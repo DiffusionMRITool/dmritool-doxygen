@@ -1,0 +1,14 @@
+<map id="spams::SpVector::r" name="spams::SpVector::r">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1GraphLasso.html#ac58cd95854d69883bbdff70847d24f44" title="spams::FISTA::GraphLasso\l::eval_weighted" alt="" coords="193,5,378,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a44a22448b4498b22ff53c95a435248c7" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="208,71,363,98"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#aa9c4ff4992faa04648206f402b8029a2" title="spams::FISTA::update\l_multipliers_ADMM" alt="" coords="208,123,363,164"/>
+<area shape="rect" id="node11" href="$namespacespams_1_1FISTA.html#a8549d99d1488a9931d71fea7f2d75ab0" title="spams::FISTA::update\l_multipliers_LinADMM" alt="" coords="208,253,363,295"/>
+<area shape="rect" id="node13" href="$namespacespams_1_1FISTA.html#a04a516d2ee8b8e59de03c15f1c30f489" title="spams::FISTA::update\l_multipliers_weighted_ADMM" alt="" coords="188,188,383,229"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="448,46,587,73"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="440,97,595,123"/>
+<area shape="rect" id="node7" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="439,195,595,222"/>
+<area shape="rect" id="node8" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="652,222,845,249"/>
+<area shape="rect" id="node9" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="893,222,1044,249"/>
+<area shape="rect" id="node10" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="1092,222,1184,249"/>
+<area shape="rect" id="node12" href="$namespacespams_1_1FISTA.html#a6994862c705e47d3ad4629a8ecccf817" title="spams::FISTA::LinADMM" alt="" coords="431,254,604,281"/>
+</map>

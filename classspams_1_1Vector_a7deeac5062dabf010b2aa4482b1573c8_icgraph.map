@@ -1,0 +1,11 @@
+<map id="spams::Vector::fmin" name="spams::Vector::fmin">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a41fd5b09137e038d24542108576b8eed" title="returns the minimum magnitude " alt="" coords="209,7,366,33"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="193,58,381,99"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1FusedLasso.html#a7cb5da5b7aa175bcc492817f5d54152c" title="spams::FISTA::FusedLasso\l::prox" alt="" coords="433,29,620,70"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="429,95,624,121"/>
+<area shape="rect" id="node6" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="691,44,863,71"/>
+<area shape="rect" id="node7" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="949,19,1092,45"/>
+<area shape="rect" id="node8" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="931,81,1111,108"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="672,146,883,187"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="681,212,874,239"/>
+</map>

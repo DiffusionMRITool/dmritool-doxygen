@@ -1,0 +1,7 @@
+<map id="spams::Data::getData" name="spams::Data::getData">
+<area shape="rect" id="node2" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="204,34,376,61"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="443,9,585,36"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="424,72,604,98"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#a2aa45a9c0f1a817c1f8dbff8708c1757" title="Return the value X(i) (1D indexing) " alt="" coords="206,136,374,162"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#aa87069e607062a808538e78cc58d4508" title="returns the number of columns " alt="" coords="221,186,359,213"/>
+</map>

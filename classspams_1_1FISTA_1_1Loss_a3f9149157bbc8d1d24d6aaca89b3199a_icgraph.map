@@ -1,0 +1,9 @@
+<map id="spams::FISTA::Loss::grad" name="spams::FISTA::Loss::grad">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#adb9259a965c2f71247e842fb467736e2" title="spams::FISTA::FISTA\l_Generic" alt="" coords="212,11,365,52"/>
+<area shape="rect" id="node7" href="$namespacespams_1_1FISTA.html#a5c8636f0dcffe3f97a21181635cc91be" title="spams::FISTA::ISTA\l_Generic" alt="" coords="216,76,361,117"/>
+<area shape="rect" id="node8" href="$namespacespams_1_1FISTA.html#acbfeb57c48e6e1158302f81ab029ccea" title="spams::FISTA::subGradient\lDescent_Generic" alt="" coords="196,141,381,183"/>
+<area shape="rect" id="node3" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="663,83,813,110"/>
+<area shape="rect" id="node5" href="$namespacespams_1_1FISTA.html#a66ada1de8cc9b253fbe1920a48672cd9" title="spams::FISTA::solver_aux1" alt="" coords="429,33,615,59"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#ab2bb1f19457b72256fe7f55be83b6c52" title="spams::FISTA::solver_aux2" alt="" coords="429,83,615,110"/>
+<area shape="rect" id="node4" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="861,83,953,110"/>
+</map>

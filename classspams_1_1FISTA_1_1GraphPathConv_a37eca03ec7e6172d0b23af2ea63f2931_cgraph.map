@@ -1,0 +1,9 @@
+<map id="spams::FISTA::GraphPathConv::prox" name="spams::FISTA::GraphPathConv::prox">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="270,31,413,57"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="269,81,414,108"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="261,132,421,159"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="690,5,813,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="469,56,620,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="680,56,823,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="668,107,835,133"/>
+</map>

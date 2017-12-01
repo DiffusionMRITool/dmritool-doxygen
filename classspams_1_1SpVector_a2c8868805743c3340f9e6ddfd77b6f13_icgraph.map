@@ -1,0 +1,10 @@
+<map id="spams::SpVector::v" name="spams::SpVector::v">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#a44a22448b4498b22ff53c95a435248c7" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="212,52,367,79"/>
+<area shape="rect" id="node5" href="$namespacespams_1_1FISTA.html#a04a516d2ee8b8e59de03c15f1c30f489" title="spams::FISTA::update\l_multipliers_weighted_ADMM" alt="" coords="192,103,387,145"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="443,5,582,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="435,56,590,83"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="435,111,591,137"/>
+<area shape="rect" id="node7" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="639,111,832,137"/>
+<area shape="rect" id="node8" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="880,111,1031,137"/>
+<area shape="rect" id="node9" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="1079,111,1171,137"/>
+</map>

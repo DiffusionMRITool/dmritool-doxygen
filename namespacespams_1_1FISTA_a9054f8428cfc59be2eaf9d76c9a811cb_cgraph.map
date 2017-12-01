@@ -1,0 +1,27 @@
+<map id="spams::FISTA::dualityGraph" name="spams::FISTA::dualityGraph">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a8e3e1d13ef076a7e87bd99dbdd22b97d" title="spams::FISTA::duality_gap" alt="" coords="243,274,425,301"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1Regularizer.html#a5eb238ff0c8e51e4b379e1ccadbb6fe8" title="spams::FISTA::Regularizer\l::eval" alt="" coords="475,5,656,47"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1GraphLasso.html#a77fa13ced3261d61a16bc134f183bd14" title="spams::FISTA::GraphLasso\l::eval" alt="" coords="241,545,427,587"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1GraphLasso.html#a03e8d6983869761b7c87edc033da94ee" title="spams::FISTA::GraphLasso\l::init" alt="" coords="241,611,427,652"/>
+<area shape="rect" id="node24" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="260,677,408,703"/>
+<area shape="rect" id="node26" href="$classspams_1_1FISTA_1_1Regularizer.html#ab713ff6f55b62b16ed8ac4b553d0f5fc" title="spams::FISTA::Regularizer\l::reset" alt="" coords="243,728,425,769"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1Loss.html#a24ba6805b416d2e5bb8d05600132f6d3" title="spams::FISTA::Loss\l::eval" alt="" coords="494,71,637,112"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1Loss.html#aec3bfd83464032687160b94bbc7b1d09" title="spams::FISTA::Loss\l::fenchel" alt="" coords="494,136,637,177"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1Regularizer.html#af4be8ede2d5f9c819cce7f07892d990d" title="spams::FISTA::Regularizer\l::fenchel" alt="" coords="475,201,656,243"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1Loss.html#ac1912abbfcc0aeec914359690f25737a" title="spams::FISTA::Loss\l::is_fenchel" alt="" coords="494,267,637,308"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1Regularizer.html#aa770358f59b815597b3ef1bf52f75cd0" title="spams::FISTA::Regularizer\l::is_fenchel" alt="" coords="475,332,656,373"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1Regularizer.html#ac72841776f5be4c3b9515937d93fb901" title="spams::FISTA::Regularizer\l::is_intercept" alt="" coords="475,397,656,439"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1Loss.html#a710a55909be587a4583288f23f0656db" title="spams::FISTA::Loss\l::var_fenchel" alt="" coords="494,463,637,504"/>
+<area shape="rect" id="node12" href="$classspams_1_1Graph.html#a93c53a10a9a1e91854bdb35301bc19f8" title="spams::Graph::restore\l_capacities" alt="" coords="489,528,641,569"/>
+<area shape="rect" id="node13" href="$classspams_1_1Graph.html#a8f110340cd54510c199c1b194328804a" title="spams::Graph::norm" alt="" coords="495,594,636,621"/>
+<area shape="rect" id="node21" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="916,691,1061,718"/>
+<area shape="rect" id="node14" href="$classspams_1_1Tree__Seq.html#af958e1266fbd6dec713a446f89ae3949" title="spams::Tree_Seq::dual\l_norm_inf" alt="" coords="704,532,861,573"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="915,337,1062,363"/>
+<area shape="rect" id="node16" href="$classspams_1_1List.html#a0437bd25bd3081300aced61cbdb96d64" title="spams::List::begin" alt="" coords="924,387,1053,414"/>
+<area shape="rect" id="node17" href="$classspams_1_1List.html#a7e306e462f940032408c352810c34dcb" title="spams::List::end" alt="" coords="929,438,1048,465"/>
+<area shape="rect" id="node18" href="$classspams_1_1List.html#af8a2172df5a66b15c793d28f88fa33e2" title="spams::List::front" alt="" coords="927,489,1051,515"/>
+<area shape="rect" id="node19" href="$namespacespams.html#ada7ab86b735253d0d0a35c26f0a77191" title="spams::project_tree_l1" alt="" coords="911,539,1066,566"/>
+<area shape="rect" id="node20" href="$classspams_1_1List.html#a75b7789c0d6cc3abd80a9ee565d2e736" title="spams::List::push_front" alt="" coords="909,590,1068,617"/>
+<area shape="rect" id="node22" href="$classspams_1_1Timer.html#ab5f627a4f57926cec72e6da6825fc659" title="reset the timer " alt="" coords="919,641,1058,667"/>
+<area shape="rect" id="node25" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="494,695,637,722"/>
+</map>

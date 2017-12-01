@@ -1,0 +1,38 @@
+<map id="spams::Vector::thrsPos" name="spams::Vector::thrsPos">
+<area shape="rect" id="node2" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="973,299,1145,325"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="1231,197,1373,224"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="1212,299,1392,325"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1Lasso.html#a16821f57184588c61f013c19b0f80bdd" title="spams::FISTA::Lasso\l::fenchel" alt="" coords="242,434,393,475"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1Ridge.html#a993b6fc2a1692ed0e59673601fc69acb" title="spams::FISTA::Ridge\l::fenchel" alt="" coords="243,499,392,541"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1normL2.html#a97d6f1d47cacdf7f8b8dd9f5e4080976" title="TODO add subgradient. " alt="" coords="238,565,397,606"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1normLINF.html#a217e77deab4f2ac79927561be4c48a12" title="TODO add subgradient. " alt="" coords="231,630,404,671"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1GraphLasso.html#a30c7d05fe9d4d362f468a94b77eee1d7" title="spams::FISTA::GraphLasso\l::fenchel" alt="" coords="225,695,410,737"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1TreeLasso.html#af65f6ce67a29b594767dba1cc2e76e45" title="spams::FISTA::TreeLasso\l::fenchel" alt="" coords="229,761,405,802"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1GraphPathConv.html#a3bfe04f9b096704ffa315f66ea3b4017" title="spams::FISTA::GraphPathConv\l::fenchel" alt="" coords="213,826,421,867"/>
+<area shape="rect" id="node12" href="$classspams_1_1Vector.html#aea0ce32e2ba67021f7ebde55681746fa" title="spams::Vector::l1l2project" alt="" coords="479,164,653,191"/>
+<area shape="rect" id="node13" href="$classspams_1_1Vector.html#a2a6f189c0d7d99f1f6221166fdc159ce" title="returns true if the returned vector is null " alt="" coords="717,240,899,267"/>
+<area shape="rect" id="node14" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="711,156,905,183"/>
+<area shape="rect" id="node17" href="$classspams_1_1Vector.html#a62eab6ce32dbae8be23d7f7a7302c6f8" title="spams::Vector::l1project" alt="" coords="235,129,399,156"/>
+<area shape="rect" id="node18" href="$classspams_1_1FISTA_1_1normLINF.html#a12d6a570150c66c0ff148d5e260f42d8" title="spams::FISTA::normLINF\l::prox" alt="" coords="479,215,653,257"/>
+<area shape="rect" id="node19" href="$classspams_1_1FISTA_1_1Lasso.html#a846de4de0538a95af879e1d6a87695e0" title="spams::FISTA::Lasso\l::prox" alt="" coords="242,891,393,933"/>
+<area shape="rect" id="node20" href="$classspams_1_1FISTA_1_1Lzero.html#a40653d0bd92ae1af270be3d2fab5b3e6" title="spams::FISTA::Lzero\l::prox" alt="" coords="244,957,391,998"/>
+<area shape="rect" id="node21" href="$classspams_1_1FISTA_1_1Ridge.html#a28eadb730d149d1c060297250f41ac49" title="spams::FISTA::Ridge\l::prox" alt="" coords="243,1022,392,1063"/>
+<area shape="rect" id="node22" href="$classspams_1_1FISTA_1_1normL2.html#a7e2c8c462da6e4635b51e0f8f82a0276" title="spams::FISTA::normL2\l::prox" alt="" coords="238,1087,397,1129"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1GraphLasso.html#ad537882ac97e2d1dfd1f81094b2cdfe4" title="spams::FISTA::GraphLasso\l::prox" alt="" coords="225,1153,410,1194"/>
+<area shape="rect" id="node24" href="$classspams_1_1FISTA_1_1TreeLasso.html#a8834c4f388b3e46beda059cb91957b65" title="spams::FISTA::TreeLasso\l::prox" alt="" coords="229,1218,405,1259"/>
+<area shape="rect" id="node25" href="$classspams_1_1FISTA_1_1TreeLzero.html#a477c7f3b4998978232e554eb8a72e073" title="spams::FISTA::TreeLzero\l::prox" alt="" coords="231,1283,404,1325"/>
+<area shape="rect" id="node26" href="$classspams_1_1FISTA_1_1GraphPathL0.html#ad7b850f7845262aafd15e6d529f3a8f7" title="spams::FISTA::GraphPathL0\l::prox" alt="" coords="222,1349,413,1390"/>
+<area shape="rect" id="node27" href="$classspams_1_1FISTA_1_1GraphPathConv.html#a37eca03ec7e6172d0b23af2ea63f2931" title="spams::FISTA::GraphPathConv\l::prox" alt="" coords="213,1414,421,1455"/>
+<area shape="rect" id="node28" href="$classspams_1_1Matrix.html#a2ef7c6e2a719146f5f94967c11606731" title="spams::Matrix::singularValues" alt="" coords="218,1480,417,1507"/>
+<area shape="rect" id="node31" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="250,1537,385,1564"/>
+<area shape="rect" id="node33" href="$classspams_1_1Matrix.html#a4230a07f9c99b197431f41faf3936da1" title="perform soft&#45;thresholding of the matrix, with the threshold nu " alt="" coords="238,1672,397,1699"/>
+<area shape="rect" id="node15" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="953,81,1164,122"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="962,147,1155,173"/>
+<area shape="rect" id="node29" href="$classspams_1_1FISTA_1_1TraceNorm.html#a88c9d5670e9887ac776952d63204716f" title="spams::FISTA::TraceNorm\l::eval" alt="" coords="476,1469,656,1510"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="476,1403,656,1445"/>
+<area shape="rect" id="node32" href="$classspams_1_1FISTA_1_1TraceNorm.html#a35d8257a24954b984bf5393476fd75e1" title="spams::FISTA::TraceNorm\l::prox" alt="" coords="476,1534,656,1575"/>
+<area shape="rect" id="node34" href="$classspams_1_1FISTA_1_1MixedL1L2.html#afe41993f73168dccdefa5e8b6e5f69a5" title="spams::FISTA::MixedL1L2\l::fenchel" alt="" coords="477,1665,655,1706"/>
+<area shape="rect" id="node35" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#a4dc23cabf20321563d18855284f62a1a" title="spams::FISTA::MixedL1LINF\l::fenchel" alt="" coords="469,1730,663,1771"/>
+<area shape="rect" id="node36" href="$classspams_1_1FISTA_1_1MixedL1L2.html#a9b5a5a545aa9ba3d36d045b5ef59ca07" title="spams::FISTA::MixedL1L2\l::prox" alt="" coords="477,1795,655,1837"/>
+<area shape="rect" id="node37" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#a51a25751844b4593b529ea8e8dc821de" title="spams::FISTA::MixedL1LINF\l::prox" alt="" coords="469,1599,663,1641"/>
+</map>

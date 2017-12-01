@@ -1,0 +1,6 @@
+<map id="spams::Matrix::norm_inf_2_col" name="spams::Matrix::norm_inf_2_col">
+<area shape="rect" id="node2" href="$namespaceutl.html#a66a032acbe4a23130388238feed472df" title="Return the maximum between a and b. " alt="" coords="235,5,305,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="198,56,342,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="196,107,344,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="392,107,535,133"/>
+</map>

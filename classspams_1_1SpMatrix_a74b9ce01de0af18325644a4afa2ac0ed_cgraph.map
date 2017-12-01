@@ -1,0 +1,7 @@
+<map id="spams::SpMatrix::copy" name="spams::SpMatrix::copy">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="211,81,375,108"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="428,5,585,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="439,56,575,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="437,107,577,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="423,157,591,184"/>
+</map>

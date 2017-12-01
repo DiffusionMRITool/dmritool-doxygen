@@ -1,0 +1,51 @@
+<map id="itk::IsImageEmpty" name="itk::IsImageEmpty">
+<area shape="rect" id="node2" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#a4d184521b92fd6fcacc3ebc44466406c" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lBeforeThreadedGenerateData" alt="" coords="215,5,409,61"/>
+<area shape="rect" id="node6" href="$classitk_1_1DWIReader.html#a909aae22b05922702a9eab0f986e81e8" title="itk::DWIReader::CorrectDWI" alt="" coords="1123,136,1313,163"/>
+<area shape="rect" id="node7" href="$classitk_1_1DWIReader.html#aa656b74cc9168ef23a7f465e5e19965a" title="itk::DWIReader::ReadFrom\lConfigurationFile" alt="" coords="1387,385,1569,426"/>
+<area shape="rect" id="node10" href="$namespaceitk.html#a5818a2a07cb820750b6a654c837e0f31" title="itk::FunctorFromStringOPImage" alt="" coords="209,187,415,213"/>
+<area shape="rect" id="node11" href="$classitk_1_1MeshFromTensorImageFilter.html#a8a0921870e926f22146632e41d7dc2ba" title="itk::MeshFromTensorImage\lFilter::GenerateData" alt="" coords="221,238,403,279"/>
+<area shape="rect" id="node15" href="$namespaceutl.html#a559e8d6e395d5e313b4115ad465262be" title="utl::InitializeSHTripleIntegration\lTable" alt="" coords="210,303,414,345"/>
+<area shape="rect" id="node18" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#a20410fb75263824650ab4c85b7fc498a" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lIsAdaptiveScale" alt="" coords="228,369,396,425"/>
+<area shape="rect" id="node19" href="$classitk_1_1MaskedImageToImageFilter.html#a5f79950001656976f54ad7d1caff4a2b" title="itk::MaskedImageToImageFilter\l\&lt; TInputImage, TOutputImage\l \&gt;::IsMaskUsed" alt="" coords="209,449,415,505"/>
+<area shape="rect" id="node20" href="$DWISimulator_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="287,529,337,556"/>
+<area shape="rect" id="node21" href="$namespaceitk.html#a41a121b838f19431309cc6c956e1f535" title="itk::MultiVariableVector\lOPImage" alt="" coords="233,581,391,622"/>
+<area shape="rect" id="node22" href="$classitk_1_1MaskedImageToImageFilter.html#a7188f69e09124e2925be08efde9f18ce" title="itk::MaskedImageToImageFilter\l::PrintSelf" alt="" coords="209,698,415,739"/>
+<area shape="rect" id="node26" href="$classitk_1_1FeaturesFromSPFImageFilter.html#a30648bc76c0dae795a0bdd2734bc3546" title="itk::FeaturesFromSPFImage\lFilter::PrintSelf" alt="" coords="219,763,405,805"/>
+<area shape="rect" id="node30" href="$classitk_1_1DWIReader.html#aedf23dcb8f75d331472ef8cfefb9083a" title="itk::DWIReader::PrintSelf" alt="" coords="227,85,397,112"/>
+<area shape="rect" id="node33" href="$classitk_1_1ScalarMapFromSPFImageFilter.html#a440aeed7f645493733046806d42966d5" title="itk::ScalarMapFromSPFImage\lFilter::ThreadedGenerateData" alt="" coords="213,829,411,870"/>
+<area shape="rect" id="node37" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a1fefb4f6fb921817483a157c4a9dd87e" title="itk::SphericalPolarFourier\lImageFilter::ThreadedGenerateData" alt="" coords="197,894,427,935"/>
+<area shape="rect" id="node40" href="$namespaceitk.html#af59bd5bbaac906cefa3e15e1db7a2c0a" title="itk::UnaryVectorOPImage" alt="" coords="226,960,398,987"/>
+<area shape="rect" id="node41" href="$classitk_1_1DiffusionModelEstimationImageFilter.html#a2aaa05c9b3ce2d153d35115a9a457480" title="itk::DiffusionModelEstimation\lImageFilter::VerifyInputParameters" alt="" coords="199,1011,425,1053"/>
+<area shape="rect" id="node44" href="$classitk_1_1MaskedImageToImageFilter.html#ac04b753c584ac5574f8e4bf57d819a82" title="itk::MaskedImageToImageFilter\l\&lt; TInputImage, TOutputImage\l \&gt;::VerifyInputParameters" alt="" coords="209,1077,415,1133"/>
+<area shape="rect" id="node45" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#abc30517f7390896ad9484867545a4d7d" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lVerifyInputParameters" alt="" coords="228,1157,396,1213"/>
+<area shape="rect" id="node47" href="$classitk_1_1MeshFromTensorImageFilter.html#aa2001dc847620c9ab713a3490d4c1be7" title="itk::MeshFromTensorImage\lFilter::VerifyInputParameters" alt="" coords="217,1238,407,1279"/>
+<area shape="rect" id="node48" href="$classitk_1_1DWIWriter.html#af4ccb122278c7775408e9ecf40d48abe" title="itk::DWIWriter::WriteToConfigurationFile" alt="" coords="183,1304,441,1331"/>
+<area shape="rect" id="node3" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#a4fd09faea055f65aec705583ac7e6c31" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lInternalClone" alt="" coords="539,5,707,61"/>
+<area shape="rect" id="node4" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#a0dc1f31d0eb6c5b0eb640f1218baa79c" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lSetBasisScale" alt="" coords="843,5,1011,61"/>
+<area shape="rect" id="node5" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#a0eb0e0bbfe954f960b728c4aad9c6cdb" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lComputeScale" alt="" coords="1134,5,1302,61"/>
+<area shape="rect" id="node8" href="$classitk_1_1DWIReader.html#aa0168bf1ac51c7b4b3e908eb8f42fd38" title="itk::DWIReader::Determine\lIsInput4DImage" alt="" coords="1617,385,1799,426"/>
+<area shape="rect" id="node9" href="$classitk_1_1DWIReader.html#a94dd9d97a1fc3abfaf4b27a91a66d589" title="itk::DWIReader::DWIReader" alt="" coords="1847,392,2037,419"/>
+<area shape="rect" id="node12" href="$classitk_1_1MeshFromTensorImageFilter.html#a4b6cc13076a0c4c5838069612683bed2" title="itk::MeshFromTensorImage\lFilter::GetScalarCodeFromTensor" alt="" coords="514,238,733,279"/>
+<area shape="rect" id="node13" href="$classitk_1_1MeshFromTensorImageFilter.html#ae04477ab6543387da588686edeba848b" title="itk::MeshFromTensorImage\lFilter::SetGlyphResolution" alt="" coords="836,238,1019,279"/>
+<area shape="rect" id="node14" href="$classitk_1_1MeshFromTensorImageFilter.html#a680ead3da68297c198efc7039e2f6812" title="itk::MeshFromTensorImage\lFilter::SetGlyphShapeToSuperquadric" alt="" coords="1097,238,1339,279"/>
+<area shape="rect" id="node16" href="$classitk_1_1SHCoefficientsPowerImageFilter.html#aac52d36adb264d8e986cfa87df4c72fb" title="itk::SHCoefficientsPower\lImageFilter::BeforeThreadedGenerateData" alt="" coords="489,303,757,345"/>
+<area shape="rect" id="node17" href="$classitk_1_1SphericalHarmonicsGenerator.html#a90c8bf0c2072361677061a58851973f4" title="itk::SphericalHarmonicsGenerator\l::RealTripleIntegration" alt="" coords="514,369,733,410"/>
+<area shape="rect" id="node23" href="$classitk_1_1MaskedImageToImageFilter.html#a67e2077d3f023129fee514b0f53ead46" title="itk::MaskedImageToImageFilter\l::InitializeThreadedLibraries" alt="" coords="520,698,727,739"/>
+<area shape="rect" id="node24" href="$classitk_1_1MaskedImageToImageFilter.html#a82ca0194d78419fc817a9ea3bc1903fa" title="itk::MaskedImageToImageFilter\l::ThreadIDToString" alt="" coords="824,698,1031,739"/>
+<area shape="rect" id="node25" href="$classitk_1_1MaskedImageToImageFilter.html#a43f4555d0fb0da1648c57d18b80d400a" title="itk::MaskedImageToImageFilter\l::WriteLogger" alt="" coords="1115,698,1321,739"/>
+<area shape="rect" id="node27" href="$classitk_1_1FeaturesFromSPFImageFilter.html#a4e8a0d59d5410c94fdc4fbf993c54fba" title="itk::FeaturesFromSPFImage\lFilter::SetSPFIEstimator" alt="" coords="530,763,717,805"/>
+<area shape="rect" id="node28" href="$classitk_1_1FeaturesFromSPFImageFilter.html#aaa6177468a008efab2443ca34bd52102" title="itk::FeaturesFromSPFImage\lFilter::BeforeThreadedGenerateData" alt="" coords="811,763,1043,805"/>
+<area shape="rect" id="node29" href="$classitk_1_1FeaturesFromSPFImageFilter.html#ad0035df7e2461cf88a8c6d2c58f1c3ce" title="itk::FeaturesFromSPFImage\lFilter::InternalClone" alt="" coords="1125,763,1311,805"/>
+<area shape="rect" id="node31" href="$classitk_1_1DWIReader.html#ab7703372b7f203cfb217befc210e4f92" title="itk::DWIReader::GenerateData" alt="" coords="522,85,725,112"/>
+<area shape="rect" id="node32" href="$classitk_1_1DWIReader.html#a577accd756b635fbf82a6cd5669e1b35" title="itk::DWIReader::NormalizeDWI" alt="" coords="824,85,1031,112"/>
+<area shape="rect" id="node34" href="$classitk_1_1ScalarMapFromSPFImageFilter.html#a9de989fe4dedc974b3d00c23d3889818" title="itk::ScalarMapFromSPFImage\lFilter::BeforeThreadedGenerateData" alt="" coords="507,829,739,870"/>
+<area shape="rect" id="node35" href="$classitk_1_1ScalarMapFromSPFImageFilter.html#aea60dbf3fa786457328eda40a9968476" title="itk::ScalarMapFromSPFImage\lFilter::InternalClone" alt="" coords="828,829,1027,870"/>
+<area shape="rect" id="node36" href="$classitk_1_1ScalarMapFromSPFImageFilter.html#ad86cce769ca6362aed2724a00ca3467b" title="itk::ScalarMapFromSPFImage\lFilter::GenerateOutputInformation" alt="" coords="1110,829,1326,870"/>
+<area shape="rect" id="node38" href="$classitk_1_1SphericalPolarFourierImageFilter.html#ab395cb9f0ae41ff713909cca4906cb47" title="itk::SphericalPolarFourier\lImageFilter::BeforeThreadedGenerateData" alt="" coords="489,898,757,939"/>
+<area shape="rect" id="node39" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a96f0b2c24cb178c869de638ef00a968e" title="itk::SphericalPolarFourier\lImageFilter::ComputeRegularization\lWeight" alt="" coords="812,895,1043,951"/>
+<area shape="rect" id="node42" href="$classitk_1_1DiffusionModelEstimationImageFilter.html#a06415b5c926aa0d5071871fbf88e4e6c" title="itk::DiffusionModelEstimation\lImageFilter::InternalClone" alt="" coords="527,1011,720,1053"/>
+<area shape="rect" id="node43" href="$classitk_1_1DiffusionModelEstimationImageFilter.html#ab003f8357fdedf68657015940e31ea04" title="itk::DiffusionModelEstimation\lImageFilter::DiffusionModelEstimation\lImageFilter" alt="" coords="805,1004,1049,1060"/>
+<area shape="rect" id="node46" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html#ad81a23bb3dbceac27c1384c1c114c55e" title="itk::SphericalPolarFourier\lEstimationImageFilter::\lSphericalPolarFourierEstimation\lImageFilter" alt="" coords="519,1150,727,1221"/>
+<area shape="rect" id="node49" href="$classitk_1_1DWIWriter.html#a182ebc4d88b714a64c24bb403584412a" title="itk::DWIWriter::GetInput" alt="" coords="541,1304,705,1331"/>
+<area shape="rect" id="node50" href="$classitk_1_1DWIWriter.html#a1568ebea912ec643e0dd7ed6cd358811" title="itk::DWIWriter::SetInput" alt="" coords="846,1304,1009,1331"/>
+</map>

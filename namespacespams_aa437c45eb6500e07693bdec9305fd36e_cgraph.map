@@ -1,0 +1,11 @@
+<map id="spams::coreIST" name="spams::coreIST">
+<area shape="rect" id="node2" href="$namespacespams.html#a6e0c56710b83e6ea3b2a757f8d202466" title="template version of the fabs function " alt="" coords="207,5,298,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1AbstractMatrix.html#aa647e2dca8b7db404470e4e70a29011d" title="compute X(:,i)&lt;&#45; X(:,i)+a*col; " alt="" coords="175,57,330,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="179,123,326,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="172,173,333,200"/>
+<area shape="rect" id="node7" href="$classspams_1_1AbstractMatrix.html#a3dc5173bfe9a0f75f0a7a841063acfca" title="spams::AbstractMatrix::n" alt="" coords="168,224,337,251"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="180,275,325,301"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a1de2a34ea3126e44d38a459e169385e9" title="interface to v*Add " alt="" coords="215,325,290,352"/>
+<area shape="rect" id="node10" href="$namespaceutl.html#a724a5507efe03ab509a1b04c04fb4b59" title="interface to v*Sub " alt="" coords="215,376,290,403"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="385,173,529,200"/>
+</map>

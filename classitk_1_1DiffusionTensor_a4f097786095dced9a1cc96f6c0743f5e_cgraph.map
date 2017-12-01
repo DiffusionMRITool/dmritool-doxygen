@@ -1,0 +1,9 @@
+<map id="itk::DiffusionTensor::GetEigenValuesVectorsAnalytic" name="itk::DiffusionTensor::GetEigenValuesVectorsAnalytic">
+<area shape="rect" id="node2" href="$group__utlMath.html#ga793e076c420044a456bd2a5499008205" title="utl::PolynomialRoot" alt="" coords="269,5,405,32"/>
+<area shape="rect" id="node3" href="$classitk_1_1DiffusionTensor.html#a85cbd8f5236948eed97fc8ff2f8e7654" title="itk::DiffusionTensor\l::SetEigenValues" alt="" coords="269,57,405,98"/>
+<area shape="rect" id="node4" href="$classitk_1_1DiffusionTensor.html#a826c36c16f7fe8b178996a172371ec92" title="itk::DiffusionTensor\l::SetEigenVectors" alt="" coords="453,57,589,98"/>
+<area shape="rect" id="node5" href="$classitk_1_1DiffusionTensor.html#abb61db1ef3f45ae5df43d08ea889ece6" title="itk::DiffusionTensor\l::GetVnlMatrix" alt="" coords="637,57,773,98"/>
+<area shape="rect" id="node6" href="$classitk_1_1DiffusionTensor.html#aefa888562e8a329ee204085a4365ee00" title="itk::DiffusionTensor\l::SetVnlMatrix" alt="" coords="821,57,957,98"/>
+<area shape="rect" id="node7" href="$classitk_1_1DiffusionTensor.html#ae8bd47f1efacf375e946f016192ef465" title="itk::DiffusionTensor\l::Rotate" alt="" coords="1005,27,1141,69"/>
+<area shape="rect" id="node8" href="$classitk_1_1DiffusionTensor.html#a239c1b7ef6748ad2b90de85041b04417" title="itk::DiffusionTensor\l::GetRotate" alt="" coords="1189,57,1325,98"/>
+</map>

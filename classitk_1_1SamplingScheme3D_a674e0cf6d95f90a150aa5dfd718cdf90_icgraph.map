@@ -1,0 +1,12 @@
+<map id="itk::SamplingScheme3D::InternalClone" name="itk::SamplingScheme3D::InternalClone">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a3ea7b0dccdbf98f21d3cd7d7447e8e4d" title="itk::SamplingScheme3D\l::NormalizeDirections" alt="" coords="216,13,379,54"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingScheme3D.html#a52f23c9c97930a11cf6b6b4ee14dd24b" title="itk::SamplingScheme3D\l::GetOrientationsCartesianIn\lShell" alt="" coords="427,5,615,61"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingScheme3D.html#ab90df7c7d9bdfe6785413ce5e45c1237" title="itk::SamplingScheme3D\l::SetOrientationsSpherical" alt="" coords="663,13,837,54"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingScheme3D.html#a4e9468a1056ff3c35b06dd6cda38858d" title="itk::SamplingScheme3D\l::GetOrientationsSphericalIn\lShell" alt="" coords="885,5,1072,61"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingScheme3D.html#a1f37676da81a69a1d538767f6046a899" title="itk::SamplingScheme3D\l::SetOrientationsCartesian" alt="" coords="1120,13,1296,54"/>
+<area shape="rect" id="node7" href="$classitk_1_1SamplingScheme3D.html#a409ec08fdd19f7d6c4ddca6ebb3cc420" title="itk::SamplingScheme3D\l::GetOrientationsSpherical" alt="" coords="1344,13,1519,54"/>
+<area shape="rect" id="node8" href="$classitk_1_1SamplingScheme3D.html#a082a8b9b7f4dc8568e4c8bbe2f9f10ad" title="itk::SamplingScheme3D\l::GetOrientationsCartesian" alt="" coords="1567,13,1744,54"/>
+<area shape="rect" id="node9" href="$classitk_1_1SamplingScheme3D.html#abd0209c9f9698d6de74d78162c9621ee" title="itk::SamplingScheme3D\l::GetRadiusVectorInShell" alt="" coords="1792,13,1963,54"/>
+<area shape="rect" id="node10" href="$classitk_1_1SamplingScheme3D.html#a738f13c4efafe85fd4a6d2d150a41e8f" title="itk::SamplingScheme3D\l::SetRadiusVector" alt="" coords="2011,13,2173,54"/>
+<area shape="rect" id="node11" href="$classitk_1_1SamplingScheme3D.html#a76d415da0f5c36d50a38d5c364d6ae07" title="itk::SamplingScheme3D\l::SamplingScheme3D" alt="" coords="2221,13,2384,54"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="spams::Matrix::multTrans" name="spams::Matrix::multTrans">
+<area shape="rect" id="node2" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="252,5,385,32"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="249,56,388,83"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="234,107,403,133"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="248,157,389,184"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#aa974e5e16a5c224119de5da761428b0c" title="Compute the mean of the rows. " alt="" coords="233,208,405,235"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="249,259,388,285"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="241,309,396,336"/>
+<area shape="rect" id="node12" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="271,360,366,387"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="252,411,385,437"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#af396834502d64b75672e22c39b01d5c3" title="spams::Matrix::svdRankOne" alt="" coords="224,461,413,488"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="489,5,591,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="667,5,768,32"/>
+<area shape="rect" id="node9" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="461,208,619,235"/>
+<area shape="rect" id="node15" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="467,454,613,495"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="utl::Time" name="utl::Time">
+<area shape="rect" id="node2" href="$namespaceutl.html#a0cd97ff144fe9c29885ed1f9224a8ca6" title="utl::TicToc" alt="" coords="127,31,211,57"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#a6d024520c9d9914c592663558fa123ea" title="Start tic/toc timer for time measurement between code instructions. " alt="" coords="261,5,323,32"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#a72a123b7f796fd4e11341f50859dd574" title="End tic/toc timer and displays elapsed time from last call to tic(). " alt="" coords="259,56,325,83"/>
+</map>

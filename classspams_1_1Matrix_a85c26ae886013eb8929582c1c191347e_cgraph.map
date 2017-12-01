@@ -1,0 +1,8 @@
+<map id="spams::Matrix::normalize" name="spams::Matrix::normalize">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a9e9c791ed2afa83e0a0d3e6aa8f372ed" title="normalize the vector " alt="" coords="223,56,393,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="234,107,382,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a44ccd08409ac35d87d56da3583efff94" title="put random values in the vector (White Gaussian Noise) " alt="" coords="227,157,389,184"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="441,5,585,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="444,56,583,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="442,107,585,133"/>
+</map>

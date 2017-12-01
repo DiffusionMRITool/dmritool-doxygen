@@ -1,0 +1,10 @@
+<map id="itk::FiberTracts::SelectByIndicesOfTracts" name="itk::FiberTracts::SelectByIndicesOfTracts">
+<area shape="rect" id="node2" href="$namespaceitk.html#adc8f2b97cecac5075efc0c54a35f37bd" title="itk::CopyTrackvisHeader" alt="" coords="411,5,577,32"/>
+<area shape="rect" id="node3" href="$classitk_1_1FiberTracts.html#ae568cf126222e594d6b1b274518dd55e" title="itk::FiberTracts::Select\lByBallROI" alt="" coords="208,57,363,98"/>
+<area shape="rect" id="node4" href="$classitk_1_1FiberTracts.html#a7ebe187857bb5bf0a15a479a75d8f899" title="itk::FiberTracts::Append\lFiber" alt="" coords="413,57,575,98"/>
+<area shape="rect" id="node5" href="$classitk_1_1FiberTracts.html#ad0409e9a79f3983c9565ff200667a3e0" title="itk::FiberTracts::Append\lFibers" alt="" coords="625,57,788,98"/>
+<area shape="rect" id="node6" href="$namespaceitk.html#a1ce0669a0bb7d1faeac606d2a5c2c585" title="itk::IsSameStructure" alt="" coords="849,39,991,65"/>
+<area shape="rect" id="node7" href="$classitk_1_1FiberTracts.html#ada0cd07861e27eb9d5bea284566a047c" title="itk::FiberTracts::PrintSelf" alt="" coords="836,89,1004,116"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a8d7adc65edbba21144935c61345ddb71" title="utl::PrintVector" alt="" coords="1052,89,1161,116"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a565f666d52eef73b0ab44d6dda1592db" title="utl::GetContainerStats" alt="" coords="1209,89,1361,116"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="spams::FISTA::ISTA_Generic" name="spams::FISTA::ISTA_Generic">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a8e3e1d13ef076a7e87bd99dbdd22b97d" title="spams::FISTA::duality_gap" alt="" coords="199,241,380,267"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1Loss.html#a24ba6805b416d2e5bb8d05600132f6d3" title="spams::FISTA::Loss\l::eval" alt="" coords="447,5,590,47"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1Regularizer.html#a5eb238ff0c8e51e4b379e1ccadbb6fe8" title="spams::FISTA::Regularizer\l::eval" alt="" coords="428,71,609,112"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1Loss.html#ac1912abbfcc0aeec914359690f25737a" title="spams::FISTA::Loss\l::is_fenchel" alt="" coords="447,397,590,439"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1Regularizer.html#aa770358f59b815597b3ef1bf52f75cd0" title="spams::FISTA::Regularizer\l::is_fenchel" alt="" coords="428,463,609,504"/>
+<area shape="rect" id="node11" href="$classspams_1_1Timer.html#a6daec457c61de062e6dab52f46e7fb30" title="print the elapsed time " alt="" coords="202,393,377,419"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1Loss.html#a3f9149157bbc8d1d24d6aaca89b3199a" title="spams::FISTA::Loss\l::grad" alt="" coords="218,444,361,485"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1Regularizer.html#ab46feff4f9b5afec034e66c741129133" title="spams::FISTA::Regularizer\l::prox" alt="" coords="199,509,380,551"/>
+<area shape="rect" id="node14" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="223,575,356,602"/>
+<area shape="rect" id="node15" href="$classspams_1_1Timer.html#abfee07295de96dcb1751142d34eceab6" title="start the time " alt="" coords="221,626,357,653"/>
+<area shape="rect" id="node16" href="$classspams_1_1Timer.html#ae4eab94d9ce559f650fe6502b13f364e" title="stop the time " alt="" coords="222,677,357,703"/>
+<area shape="rect" id="node17" href="$classspams_1_1FISTA_1_1Loss.html#a3e965a4029da24075d6eed46f4171cc2" title="spams::FISTA::Loss\l::test_backtracking" alt="" coords="218,728,361,769"/>
+<area shape="rect" id="node18" href="$namespacespams_1_1FISTA.html#aafa1f0745bc1585889fbc6f76aa38a55" title="spams::FISTA::writeLog" alt="" coords="207,794,371,821"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1Loss.html#aec3bfd83464032687160b94bbc7b1d09" title="spams::FISTA::Loss\l::fenchel" alt="" coords="447,136,590,177"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1Regularizer.html#af4be8ede2d5f9c819cce7f07892d990d" title="spams::FISTA::Regularizer\l::fenchel" alt="" coords="428,201,609,243"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1Regularizer.html#ac72841776f5be4c3b9515937d93fb901" title="spams::FISTA::Regularizer\l::is_intercept" alt="" coords="428,267,609,308"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1Loss.html#a710a55909be587a4583288f23f0656db" title="spams::FISTA::Loss\l::var_fenchel" alt="" coords="447,332,590,373"/>
+</map>

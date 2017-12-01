@@ -1,0 +1,51 @@
+<map id="Modules/HelperFunctions/include/utlNDArrayFunctions.h" name="Modules/HelperFunctions/include/utlNDArrayFunctions.h">
+<area shape="rect" id="node2" href="$utlNDArray_8h.html" title="Modules/HelperFunctions\l/include/utlNDArray.h" alt="" coords="3151,95,3321,136"/>
+<area shape="rect" id="node3" href="$itkMultiplyByConstantMatrixVectorImageFilter_8h.html" title="Created &quot;02&#45;16&#45;2015. " alt="" coords="298,392,489,448"/>
+<area shape="rect" id="node5" href="$itkOuterProductVectorImageFilter_8h.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="3299,191,3530,233"/>
+<area shape="rect" id="node7" href="$itkDiffusionModelEstimationImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.h" alt="" coords="3555,184,3789,240"/>
+<area shape="rect" id="node10" href="$itkDiffusionTensor_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionTensor.h" alt="" coords="5137,399,5325,441"/>
+<area shape="rect" id="node17" href="$itkSHCoefficientsPowerImageFilter_8h.html" title="Created &quot;02&#45;04&#45;2016. " alt="" coords="315,496,525,552"/>
+<area shape="rect" id="node20" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="2688,399,2859,441"/>
+<area shape="rect" id="node38" href="$itkSHCoefficientsRotation_8h.html" title="Created &quot;03&#45;26&#45;2014. " alt="" coords="4569,503,4759,545"/>
+<area shape="rect" id="node39" href="$utlVector_8h.html" title="utl::NDArray&lt;T,1&gt; class which uses blas mkl " alt="" coords="2851,191,3021,233"/>
+<area shape="rect" id="node40" href="$utlVNLIO_8h.html" title="Modules/HelperFunctions\l/include/utlVNLIO.h" alt="" coords="2901,295,3072,337"/>
+<area shape="rect" id="node41" href="$utlMatrix_8h.html" title="utl::NDArray&lt;T,2&gt; class which uses blas mkl " alt="" coords="3813,191,3984,233"/>
+<area shape="rect" id="node42" href="$utl4thOrderTensor_8h.html" title="Created &quot;06&#45;21&#45;2016. " alt="" coords="4008,191,4195,233"/>
+<area shape="rect" id="node43" href="$utlDMRI_8h.html" title="Modules/HelperFunctions\l/include/utlDMRI.h" alt="" coords="2565,191,2736,233"/>
+<area shape="rect" id="node44" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="2669,295,2877,337"/>
+<area shape="rect" id="node45" href="$itkMeshFromFiberTractsFilter_8hxx.html" title="Created &quot;08&#45;23&#45;2017. " alt="" coords="2381,288,2595,344"/>
+<area shape="rect" id="node46" href="$itkSpecialFunctionGenerator_8h.html" title="Modules/Math/include\l/itkSpecialFunctionGenerator.h" alt="" coords="4219,191,4421,233"/>
+<area shape="rect" id="node47" href="$itkSolverBase_8h.html" title="Modules/Solvers/include\l/itkSolverBase.h" alt="" coords="4445,191,4609,233"/>
+<area shape="rect" id="node48" href="$itkMeshFromImageImageFilter_8h.html" title="Modules/Visualization\l/include/itkMeshFromImageImage\lFilter.h" alt="" coords="5735,392,5953,448"/>
+<area shape="rect" id="node49" href="$utlSpams_8h.html" title="ThirdParty/Spams/include\l/utlSpams.h" alt="" coords="4633,191,4805,233"/>
+<area shape="rect" id="node50" href="$utlMEX_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/utlMEX.h" alt="" coords="4829,191,5019,233"/>
+<area shape="rect" id="node4" href="$SHCoefficientsToSphericalFunctionSamples_8cxx.html" title="Created &quot;05&#45;11&#45;2013. " alt="" coords="5,496,240,552"/>
+<area shape="rect" id="node6" href="$itkStructureTensorImageFilter_8hxx.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="3303,295,3526,337"/>
+<area shape="rect" id="node8" href="$itkDiffusionModelEstimationImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.hxx" alt="" coords="3555,288,3789,344"/>
+<area shape="rect" id="node9" href="$itkDiffusionModelEstimationInSphericalCoordinateImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lInSphericalCoordinateImageFilter.h" alt="" coords="3813,288,4048,344"/>
+<area shape="rect" id="node11" href="$itkDiffusionTensor_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionTensor.hxx" alt="" coords="5001,503,5204,545"/>
+<area shape="rect" id="node12" href="$itkTensorBasisMatrixGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkTensorBasisMatrix\lGenerator.h" alt="" coords="5772,496,5967,552"/>
+<area shape="rect" id="node13" href="$itkDWIGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.hxx" alt="" coords="4783,503,4977,545"/>
+<area shape="rect" id="node14" href="$itkDWISingleVoxelGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.hxx" alt="" coords="5229,503,5491,545"/>
+<area shape="rect" id="node15" href="$itkSphericalPolarFourierGenerator_8h.html" title="Modules/Math/include\l/itkSphericalPolarFourierGenerator.h" alt="" coords="5516,503,5748,545"/>
+<area shape="rect" id="node16" href="$itkMeshFromTensorImageFilter_8h.html" title="Created &quot;06&#45;09&#45;2017. " alt="" coords="5991,496,6214,552"/>
+<area shape="rect" id="node18" href="$SHCoefficientsPower_8cxx.html" title="Created &quot;02&#45;06&#45;2016. " alt="" coords="253,600,443,641"/>
+<area shape="rect" id="node19" href="$SHCoefficientsToGFA_8cxx.html" title="Applications/DiffusionModels\l/SHCoefficientsToGFA.cxx" alt="" coords="1573,600,1763,641"/>
+<area shape="rect" id="node21" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="2811,503,3010,545"/>
+<area shape="rect" id="node22" href="$SHCoefficientsFit_8cxx.html" title="Created &quot;10&#45;06&#45;2016. " alt="" coords="3034,503,3225,545"/>
+<area shape="rect" id="node23" href="$SHCoefficientsRotate_8cxx.html" title="Applications/DiffusionModels\l/SHCoefficientsRotate.cxx" alt="" coords="3249,503,3439,545"/>
+<area shape="rect" id="node24" href="$SPFToODF_8cxx.html" title="Applications/DiffusionModels\l/SPFToODF.cxx" alt="" coords="3463,503,3654,545"/>
+<area shape="rect" id="node25" href="$SPFToProfile_8cxx.html" title="Applications/DiffusionModels\l/SPFToProfile.cxx" alt="" coords="3678,503,3869,545"/>
+<area shape="rect" id="node26" href="$SphereTessellator_8cxx.html" title="Applications/DiffusionModels\l/SphereTessellator.cxx" alt="" coords="3893,503,4083,545"/>
+<area shape="rect" id="node27" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="4108,503,4329,545"/>
+<area shape="rect" id="node28" href="$TensorFormatConverter_8cxx.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="4354,503,4545,545"/>
+<area shape="rect" id="node29" href="$DWIMultipleShellSplit_8cxx.html" title="Applications/DWIProcessing\l/DWIMultipleShellSplit.cxx" alt="" coords="549,503,739,545"/>
+<area shape="rect" id="node30" href="$DWINoiseGenerator_8cxx.html" title="Applications/DWIProcessing\l/DWINoiseGenerator.cxx" alt="" coords="763,503,952,545"/>
+<area shape="rect" id="node31" href="$DWIPreprocess_8cxx.html" title="Applications/DWIProcessing\l/DWIPreprocess.cxx" alt="" coords="976,503,1165,545"/>
+<area shape="rect" id="node32" href="$DWISimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISimulator.cxx" alt="" coords="1189,503,1379,545"/>
+<area shape="rect" id="node33" href="$OrientationStatistics_8cxx.html" title="Applications/SamplingScheme\l/OrientationStatistics.cxx" alt="" coords="1403,503,1602,545"/>
+<area shape="rect" id="node34" href="$SamplingSchemeDistance_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeDistance.cxx" alt="" coords="1627,503,1832,545"/>
+<area shape="rect" id="node35" href="$SamplingSchemeQSpace1OptEstimation_8cxx.html" title="Created &quot;01&#45;17&#45;2017. " alt="" coords="1856,503,2147,545"/>
+<area shape="rect" id="node36" href="$SamplingSchemeQSpaceIMOCEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIMOCEstimation.cxx" alt="" coords="2171,503,2469,545"/>
+<area shape="rect" id="node37" href="$SamplingSchemeQSpaceIncrementalEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIncremental\lEstimation.cxx" alt="" coords="2493,496,2736,552"/>
+</map>

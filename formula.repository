@@ -1,0 +1,51 @@
+\form#0:\[K_\rho (\nabla u_\sigma \otimes \nabla u_\sigma),\]
+\form#1:$K_\rho$
+\form#2:$\rho$
+\form#3:$u_\sigma := K_\sigma * u$
+\form#4:\[ \begin{array}{ccc} 0 & 1 & 2 \\ X & 3 & 4 \\ X & X & 5 \end{array} \]
+\form#5:$S^2$
+\form#6:$ C = alpha * A * B + beta * C $
+\form#7:$ Y = alpha * A * X + beta * Y $
+\form#8:$ Y = alpha X^T * A + beta * Y $
+\form#9:$ A = alpha*x*y'+ A, $
+\form#10:$ A = alpha*x*x' + A $
+\form#11:$ y := alpha*A*x + beta*y $
+\form#12:$ F(x) = \exp(-x^2) \int_0^x \exp(y^2) dy $
+\form#13:$ (-1)^i\binom{n+0.5}{n-i}\frac{1}{i!} $
+\form#14:$L_n^a(x) =(2+(a-1-x)/n)*L_{n-1}^a(x) - (1+(a-1)/n)*L_{n-2}^a(x)$
+\form#15:$L_{n1}^{a1}(x)$
+\form#16:$L_{n2}^{a2}(x)$
+\form#17:$ \exp(-a\times x^2) $
+\form#18:$ \exp(-a\times x^2) = \sum_{l=0}^{lMax} A_l(a) P_l(x) $
+\form#19:$\frac{\partial A_l(a)}{\partial a}$
+\form#20:$ A_{i,j,k,l} $
+\form#21:\[ \begin{bmatrix} A_{1111} & A_{1122} & A_{1133} & \sqrt{2} A_{1112} & \sqrt{2} A_{1113} & \sqrt{2} A_{1123} \\ A_{2211} & A_{2222} & A_{2233} & \sqrt{2} A_{2212} & \sqrt{2} A_{2213} & \sqrt{2} A_{2223} \\ A_{3311} & A_{3322} & A_{3333} & \sqrt{2} A_{3312} & \sqrt{2} A_{3313} & \sqrt{2} A_{3323} \\ \sqrt{2} A_{1211} & \sqrt{2} A_{1222} & \sqrt{2} A_{1233} & 2 A_{1212} & 2 A_{1213} & 2 A_{1223} \\ \sqrt{2} A_{1311} & \sqrt{2} A_{1322} & \sqrt{2} A_{1333} & 2 A_{1312} & 2 A_{1313} & 2 A_{1323} \\ \sqrt{2} A_{2311} & \sqrt{2} A_{2322} & \sqrt{2} A_{2333} & 2 A_{2312} & 2 A_{2313} & 2 A_{2323} \end{bmatrix} \]
+\form#22:$ Y = alpha * A^T * X + beta * Y $
+\form#23:$ Y = alpha * b * A + beta * Y $
+\form#24:$ Y = alpha * b * A^T + beta * Y $
+\form#25:$ C = alpha * A * B^T + beta * C $
+\form#26:$ C = alpha * A^T * B + beta * C $
+\form#27:$ C = alpha * A^T * B^T + beta * C $
+\form#28:$ C = alpha * A1*A2*A3 $
+\form#29:$ C = alpha * A1*A2*A3*A4 $
+\form#30:$ C = alpha * A1*A2*A3*A5 $
+\form#31:$ C = alpha *A*A^T + beta*C $
+\form#32:$ C = alpha *A^T*A + beta*C $
+\form#33:$ \sum_i \text{Conj}(v1_i) v2_i $
+\form#34:$ \sum_i v1_i v2_i $
+\form#35:$ A = alpha*x*y'+ A $
+\form#36:$ A = alpha*x*x'+ A $
+\form#37:$ L_n^a(x) $
+\form#38:$ J_a(x) $
+\form#39:$ \exp(-a\times x^2)\exp(-b\times (1-x^2)) $
+\form#40:$ \exp(-a\times x^2)\exp(-b\times (1-x^2)) = \sum_{l=0}^{lMax} A_l(a,b) P_l(x) $
+\form#41:$ \int_{x \in \mathbb{S}^2} P_2^0(x^Tv) f(x) d S $
+\form#42:$v$
+\form#43:\[ y_l^m = \sqrt{\frac{2l+1}{4\pi}\frac{(l-m)!}{(l+m)!}} e^{im\phi} P_l^m(\cos\theta) \]
+\form#44:\[ Y_l^m(\theta,\phi) = \left\{ \begin{array}{lcl} \sqrt{2}\mbox{Re}(y_l^{|m|}(\theta,\phi)) = \sqrt{2}(-1)^m\mbox{Re}(y_l^m(\theta,\phi)) & \mbox{if} & -l\leq m<0 \\ y_l^m(\theta,\phi) & \mbox{if} & m=0 \\ \sqrt{2}\mbox{Im}(y_l^m(\theta,\phi)) & \mbox{if} & l\geq m>0 \end{array}\right. \]
+\form#45:$ y_l^m(\theta,\phi)$
+\form#46:$(0,1)$
+\form#47:\[ \min_{x} \|Ax-b\|^2 + |w x| \]
+\form#48:\[ \min_{x} \|Ax-b\|^2 + x^T \Lambda x \]
+\form#49:\[ \min_{x} \|Ax-b\|^2 + lambda* w^T abs(x) \]
+\form#50:$ -b*[g_x g_x, 2.0*g_x g_y, 2.0*g_x g_z, g_y g_y, 2.0*g_y g_z, g_z g_z] $

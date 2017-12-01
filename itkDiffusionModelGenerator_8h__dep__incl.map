@@ -1,0 +1,12 @@
+<map id="Modules/DiffusionModels/include/itkDiffusionModelGenerator.h" name="Modules/DiffusionModels/include/itkDiffusionModelGenerator.h">
+<area shape="rect" id="node2" href="$itkCylinderModelGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkCylinderModelGenerator.h" alt="" coords="170,95,406,136"/>
+<area shape="rect" id="node3" href="$itkCylinderModelGenerator_8hxx.html" title="Modules/DiffusionModels\l/include/itkCylinderModelGenerator.hxx" alt="" coords="163,184,413,225"/>
+<area shape="rect" id="node4" href="$itkDWIGeneratorBase_8h.html" title="Modules/DWIProcessing\l/include/itkDWIGeneratorBase.h" alt="" coords="437,184,648,225"/>
+<area shape="rect" id="node5" href="$itkDWIGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.h" alt="" coords="226,273,406,315"/>
+<area shape="rect" id="node8" href="$itkDWIGeneratorBase_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGeneratorBase.hxx" alt="" coords="431,273,655,315"/>
+<area shape="rect" id="node9" href="$itkDWISingleVoxelGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.h" alt="" coords="679,273,929,315"/>
+<area shape="rect" id="node6" href="$DWISimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISimulator.cxx" alt="" coords="5,363,195,404"/>
+<area shape="rect" id="node7" href="$itkDWIGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.hxx" alt="" coords="219,363,413,404"/>
+<area shape="rect" id="node10" href="$DWISingleVoxelSimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISingleVoxelSimulator.cxx" alt="" coords="445,363,648,404"/>
+<area shape="rect" id="node11" href="$itkDWISingleVoxelGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.hxx" alt="" coords="673,363,935,404"/>
+</map>

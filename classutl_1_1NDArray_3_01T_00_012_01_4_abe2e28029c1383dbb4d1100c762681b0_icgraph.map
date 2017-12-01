@@ -1,0 +1,42 @@
+<map id="utl::NDArray&lt; T, 2 &gt;::ReSize" name="utl::NDArray&lt; T, 2 &gt;::ReSize">
+<area shape="rect" id="node2" href="$namespaceutl.html#abcb5e8fdd1c6eaaf4b4b8e5a57d1fd53" title="utl::Convert1To2Tensor" alt="" coords="204,41,363,68"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#adf50b555f8f816e9300d27e3a3a855c5" title="utl::Convert4To2Tensor" alt="" coords="204,113,363,140"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#a46a406faa63405491ee037f8a3dab3a7" title="dgesdd_UtlMatrix dgesdd is faster than dgesvd. http://www.netlib.org/lapack/explore&#45;html/db/db4/dgesd..." alt="" coords="214,177,353,204"/>
+<area shape="rect" id="node12" href="$namespaceutl.html#a89d6801f4d311a84878362803063245e" title="utl::RotationMatrixToAxis\lAngle" alt="" coords="744,225,915,266"/>
+<area shape="rect" id="node13" href="$namespaceutl.html#a0f64578b6d8a60cf72e6410dd7d3ab6d" title="dgesvd_UtlMatrix " alt="" coords="214,283,353,309"/>
+<area shape="rect" id="node14" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html#a70dcdad4c240db19c94db413ff46b2a7" title="utl::NDArray\&lt; T, 1\l \&gt;::GetDiagonalMatrix" alt="" coords="208,334,359,375"/>
+<area shape="rect" id="node19" href="$namespaceutl.html#a56127830fca2d2edda22a58206d4285a" title="utl::GetDTIDesignMatrix" alt="" coords="201,400,365,427"/>
+<area shape="rect" id="node20" href="$namespaceutl.html#a9183e09fc03d7e66c07a4333a6eb21a5" title="utl::GetEqualityConstraint\lProjection" alt="" coords="197,451,369,493"/>
+<area shape="rect" id="node21" href="$namespaceutl.html#ac3e904108db21207a2c0cef396f9cc0e" title="utl::GetUtlMatrixFromMXArray" alt="" coords="184,517,383,544"/>
+<area shape="rect" id="node23" href="$namespaceutl.html#ae4fca1c27baf93f8ba17e5f6546b9ea4" title="utl::InnerProduct" alt="" coords="224,568,343,595"/>
+<area shape="rect" id="node24" href="$namespacespams.html#acab5f566c0a1abcd0bd541fa5bcb1b08" title="spams::MatrixToUtlMatrix" alt="" coords="197,619,370,645"/>
+<area shape="rect" id="node25" href="$namespaceutl.html#a351a4933bed267bbb4637b4ceb103a87" title="utl::OuterProduct" alt="" coords="223,669,344,696"/>
+<area shape="rect" id="node26" href="$namespacespams.html#a2592eb151dc71473f1cb946472d9cafa" title="spams::SpMatrixToUtlMatrix" alt="" coords="189,720,378,747"/>
+<area shape="rect" id="node36" href="$group__utlHelperFunctions.html#gaceaa36e68f30010aa0a577ba50fd8836" title="utl::VnlMatrixToUtlMatrix" alt="" coords="200,781,367,808"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArray_3_01T_00_014_01_4.html#a186cb6fcf3a6b8b63a1ccb298ce8e35f" title="utl::NDArray\&lt; T, 4\l \&gt;::EigenDecompositionWith\lMinorSymmetry" alt="" coords="455,5,644,61"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray_3_01T_00_014_01_4.html#af6f8e02e3f29cd5eb2503cd37f94750e" title="utl::NDArray\&lt; T, 4\l \&gt;::EigenDecompositionWith\lMinorSymmetry" alt="" coords="455,85,644,141"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a18abb055f76c7558fec55c3b4af951ea" title="SVD. " alt="" coords="484,166,615,207"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a78903bd75119b4398e44aa3055c44da1" title="utl::PInverseMatrix" alt="" coords="763,173,895,200"/>
+<area shape="rect" id="node9" href="$classitk_1_1SHCoefficientsPowerImageFilter.html#aac52d36adb264d8e986cfa87df4c72fb" title="itk::SHCoefficientsPower\lImageFilter::BeforeThreadedGenerateData" alt="" coords="991,101,1259,142"/>
+<area shape="rect" id="node10" href="$classitk_1_1SHCoefficientsRotation.html#aa16c97885e7e61ebb0e0fe27dc073ad6" title="itk::SHCoefficientsRotation\l::Initialize" alt="" coords="1033,166,1216,207"/>
+<area shape="rect" id="node11" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a826d665e1b59497d978e8ae5415960ba" title="utl::NDArray\&lt; T, 2\l \&gt;::PInverseMatrix" alt="" coords="1059,231,1190,273"/>
+<area shape="rect" id="node15" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a8352ebe530e4ce8e1d62cdd2cec9a375" title="utl::NDArray\&lt; T, 2\l \&gt;::ExpM" alt="" coords="484,309,615,350"/>
+<area shape="rect" id="node16" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#ab3166311a8a45a6aa5598f6803661631" title="utl::NDArray\&lt; T, 2\l \&gt;::LogM" alt="" coords="484,374,615,415"/>
+<area shape="rect" id="node17" href="$namespaceutl.html#ac7f95227a5db1da26f1a1b314f573470" title="utl::GetMeanOfRotationMatrix" alt="" coords="731,381,927,408"/>
+<area shape="rect" id="node18" href="$namespaceutl.html#ade36975dfe2796ef39f5be4968c627cf" title="utl::GetMeanOfRotationMatrix" alt="" coords="1027,381,1223,408"/>
+<area shape="rect" id="node22" href="$mexGetSamplesFromSPFCoefficients_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="503,517,595,544"/>
+<area shape="rect" id="node27" href="$classitk_1_1SpamsWeightedLassoSolver.html#ab49802c7e483275f6f6ae366faead378" title="itk::SpamsWeightedLassoSolver\l::Solve" alt="" coords="443,701,655,742"/>
+<area shape="rect" id="node28" href="$classitk_1_1SpamsWeightedLassoSolver.html#abeb342677b2a80c924885463e9426163" title="itk::SpamsWeightedLassoSolver\l::InternalClone" alt="" coords="723,701,935,742"/>
+<area shape="rect" id="node29" href="$classitk_1_1SpamsWeightedLassoSolver.html#a5078ed5a1c9469297d0fb3eb687f50c2" title="itk::SpamsWeightedLassoSolver\l::VerifyInputs" alt="" coords="1019,701,1231,742"/>
+<area shape="rect" id="node30" href="$classitk_1_1SpamsWeightedLassoSolver.html#afbdcc1a94cece6adea1f6040f5211646" title="itk::SpamsWeightedLassoSolver\l::Setw" alt="" coords="1337,701,1549,742"/>
+<area shape="rect" id="node31" href="$classitk_1_1SpamsWeightedLassoSolver.html#abc2634e0a90d30badf8c10bbf1d9b9b0" title="itk::SpamsWeightedLassoSolver\l::SetW" alt="" coords="1628,701,1840,742"/>
+<area shape="rect" id="node32" href="$classitk_1_1SpamsWeightedLassoSolver.html#afc9cdcb38eef7b52c211492981125719" title="itk::SpamsWeightedLassoSolver\l::Setb" alt="" coords="1888,701,2100,742"/>
+<area shape="rect" id="node33" href="$classitk_1_1SpamsWeightedLassoSolver.html#a996a8ac5ee9c62f003c5d8aee6626dd8" title="itk::SpamsWeightedLassoSolver\l::SetB" alt="" coords="2148,701,2360,742"/>
+<area shape="rect" id="node34" href="$classitk_1_1SpamsWeightedLassoSolver.html#a009217b48d3217bc3505509b2ea203b0" title="itk::SpamsWeightedLassoSolver\l::SetA" alt="" coords="2408,701,2620,742"/>
+<area shape="rect" id="node35" href="$classitk_1_1SpamsWeightedLassoSolver.html#a0f55b64a719d3f83e1a4926a81ccbe19" title="itk::SpamsWeightedLassoSolver\l::SpamsWeightedLassoSolver" alt="" coords="2668,701,2880,742"/>
+<area shape="rect" id="node37" href="$classitk_1_1MeshFromContinuousSphericalFunctionImageFilter.html#a2b50f23f1188256c1f723037b547dbc6" title="itk::MeshFromContinuousSpherical\lFunctionImageFilter::BeforeThreaded\lGenerateData" alt="" coords="431,767,668,823"/>
+<area shape="rect" id="node41" href="$group__utlHelperFunctions.html#ga09101189ebc73c0fd651d676022424cf" title="utl::VnlMatrixToUtlMatrix" alt="" coords="466,847,633,873"/>
+<area shape="rect" id="node38" href="$classitk_1_1MeshFromContinuousSphericalFunctionImageFilter.html#af6c80c76115ca24311d0d99b0ce15c5d" title="itk::MeshFromContinuousSpherical\lFunctionImageFilter::InternalClone" alt="" coords="716,774,943,815"/>
+<area shape="rect" id="node39" href="$classitk_1_1MeshFromContinuousSphericalFunctionImageFilter.html#a88eabc1f2da569b3ffdebb274c61806e" title="itk::MeshFromContinuousSpherical\lFunctionImageFilter::PrintSelf" alt="" coords="1011,774,1238,815"/>
+<area shape="rect" id="node40" href="$classitk_1_1MeshFromContinuousSphericalFunctionImageFilter.html#a59eb86b6cfdb5c33dd473d9a3c508a15" title="itk::MeshFromContinuousSpherical\lFunctionImageFilter::MeshFromContinuous\lSphericalFunctionImageFilter" alt="" coords="1307,767,1580,823"/>
+</map>

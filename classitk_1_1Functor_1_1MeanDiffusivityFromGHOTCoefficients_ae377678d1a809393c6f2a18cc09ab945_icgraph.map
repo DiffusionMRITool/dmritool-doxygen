@@ -1,0 +1,4 @@
+<map id="itk::Functor::MeanDiffusivityFromGHOTCoefficients::GetScale" name="itk::Functor::MeanDiffusivityFromGHOTCoefficients::GetScale">
+<area shape="rect" id="node2" href="$classitk_1_1MeanDiffusivityFromGHOTImageFilter.html#aa9cae5b1ed8e1709be363c08790ae160" title="itk::MeanDiffusivityFrom\lGHOTImageFilter::PrintSelf" alt="" coords="278,5,461,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1MeanDiffusivityFromGHOTImageFilter.html#aff4954848ce815c09685693e6f9edef5" title="itk::MeanDiffusivityFrom\lGHOTImageFilter::SetScale" alt="" coords="276,71,463,112"/>
+</map>

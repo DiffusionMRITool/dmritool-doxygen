@@ -1,0 +1,11 @@
+<map id="spams::Matrix::rank1Update" name="spams::Matrix::rank1Update">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1Rank.html#ad5fb80f09c7f972217bf459f6a2aa73e" title="spams::FISTA::Rank\l::eval" alt="" coords="276,5,423,47"/>
+<area shape="rect" id="node3" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="271,71,428,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="280,122,419,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#a487fdfafa31cb9e1694b68ad78436917" title="perform C = a*B*A + b*C, possibly transposing A or B. " alt="" coords="272,173,427,199"/>
+<area shape="rect" id="node6" href="$classspams_1_1Matrix.html#a648317b7a80514798a634c051b0754c5" title="compute a Nadaraya Watson estimator " alt="" coords="242,223,457,250"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="276,275,423,316"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#ab0936c0aae584c6c6402e4452267b0c8" title="spams::Matrix::rank1Update_mult" alt="" coords="240,341,459,367"/>
+<area shape="rect" id="node9" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="278,391,421,418"/>
+<area shape="rect" id="node10" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="259,442,439,469"/>
+</map>

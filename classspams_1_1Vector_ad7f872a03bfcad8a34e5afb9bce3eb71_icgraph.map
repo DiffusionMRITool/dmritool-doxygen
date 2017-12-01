@@ -1,0 +1,20 @@
+<map id="spams::Vector::fmaxval" name="spams::Vector::fmaxval">
+<area shape="rect" id="node2" href="$namespacespams.html#aa437c45eb6500e07693bdec9305fd36e" title="coreIST " alt="" coords="263,31,377,57"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a0f6a5c694f147729b4c98d2670903683" title="coreIST constrained " alt="" coords="229,81,411,108"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1normLINF.html#aeb96079494ae650fc095d5f989d1d112" title="spams::FISTA::normLINF\l::eval" alt="" coords="233,133,407,174"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1GraphLasso.html#ac58cd95854d69883bbdff70847d24f44" title="spams::FISTA::GraphLasso\l::eval_weighted" alt="" coords="227,198,413,239"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1Lasso.html#a16821f57184588c61f013c19b0f80bdd" title="spams::FISTA::Lasso\l::fenchel" alt="" coords="245,263,395,305"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a9816780b3431e067253bd2ad872cffc7" title="spams::FISTA::LassoConstraint\l::fenchel" alt="" coords="215,329,425,370"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1MixedL1L2.html#afe41993f73168dccdefa5e8b6e5f69a5" title="spams::FISTA::MixedL1L2\l::fenchel" alt="" coords="231,394,409,435"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#a4dc23cabf20321563d18855284f62a1a" title="spams::FISTA::MixedL1LINF\l::fenchel" alt="" coords="223,459,417,501"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="230,525,410,566"/>
+<area shape="rect" id="node14" href="$classspams_1_1SpVector.html#a023d2baf252603fbebe90604d05948ef" title="computes the linf norm of the vector " alt="" coords="231,591,409,617"/>
+<area shape="rect" id="node16" href="$classspams_1_1GraphPath.html#a1534860428d6e2beee03e216ef6c88e4" title="spams::GraphPath::init\l_graph" alt="" coords="242,642,398,683"/>
+<area shape="rect" id="node17" href="$classspams_1_1Matrix.html#a6f39122f004df59e1daf9e1e497eee30" title="merge two dictionaries " alt="" coords="245,708,395,735"/>
+<area shape="rect" id="node18" href="$classspams_1_1Matrix.html#a023eaedf7dfb456fb4280db90e2936f1" title="returns the linf norms of the columns " alt="" coords="249,759,391,801"/>
+<area shape="rect" id="node19" href="$classspams_1_1GraphPath.html#a17b13bceae34e39bf7dd12dd317cd2b0" title="spams::GraphPath::scale\l_costs" alt="" coords="235,825,405,866"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="525,5,607,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="487,56,645,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="476,107,656,133"/>
+<area shape="rect" id="node15" href="$classspams_1_1FISTA_1_1GraphLasso.html#a75273e4b61fdc8d5b97d0ea936188c17" title="spams::FISTA::GraphLasso\l::eval_split" alt="" coords="473,583,659,625"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="itk::FiberTracts::GetPointStats" name="itk::FiberTracts::GetPointStats">
+<area shape="rect" id="node2" href="$classitk_1_1FiberTracts.html#ae9e90919243a88b74154cedbb3397327" title="itk::FiberTracts::GetNumber\lOfPoints" alt="" coords="237,57,423,98"/>
+<area shape="rect" id="node8" href="$classitk_1_1FiberTracts.html#a2d0d82120c7fc5f2e7b18d3e9b60a032" title="itk::FiberTracts::HasScalarName" alt="" coords="223,123,437,149"/>
+<area shape="rect" id="node3" href="$classitk_1_1FiberTracts.html#a805a2fcc0ff50ea9149dcef66edc3a7a" title="itk::FiberTracts::DeepClone" alt="" coords="487,35,669,61"/>
+<area shape="rect" id="node7" href="$classitk_1_1FiberTracts.html#a95a918ccd39103c2d08c1d7c1ca3edd5" title="itk::FiberTracts::GetNumber\lOfFibers" alt="" coords="485,86,671,127"/>
+<area shape="rect" id="node4" href="$classitk_1_1FiberTracts.html#a0307302263d386e3f85fbaaaf3e25b7d" title="itk::FiberTracts::GetFiber" alt="" coords="719,5,887,32"/>
+<area shape="rect" id="node5" href="$classitk_1_1FiberTracts.html#ab5e45717a8cf6239d2e6f261c895fce6" title="itk::FiberTracts::Internal\lClone" alt="" coords="722,57,883,98"/>
+<area shape="rect" id="node6" href="$classitk_1_1FiberTracts.html#a5719bc7ef5a7329a8bb89cd816e36866" title="itk::FiberTracts::\l~FiberTracts" alt="" coords="935,57,1053,98"/>
+</map>

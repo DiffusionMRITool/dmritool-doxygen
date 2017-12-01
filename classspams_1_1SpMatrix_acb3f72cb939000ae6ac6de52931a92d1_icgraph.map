@@ -1,0 +1,4 @@
+<map id="spams::SpMatrix::multTrans" name="spams::SpMatrix::multTrans">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#a487fdfafa31cb9e1694b68ad78436917" title="perform C = a*B*A + b*C, possibly transposing A or B. " alt="" coords="240,5,395,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a201da7740a038d35571368b1a8c9a6ec" title="XtX = A&#39;*A. " alt="" coords="242,56,393,83"/>
+</map>

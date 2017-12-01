@@ -1,0 +1,8 @@
+<map id="spams::SpVector::nzmax" name="spams::SpVector::nzmax">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1GraphLasso.html#a84ff014795213f051e7a66bbf07f576c" title="spams::FISTA::GraphLasso\l::prox_split" alt="" coords="224,5,409,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpVector.html#a972fb20fab0fe4c086067811d26cefe3" title="resizes the vector " alt="" coords="233,71,400,98"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpVector.html#a51130fd5b300561eb3307ae03de9b16d" title="Constructor, allocates nzmax slots. " alt="" coords="224,122,409,149"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="506,21,589,47"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="476,71,619,98"/>
+<area shape="rect" id="node6" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="457,122,637,149"/>
+</map>

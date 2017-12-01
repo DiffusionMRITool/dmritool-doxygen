@@ -1,0 +1,20 @@
+<map id="spams::FISTA::MultiLogLoss::grad" name="spams::FISTA::MultiLogLoss::grad">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="267,5,403,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#aa8a084ede26fa27a868bb26ce3abdfaf" title="replace each value by its exponential " alt="" coords="267,56,403,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="263,107,407,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="492,107,616,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1Matrix.html#a03a80d4c081b98569cf2a50d24491243" title="perform C = a*B*A + b*C, possibly transposing A or B. " alt="" coords="245,360,424,387"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="905,399,1027,425"/>
+<area shape="rect" id="node11" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="883,449,1049,476"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="494,157,614,184"/>
+<area shape="rect" id="node13" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="685,309,833,336"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="261,259,409,285"/>
+<area shape="rect" id="node17" href="$classspams_1_1Matrix.html#a5b56b244cbdb30f93a4ea9386e16a7f2" title="scale the matrix by the a " alt="" coords="266,512,403,539"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="265,563,404,589"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#add5408c2aecfd998a19e9ec35260aa52" title="returns the sum of the vector " alt="" coords="265,613,405,640"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="485,360,623,387"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="684,360,835,387"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="895,323,1037,349"/>
+<area shape="rect" id="node15" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="483,208,625,235"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="472,259,636,285"/>
+</map>

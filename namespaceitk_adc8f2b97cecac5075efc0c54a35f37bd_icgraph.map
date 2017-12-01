@@ -1,0 +1,14 @@
+<map id="itk::CopyTrackvisHeader" name="itk::CopyTrackvisHeader">
+<area shape="rect" id="node2" href="$classitk_1_1FiberTracts.html#a805a2fcc0ff50ea9149dcef66edc3a7a" title="itk::FiberTracts::DeepClone" alt="" coords="1536,71,1719,97"/>
+<area shape="rect" id="node6" href="$classitk_1_1FiberTracts.html#ae568cf126222e594d6b1b274518dd55e" title="itk::FiberTracts::Select\lByBallROI" alt="" coords="220,43,375,85"/>
+<area shape="rect" id="node8" href="$classitk_1_1FiberTracts.html#a5b58b5644337689841c303e61a719cb8" title="itk::FiberTracts::Select\lByIndicesOfTracts" alt="" coords="423,101,577,142"/>
+<area shape="rect" id="node3" href="$classitk_1_1FiberTracts.html#a0307302263d386e3f85fbaaaf3e25b7d" title="itk::FiberTracts::GetFiber" alt="" coords="1768,41,1936,68"/>
+<area shape="rect" id="node4" href="$classitk_1_1FiberTracts.html#ab5e45717a8cf6239d2e6f261c895fce6" title="itk::FiberTracts::Internal\lClone" alt="" coords="1771,93,1933,134"/>
+<area shape="rect" id="node5" href="$classitk_1_1FiberTracts.html#a5719bc7ef5a7329a8bb89cd816e36866" title="itk::FiberTracts::\l~FiberTracts" alt="" coords="1984,93,2103,134"/>
+<area shape="rect" id="node7" href="$classitk_1_1FiberTracts.html#a2d0d82120c7fc5f2e7b18d3e9b60a032" title="itk::FiberTracts::HasScalarName" alt="" coords="1272,148,1487,175"/>
+<area shape="rect" id="node9" href="$classitk_1_1FiberTracts.html#a766750654353d003053762493d773a64" title="itk::FiberTracts::Remove\lPropertiesByName" alt="" coords="625,149,792,190"/>
+<area shape="rect" id="node10" href="$classitk_1_1FiberTracts.html#a88f0b09ff92d45e0bbb590dabfa2ca34" title="itk::FiberTracts::Remove\lScalarsByName" alt="" coords="840,199,1007,241"/>
+<area shape="rect" id="node11" href="$classitk_1_1FiberTracts.html#a900d4d246ded0fe50510312a13fddb73" title="itk::FiberTracts::GetPoint\lStats" alt="" coords="1055,250,1224,291"/>
+<area shape="rect" id="node12" href="$classitk_1_1FiberTracts.html#ae9e90919243a88b74154cedbb3397327" title="itk::FiberTracts::GetNumber\lOfPoints" alt="" coords="1287,225,1472,266"/>
+<area shape="rect" id="node13" href="$classitk_1_1FiberTracts.html#a95a918ccd39103c2d08c1d7c1ca3edd5" title="itk::FiberTracts::GetNumber\lOfFibers" alt="" coords="1535,225,1720,266"/>
+</map>

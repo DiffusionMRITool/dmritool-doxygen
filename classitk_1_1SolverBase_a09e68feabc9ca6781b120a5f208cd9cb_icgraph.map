@@ -1,0 +1,6 @@
+<map id="itk::SolverBase::InternalClone" name="itk::SolverBase::InternalClone">
+<area shape="rect" id="node2" href="$classitk_1_1SolverBase.html#a687f235a84a31dc8a69c0c295e0450dc" title="itk::SolverBase::Clear" alt="" coords="216,13,367,39"/>
+<area shape="rect" id="node3" href="$classitk_1_1SolverBase.html#aa05f1e8b95443ef73efbc96c5f8e6695" title="itk::SolverBase::Initialize" alt="" coords="415,13,581,39"/>
+<area shape="rect" id="node4" href="$classitk_1_1SolverBase.html#a86c30df6bcb2bd8106695f9ae3d5ca13" title="itk::SolverBase::Solve" alt="" coords="629,13,781,39"/>
+<area shape="rect" id="node5" href="$classitk_1_1SolverBase.html#a4c5a7bb6f809f268b48867139b7ec390" title="itk::SolverBase::SolverBase" alt="" coords="829,13,1016,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="utl::GetMXArrayFromUtlMatrix" name="utl::GetMXArrayFromUtlMatrix">
+<area shape="rect" id="node2" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a930154628e8961e14d72b23bd097c149" title="utl::NDArray\&lt; T, 2\l \&gt;::Columns" alt="" coords="252,5,383,47"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#ade33dc3156221cc3efbacccb3159a9eb" title="Create a m x n double matrix. " alt="" coords="254,71,381,112"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a0133333fcfaaa6de351c70773698de2e" title="utl::NDArray\&lt; T, 2\l \&gt;::Rows" alt="" coords="252,136,383,177"/>
+</map>

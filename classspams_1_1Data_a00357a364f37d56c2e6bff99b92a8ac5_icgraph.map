@@ -1,0 +1,6 @@
+<map id="spams::Data::V" name="spams::Data::V">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#ade542e62390b6d49565ea0fd6cd067e1" title="change artificially the size of the matrix, DANGEROUS " alt="" coords="176,5,340,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#affa4433f45eb4e0c87d3420c56130d16" title="spams::Vector\&lt; int\l \&gt;::mult_elementWise" alt="" coords="183,57,333,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="187,123,329,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="168,173,348,200"/>
+</map>

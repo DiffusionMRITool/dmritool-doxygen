@@ -1,0 +1,51 @@
+<map id="Modules/HelperFunctions/include/utlNDArray.h" name="Modules/HelperFunctions/include/utlNDArray.h">
+<area shape="rect" id="node2" href="$itkMultiplyByConstantMatrixVectorImageFilter_8h.html" title="Created &quot;02&#45;16&#45;2015. " alt="" coords="345,303,535,359"/>
+<area shape="rect" id="node4" href="$itkOuterProductVectorImageFilter_8h.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="3435,102,3666,143"/>
+<area shape="rect" id="node6" href="$itkDiffusionModelEstimationImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.h" alt="" coords="3691,95,3925,151"/>
+<area shape="rect" id="node9" href="$itkDiffusionTensor_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionTensor.h" alt="" coords="5463,310,5651,351"/>
+<area shape="rect" id="node16" href="$itkSHCoefficientsPowerImageFilter_8h.html" title="Created &quot;02&#45;04&#45;2016. " alt="" coords="315,407,525,463"/>
+<area shape="rect" id="node19" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="2824,310,2995,351"/>
+<area shape="rect" id="node38" href="$itkSHCoefficientsRotation_8h.html" title="Created &quot;03&#45;26&#45;2014. " alt="" coords="4904,414,5093,455"/>
+<area shape="rect" id="node39" href="$utlVector_8h.html" title="utl::NDArray&lt;T,1&gt; class which uses blas mkl " alt="" coords="2987,102,3157,143"/>
+<area shape="rect" id="node40" href="$utlVNLIO_8h.html" title="Modules/HelperFunctions\l/include/utlVNLIO.h" alt="" coords="3037,206,3208,247"/>
+<area shape="rect" id="node41" href="$utlMatrix_8h.html" title="utl::NDArray&lt;T,2&gt; class which uses blas mkl " alt="" coords="3949,102,4120,143"/>
+<area shape="rect" id="node42" href="$utl4thOrderTensor_8h.html" title="Created &quot;06&#45;21&#45;2016. " alt="" coords="4144,102,4331,143"/>
+<area shape="rect" id="node43" href="$utlDMRI_8h.html" title="Modules/HelperFunctions\l/include/utlDMRI.h" alt="" coords="2701,102,2872,143"/>
+<area shape="rect" id="node44" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="2805,206,3013,247"/>
+<area shape="rect" id="node45" href="$itkMeshFromFiberTractsFilter_8hxx.html" title="Created &quot;08&#45;23&#45;2017. " alt="" coords="2517,199,2731,255"/>
+<area shape="rect" id="node46" href="$itkSpecialFunctionGenerator_8h.html" title="Modules/Math/include\l/itkSpecialFunctionGenerator.h" alt="" coords="4355,102,4557,143"/>
+<area shape="rect" id="node47" href="$itkSolverBase_8h.html" title="Modules/Solvers/include\l/itkSolverBase.h" alt="" coords="4581,102,4745,143"/>
+<area shape="rect" id="node48" href="$itkMeshFromImageImageFilter_8h.html" title="Modules/Visualization\l/include/itkMeshFromImageImage\lFilter.h" alt="" coords="6061,303,6280,359"/>
+<area shape="rect" id="node49" href="$utlSpams_8h.html" title="ThirdParty/Spams/include\l/utlSpams.h" alt="" coords="4769,102,4941,143"/>
+<area shape="rect" id="node50" href="$utlMEX_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/utlMEX.h" alt="" coords="4965,102,5155,143"/>
+<area shape="rect" id="node3" href="$SHCoefficientsToSphericalFunctionSamples_8cxx.html" title="Created &quot;05&#45;11&#45;2013. " alt="" coords="5,407,240,463"/>
+<area shape="rect" id="node5" href="$itkStructureTensorImageFilter_8hxx.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="3439,206,3662,247"/>
+<area shape="rect" id="node7" href="$itkDiffusionModelEstimationImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.hxx" alt="" coords="3691,199,3925,255"/>
+<area shape="rect" id="node8" href="$itkDiffusionModelEstimationInSphericalCoordinateImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lInSphericalCoordinateImageFilter.h" alt="" coords="3949,199,4184,255"/>
+<area shape="rect" id="node10" href="$itkDiffusionTensor_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionTensor.hxx" alt="" coords="5336,414,5539,455"/>
+<area shape="rect" id="node11" href="$itkTensorBasisMatrixGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkTensorBasisMatrix\lGenerator.h" alt="" coords="5819,407,6013,463"/>
+<area shape="rect" id="node12" href="$itkDWIGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.hxx" alt="" coords="5117,414,5312,455"/>
+<area shape="rect" id="node13" href="$itkDWISingleVoxelGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.hxx" alt="" coords="6038,414,6301,455"/>
+<area shape="rect" id="node14" href="$itkSphericalPolarFourierGenerator_8h.html" title="Modules/Math/include\l/itkSphericalPolarFourierGenerator.h" alt="" coords="5563,414,5795,455"/>
+<area shape="rect" id="node15" href="$itkMeshFromTensorImageFilter_8h.html" title="Created &quot;06&#45;09&#45;2017. " alt="" coords="6325,407,6547,463"/>
+<area shape="rect" id="node17" href="$SHCoefficientsPower_8cxx.html" title="Created &quot;02&#45;06&#45;2016. " alt="" coords="253,511,443,552"/>
+<area shape="rect" id="node18" href="$SHCoefficientsToGFA_8cxx.html" title="Applications/DiffusionModels\l/SHCoefficientsToGFA.cxx" alt="" coords="1681,511,1871,552"/>
+<area shape="rect" id="node20" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="3362,414,3561,455"/>
+<area shape="rect" id="node21" href="$SHCoefficientsFit_8cxx.html" title="Created &quot;10&#45;06&#45;2016. " alt="" coords="3585,414,3775,455"/>
+<area shape="rect" id="node22" href="$SHCoefficientsRotate_8cxx.html" title="Applications/DiffusionModels\l/SHCoefficientsRotate.cxx" alt="" coords="3799,414,3990,455"/>
+<area shape="rect" id="node23" href="$SPFToODF_8cxx.html" title="Applications/DiffusionModels\l/SPFToODF.cxx" alt="" coords="4014,414,4205,455"/>
+<area shape="rect" id="node24" href="$SPFToProfile_8cxx.html" title="Applications/DiffusionModels\l/SPFToProfile.cxx" alt="" coords="4229,414,4419,455"/>
+<area shape="rect" id="node25" href="$SphereTessellator_8cxx.html" title="Applications/DiffusionModels\l/SphereTessellator.cxx" alt="" coords="4443,414,4634,455"/>
+<area shape="rect" id="node26" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="4659,414,4880,455"/>
+<area shape="rect" id="node27" href="$TensorFormatConverter_8cxx.html" title="Created &quot;06&#45;27&#45;2016. " alt="" coords="550,414,741,455"/>
+<area shape="rect" id="node28" href="$DWIMultipleShellSplit_8cxx.html" title="Applications/DWIProcessing\l/DWIMultipleShellSplit.cxx" alt="" coords="765,414,955,455"/>
+<area shape="rect" id="node29" href="$DWINoiseGenerator_8cxx.html" title="Applications/DWIProcessing\l/DWINoiseGenerator.cxx" alt="" coords="979,414,1168,455"/>
+<area shape="rect" id="node30" href="$DWIPreprocess_8cxx.html" title="Applications/DWIProcessing\l/DWIPreprocess.cxx" alt="" coords="1192,414,1381,455"/>
+<area shape="rect" id="node31" href="$DWISimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISimulator.cxx" alt="" coords="1405,414,1595,455"/>
+<area shape="rect" id="node32" href="$OrientationStatistics_8cxx.html" title="Applications/SamplingScheme\l/OrientationStatistics.cxx" alt="" coords="1619,414,1818,455"/>
+<area shape="rect" id="node33" href="$SamplingSchemeDistance_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeDistance.cxx" alt="" coords="1843,414,2048,455"/>
+<area shape="rect" id="node34" href="$SamplingSchemeQSpace1OptEstimation_8cxx.html" title="Created &quot;01&#45;17&#45;2017. " alt="" coords="2072,414,2363,455"/>
+<area shape="rect" id="node35" href="$SamplingSchemeQSpaceIMOCEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIMOCEstimation.cxx" alt="" coords="2387,414,2685,455"/>
+<area shape="rect" id="node36" href="$SamplingSchemeQSpaceIncrementalEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIncremental\lEstimation.cxx" alt="" coords="2709,407,2952,463"/>
+<area shape="rect" id="node37" href="$SamplingSchemeQSpaceRandomEstimation_8cxx.html" title="Created &quot;01&#45;17&#45;2017. " alt="" coords="3027,414,3338,455"/>
+</map>

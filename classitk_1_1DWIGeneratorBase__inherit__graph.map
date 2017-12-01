@@ -1,0 +1,4 @@
+<map id="itk::DWIGeneratorBase&lt; TOutputImage, TScalarImage &gt;" name="itk::DWIGeneratorBase&lt; TOutputImage, TScalarImage &gt;">
+<area shape="rect" id="node3" href="$classitk_1_1DWIGenerator.html" title="Generate DWI data based on provided parameter file. " alt="" coords="531,5,741,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1DWISingleVoxelGenerator.html" title="Generate DWI data with the same diffusion parameter set for all voxels. If random mode is used..." alt="" coords="527,71,745,112"/>
+</map>

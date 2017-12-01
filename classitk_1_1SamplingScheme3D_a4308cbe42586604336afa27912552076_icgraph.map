@@ -1,0 +1,5 @@
+<map id="itk::SamplingScheme3D::CalculateElectrostaticEnergyMatrix" name="itk::SamplingScheme3D::CalculateElectrostaticEnergyMatrix">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a35f35aceaf9610fcb97a76b1a60b943f" title="itk::SamplingScheme3D\l::CalculateInnerProductMatrix" alt="" coords="252,13,447,54"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingScheme3D.html#a0c5f6263e76645195960a3e1f35de259" title="itk::SamplingScheme3D\l::AppendOrientationAndRadius\lValue" alt="" coords="495,5,696,61"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingScheme3D.html#a1d457e045aed2e5ffe6d558baa3b3644" title="itk::SamplingScheme3D\l::AppendOrientation" alt="" coords="744,13,907,54"/>
+</map>

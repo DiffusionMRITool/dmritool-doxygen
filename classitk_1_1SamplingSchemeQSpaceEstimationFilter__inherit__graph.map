@@ -1,0 +1,5 @@
+<map id="itk::SamplingSchemeQSpaceEstimationFilter&lt; TSamplingType &gt;" name="itk::SamplingSchemeQSpaceEstimationFilter&lt; TSamplingType &gt;">
+<area shape="rect" id="node3" href="$classitk_1_1SamplingSchemeQSpace1OptEstimationFilter.html" title="incremental estimation of single/multi&#45;shell orientations " alt="" coords="473,5,681,61"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpaceIMOCEstimationFilter.html" title="Estimation of single/multi&#45;shell orientations using Iterative Maximum Overlap Construction (IMOC) ..." alt="" coords="465,85,688,141"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpaceIncrementalEstimationFilter.html" title="incremental estimation of single/multi&#45;shell orientations " alt="" coords="480,165,673,221"/>
+</map>

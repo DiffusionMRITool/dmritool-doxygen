@@ -1,0 +1,8 @@
+<map id="spams::FISTA::MixedL1LINF::eval" name="spams::FISTA::MixedL1LINF::eval">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="247,5,393,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="662,56,785,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#ae39a41cd4113d884dcbc745ce53ed48a" title="returns the linf norms of the columns " alt="" coords="249,107,391,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="441,107,592,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="640,157,807,184"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="652,107,795,133"/>
+</map>

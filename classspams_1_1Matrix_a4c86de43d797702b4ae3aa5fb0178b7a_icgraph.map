@@ -1,0 +1,6 @@
+<map id="spams::Matrix::addDiag" name="spams::Matrix::addDiag">
+<area shape="rect" id="node2" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="245,5,327,32"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a3e466119dbe7330b63cb545f68ec285c" title="spams::lasso" alt="" coords="236,56,336,83"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a356c5dc05693cff4dea71e6aab3d7e0d" title="second implementation using matrix inversion lemma " alt="" coords="233,107,339,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="215,157,357,184"/>
+</map>

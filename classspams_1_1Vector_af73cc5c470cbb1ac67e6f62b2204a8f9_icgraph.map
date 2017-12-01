@@ -1,0 +1,10 @@
+<map id="spams::Vector::setData" name="spams::Vector::setData">
+<area shape="rect" id="node2" href="$classspams_1_1ShiftMatrix.html#a0cc4cf9c700b5b46868f1865603bb57a" title="spams::ShiftMatrix\l::copyRow" alt="" coords="241,5,373,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1TreeLasso.html#af65f6ce67a29b594767dba1cc2e76e45" title="spams::FISTA::TreeLasso\l::fenchel" alt="" coords="219,71,395,112"/>
+<area shape="rect" id="node4" href="$classspams_1_1ShiftMatrix.html#abd6d6f3a9a5e86d4e95e98b093a38fd9" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="241,136,373,177"/>
+<area shape="rect" id="node5" href="$classspams_1_1ShiftMatrix.html#a45962c33ce022621686249f14dc36952" title="b &lt;&#45; alpha A&#39;x + beta b " alt="" coords="241,201,373,243"/>
+<area shape="rect" id="node6" href="$classspams_1_1Tree__Seq.html#a2c93f8b0308db0a7543a6ecb930948d9" title="spams::Tree_Seq::proj\l_weighted_linf" alt="" coords="230,267,385,308"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1TreeLasso.html#a8834c4f388b3e46beda059cb91957b65" title="spams::FISTA::TreeLasso\l::prox" alt="" coords="219,332,395,373"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1TreeLzero.html#a477c7f3b4998978232e554eb8a72e073" title="spams::FISTA::TreeLzero\l::prox" alt="" coords="221,397,394,439"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1GraphLasso.html#a84ff014795213f051e7a66bbf07f576c" title="spams::FISTA::GraphLasso\l::prox_split" alt="" coords="215,463,400,504"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="spams::Vector::fmax" name="spams::Vector::fmax">
+<area shape="rect" id="node2" href="$namespacespams.html#a516ab0761ddd1e790f10b078a63fd3ce" title="Auxiliary function for lasso. " alt="" coords="229,56,358,83"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a11a263a784992cfa353524e6a621ccaf" title="Auxiliary function for lasso. " alt="" coords="225,157,361,184"/>
+<area shape="rect" id="node9" href="$namespacespams.html#a6052b09a74f870c5d75a3b4d5d71bb8a" title="Auxiliary function for lasso. " alt="" coords="219,284,368,311"/>
+<area shape="rect" id="node12" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="226,436,361,463"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="467,1103,629,1129"/>
+<area shape="rect" id="node38" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="199,487,387,529"/>
+<area shape="rect" id="node44" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="197,605,389,646"/>
+<area shape="rect" id="node45" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#aaaa990843ebcc1b1c4ca6a02ba79fdb6" title="spams::FISTA::MultiLogLoss\l::var_fenchel" alt="" coords="197,670,389,711"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="498,5,598,32"/>
+<area shape="rect" id="node5" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="495,56,601,83"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="479,107,617,133"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="463,208,633,235"/>
+<area shape="rect" id="node8" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="987,461,1129,488"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="477,259,619,285"/>
+<area shape="rect" id="node11" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="437,309,659,336"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a4c2c75f7becf58d5830733655a400da1" title="Auxiliary function of omp. " alt="" coords="477,411,619,437"/>
+<area shape="rect" id="node14" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="481,360,615,387"/>
+<area shape="rect" id="node17" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="501,461,595,488"/>
+<area shape="rect" id="node18" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="481,512,615,539"/>
+<area shape="rect" id="node15" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="761,360,863,387"/>
+<area shape="rect" id="node16" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="1007,360,1109,387"/>
+<area shape="rect" id="node20" href="$namespacespams.html#aa437c45eb6500e07693bdec9305fd36e" title="coreIST " alt="" coords="755,913,869,940"/>
+<area shape="rect" id="node24" href="$namespacespams.html#a0f6a5c694f147729b4c98d2670903683" title="coreIST constrained " alt="" coords="721,863,903,889"/>
+<area shape="rect" id="node25" href="$classspams_1_1FISTA_1_1Lasso.html#a16821f57184588c61f013c19b0f80bdd" title="spams::FISTA::Lasso\l::fenchel" alt="" coords="737,965,887,1006"/>
+<area shape="rect" id="node26" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a9816780b3431e067253bd2ad872cffc7" title="spams::FISTA::LassoConstraint\l::fenchel" alt="" coords="707,1030,917,1071"/>
+<area shape="rect" id="node27" href="$classspams_1_1FISTA_1_1normLINF.html#aeb96079494ae650fc095d5f989d1d112" title="spams::FISTA::normLINF\l::eval" alt="" coords="725,1095,899,1137"/>
+<area shape="rect" id="node28" href="$classspams_1_1FISTA_1_1GraphLasso.html#ac58cd95854d69883bbdff70847d24f44" title="spams::FISTA::GraphLasso\l::eval_weighted" alt="" coords="719,1161,905,1202"/>
+<area shape="rect" id="node29" href="$classspams_1_1FISTA_1_1MixedL1L2.html#afe41993f73168dccdefa5e8b6e5f69a5" title="spams::FISTA::MixedL1L2\l::fenchel" alt="" coords="723,1278,901,1319"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#a4dc23cabf20321563d18855284f62a1a" title="spams::FISTA::MixedL1LINF\l::fenchel" alt="" coords="715,1343,909,1385"/>
+<area shape="rect" id="node31" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="722,1409,902,1450"/>
+<area shape="rect" id="node32" href="$classspams_1_1Matrix.html#a023eaedf7dfb456fb4280db90e2936f1" title="returns the linf norms of the columns " alt="" coords="741,1474,883,1515"/>
+<area shape="rect" id="node33" href="$classspams_1_1Matrix.html#a6f39122f004df59e1daf9e1e497eee30" title="merge two dictionaries " alt="" coords="737,1540,887,1567"/>
+<area shape="rect" id="node34" href="$classspams_1_1SpVector.html#a023d2baf252603fbebe90604d05948ef" title="computes the linf norm of the vector " alt="" coords="723,1227,901,1253"/>
+<area shape="rect" id="node36" href="$classspams_1_1GraphPath.html#a1534860428d6e2beee03e216ef6c88e4" title="spams::GraphPath::init\l_graph" alt="" coords="734,731,890,773"/>
+<area shape="rect" id="node37" href="$classspams_1_1GraphPath.html#a17b13bceae34e39bf7dd12dd317cd2b0" title="spams::GraphPath::scale\l_costs" alt="" coords="727,797,897,838"/>
+<area shape="rect" id="node21" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="1017,863,1099,889"/>
+<area shape="rect" id="node22" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="979,913,1137,940"/>
+<area shape="rect" id="node23" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="968,745,1148,772"/>
+<area shape="rect" id="node35" href="$classspams_1_1FISTA_1_1GraphLasso.html#a75273e4b61fdc8d5b97d0ea936188c17" title="spams::FISTA::GraphLasso\l::eval_split" alt="" coords="965,1219,1151,1261"/>
+<area shape="rect" id="node39" href="$classspams_1_1FISTA_1_1FusedLasso.html#a7cb5da5b7aa175bcc492817f5d54152c" title="spams::FISTA::FusedLasso\l::prox" alt="" coords="455,614,641,655"/>
+<area shape="rect" id="node40" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="451,563,645,589"/>
+<area shape="rect" id="node41" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="726,563,898,589"/>
+<area shape="rect" id="node42" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="707,614,917,655"/>
+<area shape="rect" id="node43" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="715,461,909,488"/>
+</map>

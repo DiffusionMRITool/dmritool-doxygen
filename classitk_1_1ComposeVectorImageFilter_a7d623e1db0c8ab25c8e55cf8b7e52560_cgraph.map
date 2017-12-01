@@ -1,0 +1,4 @@
+<map id="itk::ComposeVectorImageFilter::GenerateOutputInformation" name="itk::ComposeVectorImageFilter::GenerateOutputInformation">
+<area shape="rect" id="node2" href="$classitk_1_1ComposeVectorImageFilter.html#a2fd4d7d2bf949f991fe50f74592a41a0" title="itk::ComposeVectorImageFilter\l::BeforeThreadedGenerateData" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1ComposeVectorImageFilter.html#a4cf60b823d97ff99c2c3263ebbd6074a" title="itk::ComposeVectorImageFilter\l::ThreadedGenerateData" alt="" coords="507,5,709,47"/>
+</map>

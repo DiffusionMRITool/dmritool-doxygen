@@ -1,0 +1,14 @@
+<map id="spams::Data::m" name="spams::Data::m">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a9f44732d36f8605c37494635bae9492d" title="make a copy of the matrix mat in the current matrix " alt="" coords="181,45,337,71"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#ade542e62390b6d49565ea0fd6cd067e1" title="change artificially the size of the matrix, DANGEROUS " alt="" coords="177,95,341,122"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#a5eb2bcfb81a399a395509b1bab2b83f9" title="number of nonzeros elements " alt="" coords="184,146,335,173"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpVector.html#a9282f22842d7bf2e57891171dd179244" title="spams::SpVector::setL" alt="" coords="181,197,337,223"/>
+<area shape="rect" id="node8" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="413,197,555,223"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#a65bc084686fa1c686354b4eb5567acba" title="modify _m " alt="" coords="188,298,331,325"/>
+<area shape="rect" id="node13" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="169,349,349,375"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1LossCur.html#a8320c9e22441ecf9871a5390418b05b5" title="spams::FISTA::LossCur\l::eval" alt="" coords="402,5,566,47"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1LossCur.html#a2a35824c6e1131722c5cedca89aeccb4" title="spams::FISTA::LossCur\l::grad" alt="" coords="402,71,566,112"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="621,273,755,299"/>
+<area shape="rect" id="node11" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="619,335,757,362"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#ab6a9bac72f822171bed7b2efe1a4d430" title="extract the rows of a matrix corresponding to a binary mask " alt="" coords="397,298,571,325"/>
+</map>

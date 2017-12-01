@@ -1,0 +1,19 @@
+<map id="Modules/DiffusionModels/include/itkSPFScaleFromMeanDiffusivityImageFilter.h" name="Modules/DiffusionModels/include/itkSPFScaleFromMeanDiffusivityImageFilter.h">
+<area shape="rect" id="node2" href="$SPFToODF_8cxx.html" title="Applications/DiffusionModels\l/SPFToODF.cxx" alt="" coords="5,637,196,678"/>
+<area shape="rect" id="node3" href="$SPFToProfile_8cxx.html" title="Applications/DiffusionModels\l/SPFToProfile.cxx" alt="" coords="991,637,1181,678"/>
+<area shape="rect" id="node4" href="$itkSphericalPolarFourierImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.hxx" alt="" coords="848,109,1057,165"/>
+<area shape="rect" id="node14" href="$mexGetSamplesFromSPFCoefficients_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSamplesFromSPFCoefficients.cxx" alt="" coords="1444,637,1760,678"/>
+<area shape="rect" id="node5" href="$itkSphericalPolarFourierImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.h" alt="" coords="848,213,1057,269"/>
+<area shape="rect" id="node6" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="221,637,442,678"/>
+<area shape="rect" id="node7" href="$itkFeaturesFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.hxx" alt="" coords="615,317,843,373"/>
+<area shape="rect" id="node11" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="749,629,967,685"/>
+<area shape="rect" id="node13" href="$itkProfileFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.hxx" alt="" coords="1205,629,1420,685"/>
+<area shape="rect" id="node18" href="$mexGetSPFBasisMatrix_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSPFBasisMatrix.cxx" alt="" coords="1259,325,1494,366"/>
+<area shape="rect" id="node8" href="$itkFeaturesFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.h" alt="" coords="615,421,843,477"/>
+<area shape="rect" id="node9" href="$itkODFFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkODFFromSPFImageFilter.h" alt="" coords="473,533,718,574"/>
+<area shape="rect" id="node12" href="$itkProfileFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.h" alt="" coords="919,525,1133,581"/>
+<area shape="rect" id="node15" href="$itkScalarMapFromSPFImageFilter_8h.html" title="Created &quot;03&#45;18&#45;2014. " alt="" coords="1879,525,2117,581"/>
+<area shape="rect" id="node10" href="$itkODFFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkODFFromSPFImageFilter.hxx" alt="" coords="466,637,725,678"/>
+<area shape="rect" id="node16" href="$SPFToScalarMap_8cxx.html" title="calculate RTO map from SPF coefficients Created &quot;03&#45;18&#45;2014 " alt="" coords="1784,637,1975,678"/>
+<area shape="rect" id="node17" href="$itkScalarMapFromSPFImageFilter_8hxx.html" title="Created &quot;03&#45;18&#45;2014. " alt="" coords="1999,629,2237,685"/>
+</map>

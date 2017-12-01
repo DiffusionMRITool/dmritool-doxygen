@@ -1,0 +1,20 @@
+<map id="spams::List::push_back" name="spams::List::push_back">
+<area shape="rect" id="node2" href="$classspams_1_1MaxFlow.html#ad2dcfdcc58536b0af5b9c16a1dd767c7" title="spams::MaxFlow::check_flow" alt="" coords="227,5,423,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1MaxFlow.html#a6aeaeffc64064b75f4e721f61b335dd4" title="spams::MaxFlow::component\l_relabelling" alt="" coords="228,57,423,98"/>
+<area shape="rect" id="node4" href="$namespacespams.html#abb00351ac7c01f37efaed4070b7ea74d" title="spams::count_cc_graph" alt="" coords="245,123,406,149"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a9e0766ada6d431cf75e5e4414f06f494" title="spams::count_paths_dags" alt="" coords="238,173,413,200"/>
+<area shape="rect" id="node6" href="$classspams_1_1MaxFlow.html#a65d5e79b9f3e600742023e03a7d69dbf" title="spams::MaxFlow::extractConnex\lComponents" alt="" coords="218,225,433,266"/>
+<area shape="rect" id="node7" href="$classspams_1_1GraphPath.html#abf22e163dd2323002a9b84c0ab7b6d33" title="spams::GraphPath::flow\l_decomposition" alt="" coords="244,290,407,331"/>
+<area shape="rect" id="node8" href="$classspams_1_1MaxFlow.html#a202e1f433b718eb2071dda5d78ae1bef" title="spams::MaxFlow::global\l_relabelling" alt="" coords="243,355,407,397"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1GroupProx.html#afc8f54b2759ca8ba6b3b6fa117ae616b" title="spams::FISTA::GroupProx\l::GroupProx" alt="" coords="237,421,414,462"/>
+<area shape="rect" id="node10" href="$classspams_1_1MaxFlow.html#a3a77850f8b768b24c78aced2bb2a9bbc" title="spams::MaxFlow::init\l_split_variables_aux" alt="" coords="252,486,399,527"/>
+<area shape="rect" id="node11" href="$classspams_1_1MaxFlow.html#a5d174ea8165335e478252539560d0489" title="spams::MaxFlow::norm" alt="" coords="246,552,405,579"/>
+<area shape="rect" id="node12" href="$classspams_1_1MaxFlow.html#a640059ac183585d8a0ffc62cd70dd13f" title="spams::MaxFlow::project_box" alt="" coords="227,603,424,629"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a23c5e278179f90790286b528df5b5ea0" title="spams::remove_cycles" alt="" coords="247,653,404,680"/>
+<area shape="rect" id="node14" href="$classspams_1_1MaxFlow.html#a642ca71a11aef4e2bb364c28e3de18ad" title="spams::MaxFlow::splitComponent" alt="" coords="215,704,436,731"/>
+<area shape="rect" id="node15" href="$classspams_1_1MinCostFlow.html#a1c07420ec9bf3460102cfbf47eb8846b" title="spams::MinCostFlow\l::st_flow_decomposition_dag" alt="" coords="230,755,421,797"/>
+<area shape="rect" id="node16" href="$classspams_1_1MaxFlow.html#a1dab0f192e8dcf379fb45c96ab526394" title="spams::MaxFlow::sub\l_gradient" alt="" coords="250,821,401,862"/>
+<area shape="rect" id="node17" href="$classspams_1_1MaxFlow.html#aca59608e418e2e9049d0e84a2ac9b68f" title="spams::MaxFlow::sub\l_gradient_aux" alt="" coords="250,886,401,927"/>
+<area shape="rect" id="node18" href="$classspams_1_1MinCostFlow.html#a351b3dd71968e135fc7b5278f79819f6" title="the function assumes the graph is a DAG " alt="" coords="252,951,399,993"/>
+<area shape="rect" id="node19" href="$classspams_1_1MaxFlow.html#a70c1c3798035f9097f2c5b97ca42c4ff" title="spams::MaxFlow::update\l_capacities" alt="" coords="241,1017,410,1058"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spams::Matrix::setData" name="spams::Matrix::setData">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a442417036fa4deb22192cd4e7e435bd2" title="make a copy of the matrix mat in the current matrix " alt="" coords="240,5,403,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#a0bab3bee31d51b4b5e51ca1cbb017280" title="return vec1&#39;*A*vec2, where vec2 is sparse " alt="" coords="235,56,408,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#ab0936c0aae584c6c6402e4452267b0c8" title="spams::Matrix::rank1Update_mult" alt="" coords="212,107,431,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#acc81606800ffba80088b96b1b94d6afb" title="Reference the column i to i+n into the Matrix mat. " alt="" coords="235,157,408,184"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#ab2bb1f19457b72256fe7f55be83b6c52" title="spams::FISTA::solver_aux2" alt="" coords="479,157,664,184"/>
+<area shape="rect" id="node7" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="712,157,863,184"/>
+<area shape="rect" id="node8" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="911,157,1003,184"/>
+</map>

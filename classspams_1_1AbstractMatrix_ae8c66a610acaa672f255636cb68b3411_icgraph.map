@@ -1,0 +1,12 @@
+<map id="spams::AbstractMatrix::copyCol" name="spams::AbstractMatrix::copyCol">
+<area shape="rect" id="node2" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="208,81,343,108"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="225,132,325,159"/>
+<area shape="rect" id="node11" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="222,183,329,209"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a4c2c75f7becf58d5830733655a400da1" title="Auxiliary function of omp. " alt="" coords="391,5,533,32"/>
+<area shape="rect" id="node5" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="395,56,529,83"/>
+<area shape="rect" id="node8" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="415,107,509,133"/>
+<area shape="rect" id="node9" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="395,157,529,184"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="581,5,724,32"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="602,56,703,83"/>
+<area shape="rect" id="node7" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="772,56,873,83"/>
+</map>

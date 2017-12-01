@@ -1,0 +1,8 @@
+<map id="itk::DiffusionModelEstimationInSphericalCoordinateImageFilter&lt; TInputImage, TOutputImage &gt;" name="itk::DiffusionModelEstimationInSphericalCoordinateImageFilter&lt; TInputImage, TOutputImage &gt;">
+<area shape="rect" id="node6" href="$classitk_1_1SphericalPolarFourierEstimationImageFilter.html" title="estimate the coeffcients of generalized Spherical Polar Fourier basis which can be separated into dif..." alt="" coords="1480,45,1683,101"/>
+<area shape="rect" id="node2" href="$classitk_1_1DiffusionModelEstimationImageFilter.html" title="base filter for estimation of diffusion models " alt="" coords="973,45,1167,101"/>
+<area shape="rect" id="node3" href="$classitk_1_1MaskedImageToImageFilter.html" title="itk::MaskedImageToImageFilter\l\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="713,53,924,94"/>
+<area shape="rect" id="node5" href="$classitk_1_1MaskedImageToImageFilter.html" title="ImageToImageFilter with mask and threaded logger support. " alt="" coords="265,85,472,141"/>
+<area shape="rect" id="node7" href="$classitk_1_1GeneralizedHighOrderTensorImageFilter.html" title="estimate the coefficients in GHOT model, which is used for md image estimation " alt="" coords="1732,5,1948,61"/>
+<area shape="rect" id="node8" href="$classitk_1_1SphericalPolarFourierImageFilter.html" title="estimate the coefficients in SPF model " alt="" coords="1752,85,1928,141"/>
+</map>

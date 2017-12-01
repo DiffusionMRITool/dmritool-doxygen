@@ -1,0 +1,9 @@
+<map id="spams::project_tree_l1" name="spams::project_tree_l1">
+<area shape="rect" id="node2" href="$namespacespams.html#ad545640b64f86dcbe29f77b9a3355e23" title="spams::compare_abs" alt="" coords="227,5,374,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Tree__Seq.html#af958e1266fbd6dec713a446f89ae3949" title="spams::Tree_Seq::dual\l_norm_inf" alt="" coords="222,57,379,98"/>
+<area shape="rect" id="node7" href="$classspams_1_1Tree__Seq.html#a620d3a79ff7a601a12b4b0fed696397f" title="spams::Tree_Seq::proj" alt="" coords="223,123,378,149"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1GraphLasso.html#a84ff014795213f051e7a66bbf07f576c" title="spams::FISTA::GraphLasso\l::prox_split" alt="" coords="208,174,393,215"/>
+<area shape="rect" id="node4" href="$classspams_1_1Graph.html#a8f110340cd54510c199c1b194328804a" title="spams::Graph::norm" alt="" coords="441,64,583,91"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1GraphLasso.html#a77fa13ced3261d61a16bc134f183bd14" title="spams::FISTA::GraphLasso\l::eval" alt="" coords="631,57,816,98"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#a9054f8428cfc59be2eaf9d76c9a811cb" title="spams::FISTA::dualityGraph" alt="" coords="864,64,1052,91"/>
+</map>

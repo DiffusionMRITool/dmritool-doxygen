@@ -1,0 +1,28 @@
+<map id="Wrapping/Matlab/DiffusionModels/mexGetSHBasisMatrix.cxx" name="Wrapping/Matlab/DiffusionModels/mexGetSHBasisMatrix.cxx">
+<area shape="rect" id="node6" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="1827,95,1874,121"/>
+<area shape="rect" id="node44" href="$mexutils_8h.html" title="Contains miscellaneous functions for mex files. utl functions for mex code. Some codes are from spams..." alt="" coords="347,483,429,509"/>
+<area shape="rect" id="node47" href="$utlMEX_8h.html" title="utlMEX.h" alt="" coords="551,259,627,285"/>
+<area shape="rect" id="node7" href="$DMRITOOLConfigure_8h.html" title="DMRITOOLConfigure.h" alt="" coords="1278,333,1437,360"/>
+<area shape="rect" id="node9" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="2557,707,2680,733"/>
+<area shape="rect" id="node15" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="1752,483,1827,509"/>
+<area shape="rect" id="node33" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="2155,408,2253,435"/>
+<area shape="rect" id="node34" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="2522,408,2598,435"/>
+<area shape="rect" id="node35" href="$utlVNL_8h.html" title="help functions for VNL " alt="" coords="1753,408,1826,435"/>
+<area shape="rect" id="node36" href="$utlVNLIO_8h.html" title="utlVNLIO.h" alt="" coords="1889,333,1975,360"/>
+<area shape="rect" id="node37" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="1419,408,1487,435"/>
+<area shape="rect" id="node38" href="$utlVNLBlas_8h.html" title="utlVNLBlas.h" alt="" coords="1664,333,1763,360"/>
+<area shape="rect" id="node39" href="$utlVNLLapack_8h.html" title="utlVNLLapack.h" alt="" coords="1576,259,1691,285"/>
+<area shape="rect" id="node40" href="$utlDMRI_8h.html" title="utlDMRI.h" alt="" coords="2253,333,2336,360"/>
+<area shape="rect" id="node41" href="$itkSphericalHarmonicsGenerator_8h.html" title="itkSphericalHarmonicsGenerator.h" alt="" coords="2304,177,2525,203"/>
+<area shape="rect" id="node42" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="2019,259,2178,285"/>
+<area shape="rect" id="node43" href="$itkMultiVolumeImageToVectorImageFilter_8h.html" title="itkMultiVolumeImageToVector\lImageFilter.h" alt="" coords="1888,169,2085,211"/>
+<area shape="rect" id="node16" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="1406,557,1575,584"/>
+<area shape="rect" id="node18" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="2013,632,2123,659"/>
+<area shape="rect" id="node20" href="$utlCore11_8h.html" title="utl functions using c++11 Created &quot;07&#45;02&#45;2016 " alt="" coords="2055,707,2145,733"/>
+<area shape="rect" id="node21" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="932,557,1052,584"/>
+<area shape="rect" id="node31" href="$utlConstants_8h.html" title="Created &quot;09&#45;22&#45;2016. " alt="" coords="2507,557,2613,584"/>
+<area shape="rect" id="node32" href="$utlCoreMKL_8h.html" title="utlCoreMKL.h" alt="" coords="805,557,907,584"/>
+<area shape="rect" id="node48" href="$mexSTD_8h.html" title="mexSTD.h" alt="" coords="695,408,780,435"/>
+<area shape="rect" id="node49" href="$mexVNL_8h.html" title="mexVNL.h" alt="" coords="586,408,670,435"/>
+<area shape="rect" id="node50" href="$mexITK_8h.html" title="mexITK.h" alt="" coords="511,333,590,360"/>
+</map>

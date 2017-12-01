@@ -1,0 +1,11 @@
+<map id="spams::SpMatrixToUtlMatrix" name="spams::SpMatrixToUtlMatrix">
+<area shape="rect" id="node2" href="$classutl_1_1NDArrayBase.html#a8c4f83d6286ea8a4e32542beb1315431" title="utl::NDArrayBase::Fill" alt="" coords="243,5,393,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="248,56,388,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="250,107,386,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#aac5be2c27933a429bc6a4e7879eb52fd" title="returns pB[i] " alt="" coords="245,157,391,184"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#ae714083cdc03f349f927654b1cca8d7d" title="Direct access to _pE. " alt="" coords="245,208,391,235"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#a1d5c3fe449efda28a69d91536f1a4a32" title="returns r[i] " alt="" coords="251,259,385,285"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#abe2e28029c1383dbb4d1100c762681b0" title="utl::NDArray\&lt; T, 2\l \&gt;::ReSize" alt="" coords="253,310,383,351"/>
+<area shape="rect" id="node10" href="$classspams_1_1SpMatrix.html#ac77e5c0f1817324676a9f9004b5dd109" title="returns v[i] " alt="" coords="250,376,386,403"/>
+<area shape="rect" id="node9" href="$classutl_1_1NDArrayBase.html#a425e6d02b0bc1c285e18d07af2eb1e66" title="utl::NDArrayBase::ReSize" alt="" coords="441,317,617,344"/>
+</map>

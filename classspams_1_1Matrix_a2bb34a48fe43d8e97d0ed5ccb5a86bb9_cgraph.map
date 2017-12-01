@@ -1,0 +1,8 @@
+<map id="spams::Matrix::norm_2_cols" name="spams::Matrix::norm_2_cols">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="199,5,343,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="197,56,345,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="196,107,347,133"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="407,56,549,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="417,107,539,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="395,157,561,184"/>
+</map>

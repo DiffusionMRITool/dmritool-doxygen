@@ -1,0 +1,5 @@
+<map id="itk::VariableLengthVectorImageFileWriter::VariableLengthVectorImageFileWriter" name="itk::VariableLengthVectorImageFileWriter::VariableLengthVectorImageFileWriter">
+<area shape="rect" id="node2" href="$classitk_1_1VariableLengthVectorImageFileWriter.html#adf0ecf10b0ddd721ae8157213553d959" title="itk::VariableLengthVector\lImageFileWriter::~VariableLength\lVectorImageFileWriter" alt="" coords="261,5,477,61"/>
+<area shape="rect" id="node3" href="$classitk_1_1VariableLengthVectorImageFileWriter.html#a9792000d6570c63e7f694c72fe514381" title="itk::VariableLengthVector\lImageFileWriter::SetInput" alt="" coords="525,13,696,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1VariableLengthVectorImageFileWriter.html#a5b937a23d4911267ea878668872e071d" title="itk::VariableLengthVector\lImageFileWriter::GetInput" alt="" coords="744,13,916,54"/>
+</map>

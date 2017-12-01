@@ -1,0 +1,51 @@
+<map id="spams::Trainer::trainOffline" name="spams::Trainer::trainOffline">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a98d75501c22f06741ab695a43b9581d2" title="add alpha*mat to the current matrix " alt="" coords="259,5,394,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="259,56,395,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="241,473,413,500"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="729,664,871,691"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="937,765,1088,792"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="1158,664,1281,691"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="1136,1103,1303,1129"/>
+<area shape="rect" id="node11" href="$classspams_1_1Data.html#ac7e5752efa8ffe96a571651c97e682d6" title="spams::Data::getData" alt="" coords="490,259,641,285"/>
+<area shape="rect" id="node12" href="$classspams_1_1Data.html#aece44c8006c18b63ec4f10ab03b933de" title="spams::Data::n" alt="" coords="509,309,621,336"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="943,487,1082,513"/>
+<area shape="rect" id="node17" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="491,664,639,691"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="468,512,663,539"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#aae6df4c4960c416f68c2bd06d757ccd0" title="normalize the vector " alt="" coords="711,360,889,387"/>
+<area shape="rect" id="node20" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="720,411,880,437"/>
+<area shape="rect" id="node21" href="$namespacespams.html#aa437c45eb6500e07693bdec9305fd36e" title="coreIST " alt="" coords="269,1035,384,1061"/>
+<area shape="rect" id="node29" href="$namespacespams.html#a0f6a5c694f147729b4c98d2670903683" title="coreIST constrained " alt="" coords="235,984,418,1011"/>
+<area shape="rect" id="node31" href="$classspams_1_1Timer.html#a6daec457c61de062e6dab52f46e7fb30" title="print the elapsed time " alt="" coords="239,1085,414,1112"/>
+<area shape="rect" id="node32" href="$namespacespams.html#a70671a263b259b8fcae010568dc63009" title="spams::init_omp" alt="" coords="267,1136,386,1163"/>
+<area shape="rect" id="node33" href="$classspams_1_1Data.html#aec2167cbfbd7cb3f3f7d42407a40193a" title="spams::Data::m" alt="" coords="269,1187,385,1213"/>
+<area shape="rect" id="node34" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="731,816,869,843"/>
+<area shape="rect" id="node35" href="$classspams_1_1Matrix.html#abbf5e00180181e8c2ac82293f7efb477" title="returns the linf norms of the columns " alt="" coords="729,1095,871,1137"/>
+<area shape="rect" id="node36" href="$classspams_1_1Timer.html#a0a4245820f6e390c5480878473c9407a" title="print the elapsed time " alt="" coords="235,1339,418,1365"/>
+<area shape="rect" id="node37" href="$classspams_1_1Vector.html#a412980373e7341251055f7464659ea5d" title="put a random permutation of size n (for integral vectors) " alt="" coords="242,1389,411,1416"/>
+<area shape="rect" id="node38" href="$classspams_1_1Matrix.html#a89f292c8487e0acf48b5adcad2f9c462" title="perform A &lt;&#45; A + alpha*vec1*vec2&#39; " alt="" coords="233,1440,420,1467"/>
+<area shape="rect" id="node39" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="253,1491,401,1517"/>
+<area shape="rect" id="node43" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="483,1592,647,1619"/>
+<area shape="rect" id="node44" href="$classspams_1_1SpVector.html#a972fb20fab0fe4c086067811d26cefe3" title="resizes the vector " alt="" coords="243,1592,410,1619"/>
+<area shape="rect" id="node46" href="$classspams_1_1Matrix.html#a5b56b244cbdb30f93a4ea9386e16a7f2" title="scale the matrix by the a " alt="" coords="258,1643,395,1669"/>
+<area shape="rect" id="node47" href="$classspams_1_1Timer.html#abfee07295de96dcb1751142d34eceab6" title="start the time " alt="" coords="259,1693,395,1720"/>
+<area shape="rect" id="node48" href="$classspams_1_1Vector.html#a1c2a39e500bcdba32db98d75a4bd62ba" title="A &lt;&#45; A &#45; x. " alt="" coords="259,1744,395,1771"/>
+<area shape="rect" id="node49" href="$classspams_1_1Vector.html#ae7a47651f6c2a53283e89dbe0787e387" title="make a sparse copy " alt="" coords="243,1795,410,1821"/>
+<area shape="rect" id="node50" href="$classspams_1_1Data.html#a00357a364f37d56c2e6bff99b92a8ac5" title="spams::Data::V" alt="" coords="269,1845,384,1872"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a6e0c56710b83e6ea3b2a757f8d202466" title="template version of the fabs function " alt="" coords="520,867,611,893"/>
+<area shape="rect" id="node13" href="$classspams_1_1Vector.html#a9e9c791ed2afa83e0a0d3e6aa8f372ed" title="normalize the vector " alt="" coords="715,461,885,488"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="494,411,637,437"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="1148,740,1291,767"/>
+<area shape="rect" id="node14" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="941,411,1085,437"/>
+<area shape="rect" id="node22" href="$classspams_1_1AbstractMatrix.html#aa647e2dca8b7db404470e4e70a29011d" title="compute X(:,i)&lt;&#45; X(:,i)+a*col; " alt="" coords="488,1070,643,1111"/>
+<area shape="rect" id="node23" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="492,1136,639,1163"/>
+<area shape="rect" id="node24" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="485,1187,646,1213"/>
+<area shape="rect" id="node25" href="$classspams_1_1AbstractMatrix.html#a3dc5173bfe9a0f75f0a7a841063acfca" title="spams::AbstractMatrix::n" alt="" coords="481,968,650,995"/>
+<area shape="rect" id="node26" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="493,1019,638,1045"/>
+<area shape="rect" id="node27" href="$namespaceutl.html#a1de2a34ea3126e44d38a459e169385e9" title="interface to v*Add " alt="" coords="528,1288,603,1315"/>
+<area shape="rect" id="node28" href="$namespaceutl.html#a724a5507efe03ab509a1b04c04fb4b59" title="interface to v*Sub " alt="" coords="528,1237,603,1264"/>
+<area shape="rect" id="node30" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="499,917,632,944"/>
+<area shape="rect" id="node40" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="495,1541,636,1568"/>
+<area shape="rect" id="node41" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="503,1440,627,1467"/>
+<area shape="rect" id="node42" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="505,1491,625,1517"/>
+<area shape="rect" id="node45" href="$classspams_1_1SpVector.html#ac29fd3b425abd23b09853c4403f1f233" title="clears the vector " alt="" coords="486,1643,645,1669"/>
+</map>

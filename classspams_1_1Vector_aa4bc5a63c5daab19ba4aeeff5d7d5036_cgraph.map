@@ -1,0 +1,7 @@
+<map id="spams::Vector::fusedProject" name="spams::Vector::fusedProject">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="273,5,396,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="262,56,407,83"/>
+<area shape="rect" id="node4" href="$namespacespams.html#afaf244cfae0e86dc82d68327dd9cd6c9" title="spams::softThrs" alt="" coords="276,107,393,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#a7fd6d5b6e05bde9b20d79c62f9d47cec" title="performs soft&#45;thresholding of the vector " alt="" coords="241,157,428,184"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#add5408c2aecfd998a19e9ec35260aa52" title="returns the sum of the vector " alt="" coords="265,208,405,235"/>
+</map>

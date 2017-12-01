@@ -1,0 +1,12 @@
+<map id="spams::FISTA::GroupProx::prox" name="spams::FISTA::GroupProx::prox">
+<area shape="rect" id="node2" href="$classspams_1_1List.html#a0437bd25bd3081300aced61cbdb96d64" title="spams::List::begin" alt="" coords="239,5,368,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="232,107,375,133"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="669,107,791,133"/>
+<area shape="rect" id="node8" href="$classspams_1_1List.html#a7e306e462f940032408c352810c34dcb" title="spams::List::end" alt="" coords="244,208,363,235"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="231,259,376,285"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a5b8f9c910d096fe221cc7f827c34bb0e" title="change the data of the vector " alt="" coords="424,208,599,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1List.html#a7dd0d4aa84398aaa7d9ee6dc5f8d6e84" title="spams::List::size" alt="" coords="242,309,365,336"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="436,157,587,184"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="659,208,801,235"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="647,157,813,184"/>
+</map>

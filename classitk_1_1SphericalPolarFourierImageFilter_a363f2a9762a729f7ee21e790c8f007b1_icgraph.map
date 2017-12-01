@@ -1,0 +1,7 @@
+<map id="itk::SphericalPolarFourierImageFilter::GetIndexJ" name="itk::SphericalPolarFourierImageFilter::GetIndexJ">
+<area shape="rect" id="node2" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a787e8209ea84f25a07770acbeb2b17da" title="itk::SphericalPolarFourier\lImageFilter::GetIndexNLM" alt="" coords="221,13,397,54"/>
+<area shape="rect" id="node3" href="$classitk_1_1SphericalPolarFourierImageFilter.html#ae2eb668b12e4964924528c2aadd2e670" title="itk::SphericalPolarFourier\lImageFilter::ComputeScale" alt="" coords="445,13,627,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a43f236219d2f0cb91b26be0c1971b7a5" title="itk::SphericalPolarFourier\lImageFilter::InternalClone" alt="" coords="675,13,847,54"/>
+<area shape="rect" id="node5" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a26f90a149c20a1ad005b0e77223a0ea7" title="itk::SphericalPolarFourier\lImageFilter::SetBasisScale" alt="" coords="895,13,1076,54"/>
+<area shape="rect" id="node6" href="$classitk_1_1SphericalPolarFourierImageFilter.html#aaf52bc058a0e3515a214482fa909b458" title="itk::SphericalPolarFourier\lImageFilter::SphericalPolarFourier\lImageFilter" alt="" coords="1124,5,1343,61"/>
+</map>

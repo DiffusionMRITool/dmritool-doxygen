@@ -1,0 +1,12 @@
+<map id="spams::FISTA::normLINF::prox" name="spams::FISTA::normLINF::prox">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="461,28,603,54"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="894,28,1017,54"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a62eab6ce32dbae8be23d7f7a7302c6f8" title="spams::Vector::l1project" alt="" coords="227,78,391,105"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="452,180,612,206"/>
+<area shape="rect" id="node11" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="236,180,381,206"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="673,78,824,105"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="884,129,1027,156"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="872,78,1039,105"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a7fd6d5b6e05bde9b20d79c62f9d47cec" title="performs soft&#45;thresholding of the vector " alt="" coords="439,129,625,156"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#add5408c2aecfd998a19e9ec35260aa52" title="returns the sum of the vector " alt="" coords="462,78,602,105"/>
+</map>

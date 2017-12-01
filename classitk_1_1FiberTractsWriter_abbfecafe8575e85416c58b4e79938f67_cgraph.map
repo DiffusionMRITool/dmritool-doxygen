@@ -1,0 +1,11 @@
+<map id="itk::FiberTractsWriter::Update" name="itk::FiberTractsWriter::Update">
+<area shape="rect" id="node2" href="$namespaceutl.html#a60249473bec3eacabbf2578fa8d47b42" title="utl::GetFiberTractsFormat\lFromFileExtension" alt="" coords="199,5,371,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1FiberTractsWriter.html#a15e2ea282aa453fec88553c1bcf3a54e" title="itk::FiberTractsWriter\l::WriteTractsTCK" alt="" coords="212,71,357,112"/>
+<area shape="rect" id="node5" href="$classitk_1_1FiberTractsWriter.html#a3efa82570b3fca739cad54ddf34d138e" title="itk::FiberTractsWriter\l::WriteTractsTRK" alt="" coords="212,136,357,177"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#ad2170921486bbe1efe1934650ffe4a44" title="utl::GetFileExtension" alt="" coords="447,13,591,39"/>
+<area shape="rect" id="node6" href="$namespaceitk.html#a433a8b70ea8928145ba501d5e41f383f" title="itk::WriteTrackVisHeader" alt="" coords="434,93,603,119"/>
+<area shape="rect" id="node7" href="$namespaceitk.html#a286ccaf539233fa8546ed7649f520474" title="itk::GetDimensionOfProperties" alt="" coords="419,143,619,170"/>
+<area shape="rect" id="node10" href="$namespaceitk.html#aee22dd9e9803cad3bf026e60fba7e3f9" title="itk::GetDimensionOfScalars" alt="" coords="426,194,611,221"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a764bece42487f4dd6cdbdbeb1c696187" title="utl::GetScalarsDimention\lByName" alt="" coords="667,161,835,203"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a182ec809013fd5d9a9a577d27c8f53e4" title="utl::IsInt" alt="" coords="883,169,953,195"/>
+</map>

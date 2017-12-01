@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['tensor_5f9d',['TENSOR_9D',['../group__utlHelperFunctions.html#gga385c44f6fb256e5716a2302a5b940388ad1ff0fdd3c0784c0cfaa021e5ff98903',1,'utlDMRI.h']]],
+  ['tensor_5fdiagonal_5ffirst',['TENSOR_DIAGONAL_FIRST',['../group__utlHelperFunctions.html#gga385c44f6fb256e5716a2302a5b940388a1d2bb5245f70aff6007ae10a434b3d81',1,'utlDMRI.h']]],
+  ['tensor_5fembed6d',['TENSOR_EMBED6D',['../group__utlHelperFunctions.html#gga385c44f6fb256e5716a2302a5b940388a8aee414a458af331edc871952e70d0af',1,'utlDMRI.h']]],
+  ['tensor_5fin_5feuler_5fangles',['TENSOR_IN_EULER_ANGLES',['../classitk_1_1DWIGeneratorBase.html#ab8a9fa463c16800f4e57db8a1e1a495ea2bbba3028f9417c42c016e9733ceade1',1,'itk::DWIGeneratorBase']]],
+  ['tensor_5flower_5ftriangular',['TENSOR_LOWER_TRIANGULAR',['../group__utlHelperFunctions.html#gga385c44f6fb256e5716a2302a5b940388a23699ba0e88e01714527c4c128237b00',1,'utlDMRI.h']]],
+  ['tensor_5fupper_5ftriangular',['TENSOR_UPPER_TRIANGULAR',['../group__utlHelperFunctions.html#gga385c44f6fb256e5716a2302a5b940388a040e0b8bbef5b3824bcc97167ce0fbf6',1,'utlDMRI.h']]],
+  ['tetrahedron',['TETRAHEDRON',['../classitk_1_1SphereTessellator.html#ab1c51badd4d168324ea2a49415fcc98fa100996b05ea7e2e24c3550634e3a59f5',1,'itk::SphereTessellator']]],
+  ['trace_5fnorm',['TRACE_NORM',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590a273fe711ea5dad862e3e569302c7caea',1,'spams::FISTA']]],
+  ['trace_5fnorm_5fvec',['TRACE_NORM_VEC',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590adf93f128ab387edae04db9b37248e963',1,'spams::FISTA']]],
+  ['tracts_5ftck',['TRACTS_TCK',['../group__utlHelperFunctions.html#ggabc5c98fcc1211af2b80116dd6e0a035da1662408898fe3403d6870f75655b4f7b',1,'utlDMRI.h']]],
+  ['tracts_5ftrk',['TRACTS_TRK',['../group__utlHelperFunctions.html#ggabc5c98fcc1211af2b80116dd6e0a035dac0501a6a7177ac9090f95314ca47cff9',1,'utlDMRI.h']]],
+  ['tracts_5funknown',['TRACTS_UNKNOWN',['../group__utlHelperFunctions.html#ggabc5c98fcc1211af2b80116dd6e0a035da6518e5427298ce7a99d766ea2882ca00',1,'utlDMRI.h']]],
+  ['tracts_5fvtk',['TRACTS_VTK',['../group__utlHelperFunctions.html#ggabc5c98fcc1211af2b80116dd6e0a035daf5d39dd8b2e1d005563e7ee192d4846e',1,'utlDMRI.h']]],
+  ['tree_5fl0',['TREE_L0',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590adf5f62109a9079aa302ef4af0e4e3efc',1,'spams::FISTA']]],
+  ['tree_5fl2',['TREE_L2',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590ab8902d42be840d5676e2eb7b53802562',1,'spams::FISTA']]],
+  ['tree_5flinf',['TREE_LINF',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590a80b4b61cc3fbd1cc63a8034a1e05e8f8',1,'spams::FISTA']]],
+  ['treemult',['TREEMULT',['../namespacespams_1_1FISTA.html#a08cdb125fa3d90fd4a07a16a09639590a0ebcb9c537c7eeb17031d6c472d9e223',1,'spams::FISTA']]]
+];

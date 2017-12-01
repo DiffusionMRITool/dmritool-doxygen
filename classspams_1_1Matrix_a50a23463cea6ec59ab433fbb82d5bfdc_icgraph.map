@@ -1,0 +1,25 @@
+<map id="spams::Matrix::fillSymmetric" name="spams::Matrix::fillSymmetric">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#aeb18a9b6c4a48768ee1e9795e134a3ab" title="aat &lt;&#45; A*A&#39; " alt="" coords="266,5,417,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#a13145cc2be345059129e5b7d65c9bd3f" title="inverse the matrix when it is symmetric " alt="" coords="263,56,420,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#aeea28f9a81331e2e41437185b4685ee7" title="extract a sub&#45;matrix of a symmetric matrix " alt="" coords="243,107,440,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#ab4ed322e9ad1c8ffa500fa81031e68fc" title="XXt = A*A&#39; where A is an upper triangular matrix. " alt="" coords="250,157,433,184"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#ab9f114393255b4a66bb34b70d936fefb" title="aat &lt;&#45; sum_i w_i A(:,i)*A(:,i)&#39; " alt="" coords="261,360,422,387"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#ac3c6d6b164cd87d5c2ad2d200a0b5827" title="XtX = A&#39;*A. " alt="" coords="274,309,409,336"/>
+<area shape="rect" id="node24" href="$classspams_1_1Matrix.html#ac0132cf1a5e79db2857fe8ef47252c18" title="XXt = A*A&#39;. " alt="" coords="274,208,409,235"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="529,91,662,117"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="790,251,891,277"/>
+<area shape="rect" id="node8" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="979,251,1080,277"/>
+<area shape="rect" id="node11" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="554,411,637,437"/>
+<area shape="rect" id="node12" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="517,461,674,488"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1Rank.html#ad5fb80f09c7f972217bf459f6a2aa73e" title="spams::FISTA::Rank\l::eval" alt="" coords="522,142,669,183"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#a75a41b9c6107be9cae994dcec4361fb9" title="clean a dictionary matrix " alt="" coords="523,579,667,605"/>
+<area shape="rect" id="node15" href="$classspams_1_1Matrix.html#a2ef7c6e2a719146f5f94967c11606731" title="spams::Matrix::singularValues" alt="" coords="496,309,695,336"/>
+<area shape="rect" id="node18" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="528,208,663,235"/>
+<area shape="rect" id="node20" href="$classspams_1_1Matrix.html#a648317b7a80514798a634c051b0754c5" title="compute a Nadaraya Watson estimator " alt="" coords="488,360,703,387"/>
+<area shape="rect" id="node21" href="$classspams_1_1ProdMatrix.html#a2da72bca3bceb663e814b54b61f67310" title="set_matrices " alt="" coords="525,513,665,554"/>
+<area shape="rect" id="node16" href="$classspams_1_1FISTA_1_1TraceNorm.html#a88c9d5670e9887ac776952d63204716f" title="spams::FISTA::TraceNorm\l::eval" alt="" coords="751,367,931,409"/>
+<area shape="rect" id="node17" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="751,302,931,343"/>
+<area shape="rect" id="node19" href="$classspams_1_1FISTA_1_1TraceNorm.html#a35d8257a24954b984bf5393476fd75e1" title="spams::FISTA::TraceNorm\l::prox" alt="" coords="751,185,931,226"/>
+<area shape="rect" id="node22" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="774,495,907,521"/>
+<area shape="rect" id="node23" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="771,545,910,572"/>
+</map>

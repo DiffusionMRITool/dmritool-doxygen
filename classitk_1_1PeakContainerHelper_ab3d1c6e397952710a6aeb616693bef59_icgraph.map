@@ -1,0 +1,17 @@
+<map id="itk::PeakContainerHelper::GetDimension" name="itk::PeakContainerHelper::GetDimension">
+<area shape="rect" id="node2" href="$classitk_1_1DWIGeneratorBase.html#a9bc781044d0a197a8ab3084d3869a811" title="itk::DWIGeneratorBase\l::AllocateOutputs" alt="" coords="241,5,399,47"/>
+<area shape="rect" id="node7" href="$classitk_1_1DWIGenerator.html#ae3d906779a3d6c27dcad511a253a10d4" title="itk::DWIGenerator::\lGenerateData" alt="" coords="252,71,388,112"/>
+<area shape="rect" id="node12" href="$classitk_1_1DWISingleVoxelGenerator.html#a19becfa111674235f6e35eb8efdac3c4" title="itk::DWISingleVoxelGenerator\l::GenerateData" alt="" coords="221,136,419,177"/>
+<area shape="rect" id="node3" href="$classitk_1_1DWIGeneratorBase.html#a00b1813c6486541156a96258399313a7" title="itk::DWIGeneratorBase\l::Initialization" alt="" coords="486,5,645,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1DWIGeneratorBase.html#a22d694d821e0e1ded6743bcb3155846b" title="itk::DWIGeneratorBase\l::InternalClone" alt="" coords="731,5,890,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1DWIGeneratorBase.html#ad5ab354db90c9a269bb65fe2af506bbf" title="itk::DWIGeneratorBase\l::~DWIGeneratorBase" alt="" coords="977,5,1135,47"/>
+<area shape="rect" id="node6" href="$classitk_1_1DWIGeneratorBase.html#a9b283348ba9c956a79bc02fb4d6737f5" title="itk::DWIGeneratorBase\l::DWIGeneratorBase" alt="" coords="1222,5,1381,47"/>
+<area shape="rect" id="node8" href="$classitk_1_1DWIGenerator.html#abb5edbb1149787c949f8c7753b3be450" title="itk::DWIGenerator::\lInternalClone" alt="" coords="497,71,633,112"/>
+<area shape="rect" id="node9" href="$classitk_1_1DWIGenerator.html#aa2190675ad5aadb3f417d13473ebf5df" title="itk::DWIGenerator::\lPrintSelf" alt="" coords="743,71,879,112"/>
+<area shape="rect" id="node10" href="$classitk_1_1DWIGenerator.html#aaaae57a790531e61c6ca570d22a82c6e" title="itk::DWIGenerator::\l~DWIGenerator" alt="" coords="988,71,1124,112"/>
+<area shape="rect" id="node11" href="$classitk_1_1DWIGenerator.html#a719242ca03011982805dd2350f187a82" title="itk::DWIGenerator::\lDWIGenerator" alt="" coords="1233,71,1369,112"/>
+<area shape="rect" id="node13" href="$classitk_1_1DWISingleVoxelGenerator.html#a5b423466bda9908845fe7a2eb8eace12" title="itk::DWISingleVoxelGenerator\l::Initialization" alt="" coords="467,136,664,177"/>
+<area shape="rect" id="node14" href="$classitk_1_1DWISingleVoxelGenerator.html#ac6f6944ea9075a252b1a98ab23ae94a4" title="itk::DWISingleVoxelGenerator\l::InternalClone" alt="" coords="712,136,909,177"/>
+<area shape="rect" id="node15" href="$classitk_1_1DWISingleVoxelGenerator.html#a8cff44af5ef929cb9f4fa45a796d08e7" title="itk::DWISingleVoxelGenerator\l::PrintSelf" alt="" coords="957,136,1155,177"/>
+<area shape="rect" id="node16" href="$classitk_1_1DWISingleVoxelGenerator.html#a0a60446cf2a3cca55d96f2433d252404" title="itk::DWISingleVoxelGenerator\l::DWISingleVoxelGenerator" alt="" coords="1203,136,1400,177"/>
+</map>

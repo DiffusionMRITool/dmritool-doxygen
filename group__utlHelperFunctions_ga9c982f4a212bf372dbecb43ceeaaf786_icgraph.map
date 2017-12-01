@@ -1,0 +1,9 @@
+<map id="itk::GetImageType" name="itk::GetImageType">
+<area shape="rect" id="node2" href="$group__utlHelperFunctions.html#ga91dfc8cd2d73828648f98cf72d2821d4" title="itk::IsVectorImage" alt="" coords="184,31,313,57"/>
+<area shape="rect" id="node7" href="$ImageInfo_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="223,81,274,108"/>
+<area shape="rect" id="node8" href="$PrintImage_8cxx.html#ab65108991dbca233c6db38ed0901f5fc" title="PrintImage" alt="" coords="206,132,291,159"/>
+<area shape="rect" id="node3" href="$4DImageMath_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="4DImage math. It works for both itk::Image&lt;double,4&gt; and itk::VectorImage&lt;double,3&gt; ..." alt="" coords="559,5,609,32"/>
+<area shape="rect" id="node4" href="$namespaceitk.html#a3f4969dc3895d27e1ab4ad28e92bda7a" title="itk::ReadVectorImage" alt="" coords="361,81,511,108"/>
+<area shape="rect" id="node6" href="$group__utlHelperFunctions.html#ga20c11df53fd7fc89babe5378eb953ca1" title="itk::Is3DImage" alt="" coords="382,31,490,57"/>
+<area shape="rect" id="node5" href="$SHCoefficientsToGFA_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="Calculate GFA from SH coefficients. " alt="" coords="559,81,609,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="spams::Matrix::hardThrshold" name="spams::Matrix::hardThrshold">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a3f403392fa200ab934231fac88c7f91b" title="performs soft&#45;thresholding of the vector " alt="" coords="241,5,432,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#a4de5dfd0ae1dc754522695fae9646161" title="make a reference of the matrix to a vector vec " alt="" coords="261,56,412,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="480,56,623,83"/>
+</map>

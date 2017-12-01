@@ -1,0 +1,7 @@
+<map id="spams::Vector::Sqrt" name="spams::Vector::Sqrt">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a2ef7c6e2a719146f5f94967c11606731" title="spams::Matrix::singularValues" alt="" coords="192,78,391,105"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="224,135,359,162"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1TraceNorm.html#a88c9d5670e9887ac776952d63204716f" title="spams::FISTA::TraceNorm\l::eval" alt="" coords="439,5,619,47"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="439,71,619,112"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1TraceNorm.html#a35d8257a24954b984bf5393476fd75e1" title="spams::FISTA::TraceNorm\l::prox" alt="" coords="439,136,619,177"/>
+</map>

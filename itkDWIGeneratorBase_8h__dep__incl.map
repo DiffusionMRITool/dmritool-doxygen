@@ -1,0 +1,9 @@
+<map id="Modules/DWIProcessing/include/itkDWIGeneratorBase.h" name="Modules/DWIProcessing/include/itkDWIGeneratorBase.h">
+<area shape="rect" id="node2" href="$itkDWIGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.h" alt="" coords="226,95,406,136"/>
+<area shape="rect" id="node5" href="$itkDWIGeneratorBase_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGeneratorBase.hxx" alt="" coords="431,95,655,136"/>
+<area shape="rect" id="node6" href="$itkDWISingleVoxelGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.h" alt="" coords="679,95,929,136"/>
+<area shape="rect" id="node3" href="$DWISimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISimulator.cxx" alt="" coords="5,184,195,225"/>
+<area shape="rect" id="node4" href="$itkDWIGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.hxx" alt="" coords="219,184,413,225"/>
+<area shape="rect" id="node7" href="$DWISingleVoxelSimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISingleVoxelSimulator.cxx" alt="" coords="445,184,648,225"/>
+<area shape="rect" id="node8" href="$itkDWISingleVoxelGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.hxx" alt="" coords="673,184,935,225"/>
+</map>

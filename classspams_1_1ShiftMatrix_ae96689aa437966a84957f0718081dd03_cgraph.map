@@ -1,0 +1,10 @@
+<map id="spams::ShiftMatrix::mult" name="spams::ShiftMatrix::mult">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="198,5,334,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="193,56,339,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="191,107,341,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="395,157,561,184"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="197,208,335,235"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#af73cc5c470cbb1ac67e6f62b2204a8f9" title="spams::Vector::setData" alt="" coords="185,259,347,285"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="407,56,549,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="417,107,539,133"/>
+</map>

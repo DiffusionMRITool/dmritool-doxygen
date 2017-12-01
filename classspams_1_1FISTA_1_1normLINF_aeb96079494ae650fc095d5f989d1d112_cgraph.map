@@ -1,0 +1,6 @@
+<map id="spams::FISTA::normLINF::eval" name="spams::FISTA::normLINF::eval">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="227,5,388,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="246,56,369,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="235,107,380,133"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="436,5,580,32"/>
+</map>

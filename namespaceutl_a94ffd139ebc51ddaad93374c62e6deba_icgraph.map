@@ -1,0 +1,14 @@
+<map id="utl::IsLogNormal" name="utl::IsLogNormal">
+<area shape="rect" id="node2" href="$namespaceitk.html#aad78545596a06166025f9e7176676904" title="itk::ReadFibers" alt="" coords="172,5,283,32"/>
+<area shape="rect" id="node3" href="$group__utlHelperFunctions.html#ga445f1f356dc6f2dd9606bf3cebffd8fa" title="itk::ReadImage" alt="" coords="172,56,283,83"/>
+<area shape="rect" id="node7" href="$namespaceitk.html#a9c2ea8637eb96d0141aebaff07526255" title="itk::SaveFibers" alt="" coords="172,157,283,184"/>
+<area shape="rect" id="node8" href="$group__utlHelperFunctions.html#ga462bf20d84685d56ef9b206040f3240b" title="itk::SaveImage" alt="" coords="172,107,283,133"/>
+<area shape="rect" id="node4" href="$mexITKImageRead_8cxx.html#a7145839e8f7dc787f8d7374dcc333d27" title="callFunction" alt="" coords="414,5,506,32"/>
+<area shape="rect" id="node5" href="$4DImageMath_8cxx.html#ac37569efa34c1d9dc6bcefbd1268a100" title="ImageMath" alt="" coords="417,107,503,133"/>
+<area shape="rect" id="node6" href="$MeanDiffusivityEstimator_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="estimate mean diffusivity in each voxel " alt="" coords="435,56,485,83"/>
+<area shape="rect" id="node9" href="$mexITKImageWrite_8cxx.html#a21a60600876ecb6bcfc26996797b7723" title="callFunction" alt="" coords="414,208,506,235"/>
+<area shape="rect" id="node10" href="$classitk_1_1DWIWriter.html#af4ccb122278c7775408e9ecf40d48abe" title="itk::DWIWriter::WriteToConfigurationFile" alt="" coords="331,157,589,184"/>
+<area shape="rect" id="node11" href="$classitk_1_1DWIWriter.html#a182ebc4d88b714a64c24bb403584412a" title="itk::DWIWriter::GetInput" alt="" coords="637,157,801,184"/>
+<area shape="rect" id="node12" href="$classitk_1_1DWIWriter.html#a1568ebea912ec643e0dd7ed6cd358811" title="itk::DWIWriter::SetInput" alt="" coords="849,157,1012,184"/>
+<area shape="rect" id="node13" href="$classitk_1_1DWIWriter.html#a67a33d5023d76a238df3c026482c92d5" title="itk::DWIWriter::DWIWriter" alt="" coords="1060,157,1236,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="itk::DWIWriter::GenerateData" name="itk::DWIWriter::GenerateData">
+<area shape="rect" id="node2" href="$classitk_1_1DWIWriter.html#af4ccb122278c7775408e9ecf40d48abe" title="itk::DWIWriter::WriteToConfigurationFile" alt="" coords="248,5,507,32"/>
+<area shape="rect" id="node3" href="$classitk_1_1DWIWriter.html#a182ebc4d88b714a64c24bb403584412a" title="itk::DWIWriter::GetInput" alt="" coords="555,5,719,32"/>
+<area shape="rect" id="node4" href="$classitk_1_1DWIWriter.html#a1568ebea912ec643e0dd7ed6cd358811" title="itk::DWIWriter::SetInput" alt="" coords="767,5,929,32"/>
+<area shape="rect" id="node5" href="$classitk_1_1DWIWriter.html#a67a33d5023d76a238df3c026482c92d5" title="itk::DWIWriter::DWIWriter" alt="" coords="977,5,1153,32"/>
+</map>

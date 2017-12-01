@@ -1,0 +1,15 @@
+<map id="Wrapping/Matlab/MEXHelperFunctions/mexutils.h" name="Wrapping/Matlab/MEXHelperFunctions/mexutils.h">
+<area shape="rect" id="node2" href="$mexGetSHBasisMatrix_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSHBasisMatrix.cxx" alt="" coords="5,281,232,322"/>
+<area shape="rect" id="node3" href="$mexGetSPFBasisMatrix_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSPFBasisMatrix.cxx" alt="" coords="256,281,491,322"/>
+<area shape="rect" id="node4" href="$mexITK_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/mexITK.h" alt="" coords="705,95,895,136"/>
+<area shape="rect" id="node5" href="$utlMEX_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/utlMEX.h" alt="" coords="739,184,930,225"/>
+<area shape="rect" id="node11" href="$mexReadGrad_8cxx.html" title="Wrapping/Matlab/Sampling\lScheme/mexReadGrad.cxx" alt="" coords="1739,281,1922,322"/>
+<area shape="rect" id="node12" href="$mexSTD_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/mexSTD.h" alt="" coords="438,95,629,136"/>
+<area shape="rect" id="node13" href="$mexVNL_8h.html" title="Wrapping/Matlab/MEXHelper\lFunctions/mexVNL.h" alt="" coords="919,95,1110,136"/>
+<area shape="rect" id="node14" href="$test__Spams2_8cxx.html" title="mex&#45;file, function mexLasso Usage: alpha = mexLassoWeights(X,D,W,param); " alt="" coords="1185,95,1343,136"/>
+<area shape="rect" id="node6" href="$mexITKImageRead_8cxx.html" title="Wrapping/Matlab/Common\l/mexITKImageRead.cxx" alt="" coords="755,281,933,322"/>
+<area shape="rect" id="node7" href="$mexITKImageWrite_8cxx.html" title="Wrapping/Matlab/Common\l/mexITKImageWrite.cxx" alt="" coords="957,281,1134,322"/>
+<area shape="rect" id="node8" href="$mexGetSamplesFromSPFCoefficients_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSamplesFromSPFCoefficients.cxx" alt="" coords="1158,281,1474,322"/>
+<area shape="rect" id="node9" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="1498,273,1715,329"/>
+<area shape="rect" id="node10" href="$mexReadDWIList_8cxx.html" title="Wrapping/Matlab/DWIProcessing\l/mexReadDWIList.cxx" alt="" coords="515,281,731,322"/>
+</map>

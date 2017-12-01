@@ -1,0 +1,8 @@
+<map id="spams::SpMatrix::addVecToCols" name="spams::SpMatrix::addVecToCols">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="299,5,455,32"/>
+<area shape="rect" id="node6" href="$namespacespams_1_1FISTA.html#a41b5466d14d6f8ae8e4cf149a3237ee6" title="spams::FISTA::LagrangianADMM" alt="" coords="268,56,487,83"/>
+<area shape="rect" id="node7" href="$namespacespams_1_1FISTA.html#a6994862c705e47d3ad4629a8ecccf817" title="spams::FISTA::LinADMM" alt="" coords="291,107,464,133"/>
+<area shape="rect" id="node3" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="535,56,728,83"/>
+<area shape="rect" id="node4" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="776,56,927,83"/>
+<area shape="rect" id="node5" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="975,56,1067,83"/>
+</map>

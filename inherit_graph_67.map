@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classspams_1_1FISTA_1_1Regularizer.html" title="spams::FISTA::Regularizer\l\&lt; T, Matrix\&lt; T \&gt; \&gt;" alt="" coords="5,129,187,170"/>
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1MixedL1L2.html" title="spams::FISTA::MixedL1L2\&lt; T \&gt;" alt="" coords="247,5,457,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1MixedL1LINF.html" title="spams::FISTA::MixedL1LINF\&lt; T \&gt;" alt="" coords="239,56,465,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1Rank.html" title="spams::FISTA::Rank\&lt; T \&gt;" alt="" coords="263,107,441,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1RegMat.html" title="spams::FISTA::RegMat\l\&lt; T, Reg \&gt;" alt="" coords="271,158,433,199"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1SpecGraphMat.html" title="spams::FISTA::SpecGraphMat\&lt; T \&gt;" alt="" coords="235,224,469,251"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1TraceNorm.html" title="spams::FISTA::TraceNorm\&lt; T \&gt;" alt="" coords="246,275,458,301"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1GraphMult.html" title="spams::FISTA::GraphMult\&lt; T \&gt;" alt="" coords="537,173,743,200"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1MixedL1LINFCR.html" title="spams::FISTA::MixedL1LINFCR\&lt; T \&gt;" alt="" coords="517,224,763,251"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1TreeMult.html" title="spams::FISTA::TreeMult\&lt; T \&gt;" alt="" coords="541,275,739,301"/>
+</map>

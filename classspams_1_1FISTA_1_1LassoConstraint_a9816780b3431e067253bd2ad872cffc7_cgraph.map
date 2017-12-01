@@ -1,0 +1,11 @@
+<map id="spams::FISTA::LassoConstraint::fenchel" name="spams::FISTA::LassoConstraint::fenchel">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="273,107,416,133"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="694,107,817,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="264,208,425,235"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#ac22fda6887e8882e378e871d5985e4e5" title="returns the maximum value " alt="" coords="266,259,423,285"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="473,56,624,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="684,56,827,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="672,5,839,32"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="477,208,621,235"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a9f819e4fd15c21ae3195ed58abd8d99e" title="returns the index of the largest value " alt="" coords="479,259,619,285"/>
+</map>

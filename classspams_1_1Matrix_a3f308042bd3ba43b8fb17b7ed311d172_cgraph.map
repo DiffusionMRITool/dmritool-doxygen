@@ -1,0 +1,28 @@
+<map id="spams::Matrix::sparseProject" name="spams::Matrix::sparseProject">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="959,195,1102,221"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="1172,93,1323,120"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a70671a263b259b8fcae010568dc63009" title="spams::init_omp" alt="" coords="285,904,403,931"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="1173,17,1321,44"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="247,853,441,880"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="1393,176,1515,203"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="1383,37,1525,64"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="1371,125,1537,152"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#a62eab6ce32dbae8be23d7f7a7302c6f8" title="spams::Vector::l1project" alt="" coords="725,1107,889,1133"/>
+<area shape="rect" id="node11" href="$classspams_1_1Vector.html#a699acc9e95b317b4f95950ecd33150bb" title="performs soft&#45;thresholding of the vector " alt="" coords="951,1208,1111,1235"/>
+<area shape="rect" id="node13" href="$classspams_1_1Vector.html#a7fd6d5b6e05bde9b20d79c62f9d47cec" title="performs soft&#45;thresholding of the vector " alt="" coords="937,1081,1124,1108"/>
+<area shape="rect" id="node14" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="738,853,877,880"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#aea0ce32e2ba67021f7ebde55681746fa" title="spams::Vector::l1l2project" alt="" coords="496,980,671,1007"/>
+<area shape="rect" id="node16" href="$classspams_1_1Vector.html#af9760154ac346f4c6d4bde89e4d56b9f" title="returns ||A||_2^2 " alt="" coords="728,904,887,931"/>
+<area shape="rect" id="node17" href="$classspams_1_1Vector.html#aae6df4c4960c416f68c2bd06d757ccd0" title="normalize the vector " alt="" coords="494,803,673,829"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="489,542,677,583"/>
+<area shape="rect" id="node12" href="$classspams_1_1Vector.html#add5408c2aecfd998a19e9ec35260aa52" title="returns the sum of the vector " alt="" coords="961,853,1101,880"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#a0214a69766f40e03ee75ad5eb8112e5f" title="returns ||A||_2 " alt="" coords="735,803,879,829"/>
+<area shape="rect" id="node20" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="735,448,880,475"/>
+<area shape="rect" id="node21" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="741,499,874,525"/>
+<area shape="rect" id="node22" href="$classspams_1_1Vector.html#a1c2a39e500bcdba32db98d75a4bd62ba" title="A &lt;&#45; A &#45; x. " alt="" coords="739,549,875,576"/>
+<area shape="rect" id="node23" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="735,600,879,627"/>
+<area shape="rect" id="node24" href="$classspams_1_1Vector.html#a581c406cdc67ae4ffd7f763e6b52bb4c" title="computes the sum of the magnitudes of the vector " alt="" coords="734,651,881,677"/>
+<area shape="rect" id="node25" href="$classspams_1_1Vector.html#aeb420ce8b59e79e9997fa325df9e9a60" title="compute the sum of the differences " alt="" coords="730,701,885,728"/>
+<area shape="rect" id="node26" href="$classspams_1_1Vector.html#a7deeac5062dabf010b2aa4482b1573c8" title="returns the index of the value with smallest magnitude " alt="" coords="737,245,877,272"/>
+<area shape="rect" id="node27" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="739,296,875,323"/>
+</map>

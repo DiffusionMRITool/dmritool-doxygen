@@ -1,0 +1,20 @@
+<map id="spams::remove_cycles" name="spams::remove_cycles">
+<area shape="rect" id="node2" href="$classspams_1_1List.html#a0437bd25bd3081300aced61cbdb96d64" title="spams::List::begin" alt="" coords="227,5,356,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1List.html#a12392c2270ba54ebad02d0ae01f76de2" title="spams::List::clear" alt="" coords="228,56,355,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#a74b9ce01de0af18325644a4afa2ac0ed" title="spams::SpMatrix::copy" alt="" coords="213,107,370,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="648,157,784,184"/>
+<area shape="rect" id="node10" href="$classspams_1_1List.html#ac72975f5d8346b4f723f23d0a98504f8" title="spams::List::empty" alt="" coords="224,208,359,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1List.html#a7e306e462f940032408c352810c34dcb" title="spams::List::end" alt="" coords="232,259,351,285"/>
+<area shape="rect" id="node12" href="$classspams_1_1List.html#af8a2172df5a66b15c793d28f88fa33e2" title="spams::List::front" alt="" coords="229,309,353,336"/>
+<area shape="rect" id="node13" href="$classspams_1_1SpMatrix.html#aac5be2c27933a429bc6a4e7879eb52fd" title="returns pB[i] " alt="" coords="219,360,364,387"/>
+<area shape="rect" id="node14" href="$classspams_1_1List.html#a28968d2873a3fec1921d5e734ef9302e" title="spams::List::pop_front" alt="" coords="215,411,367,437"/>
+<area shape="rect" id="node15" href="$classspams_1_1List.html#a51d0585964f20c1a4eba9c9401717ca7" title="spams::List::push_back" alt="" coords="211,461,372,488"/>
+<area shape="rect" id="node16" href="$classspams_1_1List.html#a75b7789c0d6cc3abd80a9ee565d2e736" title="spams::List::push_front" alt="" coords="212,512,371,539"/>
+<area shape="rect" id="node17" href="$classspams_1_1SpMatrix.html#a1d5c3fe449efda28a69d91536f1a4a32" title="returns r[i] " alt="" coords="225,563,358,589"/>
+<area shape="rect" id="node18" href="$classspams_1_1List.html#a82f56291f6affda851fe4dc965a80f97" title="spams::List::reverse" alt="" coords="221,613,362,640"/>
+<area shape="rect" id="node19" href="$classspams_1_1SpMatrix.html#ac77e5c0f1817324676a9f9004b5dd109" title="returns v[i] " alt="" coords="223,664,359,691"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="420,107,584,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="637,5,795,32"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="646,56,786,83"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="632,107,800,133"/>
+</map>

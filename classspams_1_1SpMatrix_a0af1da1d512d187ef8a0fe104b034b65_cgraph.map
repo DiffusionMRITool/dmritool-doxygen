@@ -1,0 +1,13 @@
+<map id="spams::SpMatrix::convert" name="spams::SpMatrix::convert">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="245,5,369,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="247,56,367,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#aa26c7e40729bd061baed9e762bb8df0e" title="Direct access to _r. " alt="" coords="241,107,374,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="225,157,389,184"/>
+<area shape="rect" id="node10" href="$namespacespams.html#ad532d3bc49b745e3ce2e2677689b1769" title="spams::sort" alt="" coords="262,208,353,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#ab5d8478d47aaee60b0aa7102fdf246a7" title="Direct access to _v. " alt="" coords="239,259,375,285"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="246,309,369,336"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="443,81,600,108"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="453,132,589,159"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="451,183,591,209"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="437,233,605,260"/>
+</map>

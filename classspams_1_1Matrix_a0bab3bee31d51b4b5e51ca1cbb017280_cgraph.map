@@ -1,0 +1,12 @@
+<map id="spams::Matrix::quad_mult" name="spams::Matrix::quad_mult">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="245,5,367,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#a3772a02d6c27e966745e134bde6fabb6" title="return vec1&#39;*A*vec2, where vec2 is sparse " alt="" coords="235,56,377,83"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#add425d3354d916bdc0da224a95be4bc4" title="Change the data in the matrix. " alt="" coords="227,157,385,184"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a317bea9c13796ff3a15399b34f64341c" title="returns A&#39;x " alt="" coords="441,5,574,32"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="433,56,581,83"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="629,56,772,83"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="437,107,578,133"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="446,157,569,184"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="445,208,569,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="447,259,567,285"/>
+</map>

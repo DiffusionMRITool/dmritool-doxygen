@@ -1,0 +1,12 @@
+<map id="cblas_transpose" name="cblas_transpose">
+<area shape="rect" id="node2" href="$cblas__alt__template_8h.html#aa4c9218eb883ade538bd43f7779f3592" title="Implementation of the INTTerface for cblas_dgemm. " alt="" coords="171,5,329,32"/>
+<area shape="rect" id="node3" href="$cblas__alt__template_8h.html#a04c7a20a4d325535e231def747c8be05" title="Implementation of the INTTerface for cblas_sgemm. " alt="" coords="177,56,323,83"/>
+<area shape="rect" id="node4" href="$cblas__alt__template_8h.html#ac19350827615e6968c478f214f9dff5b" title="Implementation of the INTTerface for cblas_dgemv. " alt="" coords="173,107,327,133"/>
+<area shape="rect" id="node5" href="$cblas__alt__template_8h.html#a5b29ab293e49714ee2c46ae08ddbf547" title="Implementation of the INTTerface for cblas_sgemv. " alt="" coords="179,157,321,184"/>
+<area shape="rect" id="node6" href="$cblas__alt__template_8h.html#af58b0b311b107e911c80cb13a586e577" title="Implementation of the INTTerface for cblas_dsyrk. " alt="" coords="177,208,323,235"/>
+<area shape="rect" id="node7" href="$cblas__alt__template_8h.html#ad507a79ec1fb7d777aa8c61392bb0169" title="Implementation of the INTTerface for cblas_ssyrk. " alt="" coords="183,259,317,285"/>
+<area shape="rect" id="node8" href="$cblas__alt__template_8h.html#a30be6375def5083c49cdce059688fdae" title="Implementation of the INTTerface for cblas_dtrmm. " alt="" coords="174,309,326,336"/>
+<area shape="rect" id="node9" href="$cblas__alt__template_8h.html#aa6bcbad11450c340f073760b0523ce13" title="Implementation of the INTTerface for cblas_strmm. " alt="" coords="181,360,319,387"/>
+<area shape="rect" id="node10" href="$cblas__alt__template_8h.html#a3548a78d219c67215cf181f4bbe724bd" title="Implementation of the INTTerface for cblas_dtrmv. " alt="" coords="176,411,324,437"/>
+<area shape="rect" id="node11" href="$cblas__alt__template_8h.html#a97205b7ec6e249219188a5b98c38dd1b" title="Implementation of the INTTerface for cblas_strmv. " alt="" coords="183,461,317,488"/>
+</map>

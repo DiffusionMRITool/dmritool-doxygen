@@ -1,0 +1,6 @@
+<map id="Modules/DiffusionModels/include/itkGeneralizedHighOrderTensorImageFilter.hxx" name="Modules/DiffusionModels/include/itkGeneralizedHighOrderTensorImageFilter.hxx">
+<area shape="rect" id="node2" href="$itkGeneralizedHighOrderTensorImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkGeneralizedHighOrder\lTensorImageFilter.h" alt="" coords="233,109,446,165"/>
+<area shape="rect" id="node3" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="5,221,204,262"/>
+<area shape="rect" id="node4" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="229,221,450,262"/>
+<area shape="rect" id="node5" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="475,213,692,269"/>
+</map>

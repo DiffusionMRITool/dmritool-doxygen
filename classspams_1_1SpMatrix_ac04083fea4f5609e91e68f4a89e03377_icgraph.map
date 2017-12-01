@@ -1,0 +1,22 @@
+<map id="spams::SpMatrix::refCol" name="spams::SpMatrix::refCol">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1GraphLasso.html#a75273e4b61fdc8d5b97d0ea936188c17" title="spams::FISTA::GraphLasso\l::eval_split" alt="" coords="222,5,407,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1GraphLasso.html#ac58cd95854d69883bbdff70847d24f44" title="spams::FISTA::GraphLasso\l::eval_weighted" alt="" coords="222,71,407,112"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="245,137,384,163"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="237,187,392,214"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#afd096c6144e3c3a850ac0d0b8fdced69" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="221,238,408,265"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#a06ec77d29c912bf845eb99b69ab579d6" title="returns the l0 norms of the columns " alt="" coords="235,289,394,331"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#a51a6e2782ef6e43abd470eb1b3742278" title="returns the l1 norms of the columns " alt="" coords="235,355,394,396"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#ae9cf6b248506b622cfba5dedf0ef9b19" title="returns the l2 norms ^2 of the columns " alt="" coords="235,420,394,461"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1GraphLasso.html#a84ff014795213f051e7a66bbf07f576c" title="spams::FISTA::GraphLasso\l::prox_split" alt="" coords="222,485,407,527"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#a03f17814af0a159dea2abfe7e94a5699" title="spams::SpMatrix::sum_cols" alt="" coords="222,551,407,578"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1SqLossMat.html#a8ca44252b92068abcd291f8b99376a88" title="spams::FISTA::SqLossMat\l::test_backtracking" alt="" coords="224,603,405,644"/>
+<area shape="rect" id="node13" href="$namespacespams_1_1FISTA.html#aa9c4ff4992faa04648206f402b8029a2" title="spams::FISTA::update\l_multipliers_ADMM" alt="" coords="237,668,392,709"/>
+<area shape="rect" id="node18" href="$namespacespams_1_1FISTA.html#a8549d99d1488a9931d71fea7f2d75ab0" title="spams::FISTA::update\l_multipliers_LinADMM" alt="" coords="237,799,392,840"/>
+<area shape="rect" id="node20" href="$namespacespams_1_1FISTA.html#a04a516d2ee8b8e59de03c15f1c30f489" title="spams::FISTA::update\l_multipliers_weighted_ADMM" alt="" coords="217,733,412,775"/>
+<area shape="rect" id="node21" href="$classspams_1_1SpMatrix.html#a201da7740a038d35571368b1a8c9a6ec" title="XtX = A&#39;*A. " alt="" coords="239,865,390,891"/>
+<area shape="rect" id="node14" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="469,741,625,767"/>
+<area shape="rect" id="node15" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="681,767,875,794"/>
+<area shape="rect" id="node16" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="923,767,1073,794"/>
+<area shape="rect" id="node17" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="1121,767,1213,794"/>
+<area shape="rect" id="node19" href="$namespacespams_1_1FISTA.html#a6994862c705e47d3ad4629a8ecccf817" title="spams::FISTA::LinADMM" alt="" coords="460,799,633,826"/>
+</map>

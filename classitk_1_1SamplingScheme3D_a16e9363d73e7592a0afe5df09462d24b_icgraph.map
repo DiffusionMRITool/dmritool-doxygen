@@ -1,0 +1,9 @@
+<map id="itk::SamplingScheme3D::CalculateMinDistanceInShell" name="itk::SamplingScheme3D::CalculateMinDistanceInShell">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a4177f8cfa767eb8a9de83d5df1486cc6" title="itk::SamplingScheme3D\l::CalculateMinDistance" alt="" coords="252,42,415,83"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingScheme3D.html#aee0069afbc12819e3763c6acbee80925" title="itk::SamplingScheme3D\l::CalculateMaxDotInShell" alt="" coords="463,13,633,54"/>
+<area shape="rect" id="node7" href="$OrientationStatistics_8cxx.html#abada68025d9cbbc18ea79d56072bbc4c" title="processOrientation" alt="" coords="483,79,613,105"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingScheme3D.html#ac1f87238e03a084c2baa45cb3d85cd8f" title="itk::SamplingScheme3D\l::CalculateMaxDot" alt="" coords="681,13,844,54"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingScheme3D.html#a419859c98b038385e83618049d4c6cff" title="itk::SamplingScheme3D\l::CalculateVoronoiEntropyIn\lShell" alt="" coords="892,5,1077,61"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingScheme3D.html#a1219f0925ce0826427794e8cfabf174c" title="itk::SamplingScheme3D\l::CalculateVoronoiEntropy" alt="" coords="1125,13,1300,54"/>
+<area shape="rect" id="node8" href="$OrientationStatistics_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="obtain energies, minimal angles from a given set of orientations " alt="" coords="737,79,788,105"/>
+</map>

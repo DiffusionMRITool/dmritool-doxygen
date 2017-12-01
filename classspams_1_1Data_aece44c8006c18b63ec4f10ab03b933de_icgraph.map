@@ -1,0 +1,16 @@
+<map id="spams::Data::n" name="spams::Data::n">
+<area shape="rect" id="node2" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="165,97,337,124"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="404,47,547,73"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="385,443,565,469"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#ade542e62390b6d49565ea0fd6cd067e1" title="change artificially the size of the matrix, DANGEROUS " alt="" coords="169,148,333,175"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a31fd44eee764715400bb25da490c8f6a" title="change artificially the size of the vector, DANGEROUS " alt="" coords="185,199,318,241"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="201,265,301,292"/>
+<area shape="rect" id="node8" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="198,316,305,343"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a5eb2bcfb81a399a395509b1bab2b83f9" title="number of nonzeros elements " alt="" coords="176,367,327,393"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a2aa45a9c0f1a817c1f8dbff8708c1757" title="Return the value X(i) (1D indexing) " alt="" coords="167,417,335,444"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpVector.html#a9282f22842d7bf2e57891171dd179244" title="spams::SpVector::setL" alt="" coords="173,47,329,73"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#ab6dd891c495a7877b3962bcc57299df8" title="modify _n " alt="" coords="182,519,321,545"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a3c598ef979ffb98444769c68b0217b2d" title="spams::Vector\&lt; int\l \&gt;::setn" alt="" coords="185,570,318,611"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="409,493,542,520"/>
+<area shape="rect" id="node14" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="406,544,545,571"/>
+</map>

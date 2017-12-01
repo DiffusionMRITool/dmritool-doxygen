@@ -1,0 +1,4 @@
+<map id="itk::IterativeSolverBase&lt; TPrecision &gt;" name="itk::IterativeSolverBase&lt; TPrecision &gt;">
+<area shape="rect" id="node4" href="$classitk_1_1L1RegularizedLeastSquaresFISTASolver.html" title="solve least square problem with L1 regularization using FISTA " alt="" coords="5,244,212,285"/>
+<area shape="rect" id="node2" href="$classitk_1_1SolverBase.html" title="Base class for some optimization solvers using primal&#45;dual updates. " alt="" coords="10,80,207,107"/>
+</map>

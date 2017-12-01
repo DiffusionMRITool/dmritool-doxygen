@@ -1,0 +1,23 @@
+<map id="spams::Vector::asum" name="spams::Vector::asum">
+<area shape="rect" id="node2" href="$namespacespams.html#ad524bbeff72ecdadb2d1ecbf56dae1de" title="Auxiliary function for ist_groupLasso. " alt="" coords="221,5,372,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#aa437c45eb6500e07693bdec9305fd36e" title="coreIST " alt="" coords="239,157,354,184"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="497,107,580,133"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a0f6a5c694f147729b4c98d2670903683" title="coreIST constrained " alt="" coords="205,56,388,83"/>
+<area shape="rect" id="node8" href="$classspams_1_1Tree__Seq.html#af958e1266fbd6dec713a446f89ae3949" title="spams::Tree_Seq::dual\l_norm_inf" alt="" coords="218,274,375,315"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1Lasso.html#a88fc156d6332b7696bb2cadc6c20838e" title="spams::FISTA::Lasso\l::eval" alt="" coords="221,339,372,381"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1MixedL1L2.html#aeb2015545509d4e8b3540e7d52ce54d0" title="spams::FISTA::MixedL1L2\l::eval" alt="" coords="207,405,386,446"/>
+<area shape="rect" id="node14" href="$classspams_1_1FISTA_1_1MixedL1LINF.html#a34ea0feb676e87b333cfd7231d94276e" title="spams::FISTA::MixedL1LINF\l::eval" alt="" coords="200,470,393,511"/>
+<area shape="rect" id="node15" href="$classspams_1_1FISTA_1_1normLINF.html#a217e77deab4f2ac79927561be4c48a12" title="TODO add subgradient. " alt="" coords="210,535,383,577"/>
+<area shape="rect" id="node16" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="203,209,391,250"/>
+<area shape="rect" id="node3" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="460,5,617,32"/>
+<area shape="rect" id="node6" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="947,183,1127,209"/>
+<area shape="rect" id="node9" href="$classspams_1_1Graph.html#a8f110340cd54510c199c1b194328804a" title="spams::Graph::norm" alt="" coords="468,405,609,432"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1GraphLasso.html#a77fa13ced3261d61a16bc134f183bd14" title="spams::FISTA::GraphLasso\l::eval" alt="" coords="697,478,882,519"/>
+<area shape="rect" id="node11" href="$namespacespams_1_1FISTA.html#a9054f8428cfc59be2eaf9d76c9a811cb" title="spams::FISTA::dualityGraph" alt="" coords="943,485,1131,512"/>
+<area shape="rect" id="node17" href="$classspams_1_1FISTA_1_1FusedLasso.html#a7cb5da5b7aa175bcc492817f5d54152c" title="spams::FISTA::FusedLasso\l::prox" alt="" coords="445,209,632,250"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="441,296,636,323"/>
+<area shape="rect" id="node19" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="703,259,875,285"/>
+<area shape="rect" id="node20" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="965,317,1108,344"/>
+<area shape="rect" id="node21" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="684,310,895,351"/>
+<area shape="rect" id="node22" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="693,427,886,453"/>
+</map>

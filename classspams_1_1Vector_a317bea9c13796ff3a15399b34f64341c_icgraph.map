@@ -1,0 +1,24 @@
+<map id="spams::Vector::dot" name="spams::Vector::dot">
+<area shape="rect" id="node2" href="$namespacespams.html#a65004fe8931f93ef1d1e37b64241c344" title="auxiliary function for ist_groupLasso " alt="" coords="215,5,362,32"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#a17240502f70436419bb12d13b2eaca4d" title="compute x, such that b = Ax, " alt="" coords="204,57,373,98"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="222,123,355,149"/>
+<area shape="rect" id="node9" href="$classspams_1_1ProdMatrix.html#aeffa1a20a61cdbc51a7e3908c96095b0" title="add something to the diagonal " alt="" coords="207,173,371,200"/>
+<area shape="rect" id="node10" href="$classspams_1_1SpMatrix.html#ad3dc80a81fce45f9b6c975d93f5eff11" title="spams::SpMatrix::dot\l_direct" alt="" coords="215,225,362,266"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#ae7c644a26f48c9909ddfd8aa54f6f86f" title="spams::Matrix::eigLargest\lSymApprox" alt="" coords="202,290,375,331"/>
+<area shape="rect" id="node13" href="$classspams_1_1FISTA_1_1SqLossMissing.html#a92a6a9b18a52bc722a978d65448f616b" title="spams::FISTA::SqLossMissing\l::fenchel" alt="" coords="187,355,391,397"/>
+<area shape="rect" id="node14" href="$classspams_1_1FISTA_1_1SqLoss.html#a4c1eb8fe3ec53acf7be96d9e1ec450ab" title="spams::FISTA::SqLoss\l::fenchel" alt="" coords="209,421,368,462"/>
+<area shape="rect" id="node15" href="$classspams_1_1Matrix.html#a0f933f88459403fcfa02856cab9b3fd4" title="perform b = A&#39;x, when x is sparse " alt="" coords="203,487,374,513"/>
+<area shape="rect" id="node16" href="$classspams_1_1ProdMatrix.html#adb9459b052d1a3712df2ba61015fe009" title="returns the value of an index " alt="" coords="219,538,359,579"/>
+<area shape="rect" id="node17" href="$classspams_1_1ProdMatrix.html#a94104e224d1b092a61ca71ea788bdeb4" title="returns the value of an index " alt="" coords="219,603,359,645"/>
+<area shape="rect" id="node18" href="$classspams_1_1FISTA_1_1GraphLasso.html#ad537882ac97e2d1dfd1f81094b2cdfe4" title="spams::FISTA::GraphLasso\l::prox" alt="" coords="196,669,381,710"/>
+<area shape="rect" id="node19" href="$classspams_1_1Matrix.html#a3772a02d6c27e966745e134bde6fabb6" title="return vec1&#39;*A*vec2, where vec2 is sparse " alt="" coords="218,735,359,761"/>
+<area shape="rect" id="node22" href="$classspams_1_1Matrix.html#af396834502d64b75672e22c39b01d5c3" title="spams::Matrix::svdRankOne" alt="" coords="194,789,383,816"/>
+<area shape="rect" id="node3" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="469,5,627,32"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="477,64,619,91"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="497,123,599,149"/>
+<area shape="rect" id="node8" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="705,123,807,149"/>
+<area shape="rect" id="node11" href="$namespacespams_1_1FISTA.html#a41b5466d14d6f8ae8e4cf149a3237ee6" title="spams::FISTA::LagrangianADMM" alt="" coords="439,232,657,259"/>
+<area shape="rect" id="node20" href="$namespacespams.html#af80fe0fe3eddfe7bccfd94d14bcfe35d" title="auxiliary function for ist_groupLasso " alt="" coords="475,684,621,711"/>
+<area shape="rect" id="node21" href="$classspams_1_1Matrix.html#a0bab3bee31d51b4b5e51ca1cbb017280" title="return vec1&#39;*A*vec2, where vec2 is sparse " alt="" coords="461,735,635,761"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="475,786,621,827"/>
+</map>

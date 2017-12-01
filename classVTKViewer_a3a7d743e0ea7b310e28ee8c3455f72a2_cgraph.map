@@ -1,0 +1,6 @@
+<map id="VTKViewer::add" name="VTKViewer::add">
+<area shape="rect" id="node2" href="$classVTKViewer.html#ac304ef696d3a3509f7a7a13d07c73ba7" title="VTKViewer::add" alt="" coords="173,5,290,32"/>
+<area shape="rect" id="node3" href="$VTKViewer_8cxx.html#a80df5f97e5fef2e11b11bc2ebd72a556" title="ConvertDataSetToSurface" alt="" coords="340,81,516,108"/>
+<area shape="rect" id="node4" href="$VTKViewer_8cxx.html#aac6b7bf8a530de19a3e796afecb19553" title="ReadLegacyVTK" alt="" coords="171,107,292,133"/>
+<area shape="rect" id="node5" href="$VTKViewer_8cxx.html#aa7906295d58012ffd4e3c2e4cd862fd5" title="ReadPDB" alt="" coords="191,157,272,184"/>
+</map>

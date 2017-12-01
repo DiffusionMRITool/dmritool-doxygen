@@ -1,0 +1,8 @@
+<map id="Modules/DWIProcessing/include/itkDWIReader.h" name="Modules/DWIProcessing/include/itkDWIReader.h">
+<area shape="rect" id="node2" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="5,102,204,143"/>
+<area shape="rect" id="node3" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="229,102,450,143"/>
+<area shape="rect" id="node4" href="$DWIPreprocess_8cxx.html" title="Applications/DWIProcessing\l/DWIPreprocess.cxx" alt="" coords="474,102,663,143"/>
+<area shape="rect" id="node5" href="$itkDWIReader_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIReader.hxx" alt="" coords="687,102,866,143"/>
+<area shape="rect" id="node6" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="891,95,1108,151"/>
+<area shape="rect" id="node7" href="$mexReadDWIList_8cxx.html" title="Wrapping/Matlab/DWIProcessing\l/mexReadDWIList.cxx" alt="" coords="1133,102,1349,143"/>
+</map>

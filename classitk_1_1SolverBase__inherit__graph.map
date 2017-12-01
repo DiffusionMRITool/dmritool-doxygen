@@ -1,0 +1,6 @@
+<map id="itk::SolverBase&lt; TPrecision &gt;" name="itk::SolverBase&lt; TPrecision &gt;">
+<area shape="rect" id="node3" href="$classitk_1_1IterativeSolverBase.html" title="Base class for some optimization solvers using primal&#45;dual updates. " alt="" coords="385,5,544,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1L2RegularizedLeastSquaresSolver.html" title="solve least square problem with L2 regularization " alt="" coords="361,71,568,112"/>
+<area shape="rect" id="node6" href="$classitk_1_1SpamsWeightedLassoSolver.html" title="solve weighted LASSO using spams " alt="" coords="359,136,571,177"/>
+<area shape="rect" id="node4" href="$classitk_1_1L1RegularizedLeastSquaresFISTASolver.html" title="solve least square problem with L1 regularization using FISTA " alt="" coords="619,5,825,47"/>
+</map>

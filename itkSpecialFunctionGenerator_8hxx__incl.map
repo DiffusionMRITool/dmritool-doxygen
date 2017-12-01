@@ -1,0 +1,29 @@
+<map id="Modules/Math/include/itkSpecialFunctionGenerator.hxx" name="Modules/Math/include/itkSpecialFunctionGenerator.hxx">
+<area shape="rect" id="node2" href="$itkSpecialFunctionGenerator_8h.html" title="itkSpecialFunctionGenerator.h" alt="" coords="611,169,809,196"/>
+<area shape="rect" id="node31" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="1416,169,1463,196"/>
+<area shape="rect" id="node46" href="$itkUnaryFunctorLookUpTable_8h.html" title="itkUnaryFunctorLookUpTable.h" alt="" coords="1875,408,2078,435"/>
+<area shape="rect" id="node49" href="$utlRotationMatrixFromVectors_8h.html" title="utlRotationMatrixFromVectors.h" alt="" coords="361,483,568,509"/>
+<area shape="rect" id="node50" href="$itkSHCoefficientsRotation_8h.html" title="Created &quot;03&#45;26&#45;2014. " alt="" coords="1927,95,2112,121"/>
+<area shape="rect" id="node3" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="874,557,949,584"/>
+<area shape="rect" id="node26" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="1589,483,1687,509"/>
+<area shape="rect" id="node4" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="603,632,772,659"/>
+<area shape="rect" id="node8" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="1148,707,1259,733"/>
+<area shape="rect" id="node11" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="1675,781,1798,808"/>
+<area shape="rect" id="node14" href="$utlCore11_8h.html" title="utl functions using c++11 Created &quot;07&#45;02&#45;2016 " alt="" coords="1243,781,1332,808"/>
+<area shape="rect" id="node15" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="949,632,1069,659"/>
+<area shape="rect" id="node24" href="$utlConstants_8h.html" title="Created &quot;09&#45;22&#45;2016. " alt="" coords="1525,632,1631,659"/>
+<area shape="rect" id="node25" href="$utlCoreMKL_8h.html" title="utlCoreMKL.h" alt="" coords="24,632,127,659"/>
+<area shape="rect" id="node32" href="$DMRITOOLConfigure_8h.html" title="DMRITOOLConfigure.h" alt="" coords="1239,408,1397,435"/>
+<area shape="rect" id="node33" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="1151,251,1227,278"/>
+<area shape="rect" id="node35" href="$utlVNL_8h.html" title="help functions for VNL " alt="" coords="800,483,873,509"/>
+<area shape="rect" id="node36" href="$utlVNLIO_8h.html" title="utlVNLIO.h" alt="" coords="924,408,1011,435"/>
+<area shape="rect" id="node37" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="1473,408,1541,435"/>
+<area shape="rect" id="node39" href="$utlVNLBlas_8h.html" title="utlVNLBlas.h" alt="" coords="801,408,899,435"/>
+<area shape="rect" id="node40" href="$utlVNLLapack_8h.html" title="utlVNLLapack.h" alt="" coords="643,333,758,360"/>
+<area shape="rect" id="node41" href="$utlDMRI_8h.html" title="utlDMRI.h" alt="" coords="1667,408,1750,435"/>
+<area shape="rect" id="node42" href="$itkSphericalHarmonicsGenerator_8h.html" title="itkSphericalHarmonicsGenerator.h" alt="" coords="2123,251,2345,278"/>
+<area shape="rect" id="node45" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="1551,333,1709,360"/>
+<area shape="rect" id="node48" href="$itkMultiVolumeImageToVectorImageFilter_8h.html" title="itkMultiVolumeImageToVector\lImageFilter.h" alt="" coords="1553,244,1750,285"/>
+<area shape="rect" id="node38" href="$utlITKMacro_8h.html" title="utlITKMacro.h" alt="" coords="1813,483,1917,509"/>
+<area shape="rect" id="node47" href="$itkFunctorTableBase_8h.html" title="itkFunctorTableBase.h" alt="" coords="2043,483,2196,509"/>
+</map>

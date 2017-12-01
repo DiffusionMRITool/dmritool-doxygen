@@ -1,0 +1,11 @@
+<map id="spams::UtlMatrixToMatrix" name="spams::UtlMatrixToMatrix">
+<area shape="rect" id="node2" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a930154628e8961e14d72b23bd097c149" title="utl::NDArray\&lt; T, 2\l \&gt;::Columns" alt="" coords="253,5,383,47"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArrayBase.html#a6144d23cdfdd3013d2248f6d529af00e" title="utl::NDArrayBase::GetData" alt="" coords="227,71,409,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="247,122,389,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="244,173,392,199"/>
+<area shape="rect" id="node10" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a0133333fcfaaa6de351c70773698de2e" title="utl::NDArray\&lt; T, 2\l \&gt;::Rows" alt="" coords="253,224,383,265"/>
+<area shape="rect" id="node6" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="469,97,610,123"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="479,147,599,174"/>
+<area shape="rect" id="node8" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="477,198,601,225"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="457,249,621,275"/>
+</map>

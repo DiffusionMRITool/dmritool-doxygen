@@ -1,0 +1,9 @@
+<map id="spams::SpMatrix::norm_2sq_cols" name="spams::SpMatrix::norm_2sq_cols">
+<area shape="rect" id="node2" href="$classspams_1_1SpVector.html#ad6d778a782e2d97f8813b55e332c9dd0" title="computes the l2 norm ^2 of the vector " alt="" coords="212,5,387,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#ac04083fea4f5609e91e68f4a89e03377" title="reference the column i into vec " alt="" coords="217,56,381,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="224,132,375,159"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpVector.html#ac29fd3b425abd23b09853c4403f1f233" title="clears the vector " alt="" coords="439,43,597,69"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="447,93,589,120"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="457,144,579,171"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="435,195,601,221"/>
+</map>

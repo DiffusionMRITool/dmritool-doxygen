@@ -1,0 +1,5 @@
+<map id="itk::SamplingScheme3D::GetNumbers" name="itk::SamplingScheme3D::GetNumbers">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a4cbd51635ea8e2eae1d49da5d47b4e87" title="itk::SamplingScheme3D\l::CalculateMinDistanceInShell" alt="" coords="216,5,415,47"/>
+<area shape="rect" id="node3" href="$OrientationStatistics_8cxx.html#abada68025d9cbbc18ea79d56072bbc4c" title="processOrientation" alt="" coords="250,71,381,98"/>
+<area shape="rect" id="node4" href="$OrientationStatistics_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="obtain energies, minimal angles from a given set of orientations " alt="" coords="463,71,513,98"/>
+</map>

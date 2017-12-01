@@ -1,0 +1,15 @@
+<map id="utl::NDArrayBase&lt; T, Dim &gt;" name="utl::NDArrayBase&lt; T, Dim &gt;">
+<area shape="rect" id="node4" href="$classutl_1_1NDArray.html" title="NDArray\&lt; double, 2 \&gt;" alt="" coords="816,5,967,32"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray.html" title="NDArray\&lt; ValueType, 1 \&gt;" alt="" coords="804,56,979,83"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArray.html" title="NDArray is a N&#45;Dimensional array class (row&#45;major, c version) " alt="" coords="812,107,971,133"/>
+<area shape="rect" id="node9" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 2 \&gt;" alt="" coords="805,157,977,184"/>
+<area shape="rect" id="node11" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 1 \&gt;" alt="" coords="805,208,977,235"/>
+<area shape="rect" id="node13" href="$classutl_1_1NDArrayBase.html" title="utl::NDArrayBase\&lt; T, 4 \&gt;" alt="" coords="805,259,977,285"/>
+<area shape="rect" id="node2" href="$classutl_1_1Expr.html" title="utl::Expr\&lt; NDArrayBase\l\&lt; T, Dim \&gt;, T \&gt;" alt="" coords="341,121,505,162"/>
+<area shape="rect" id="node3" href="$classutl_1_1Expr.html" title="base class for expression " alt="" coords="5,121,144,162"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArray.html" title="utl::NDArray\&lt; ValueType, 1 \&gt;" alt="" coords="1132,56,1328,83"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArray.html" title="utl::NDArray\&lt; double, 2 \&gt;" alt="" coords="1144,107,1316,133"/>
+<area shape="rect" id="node10" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html" title="NDArray&lt;T,2&gt; is a row&#45;major matrix. " alt="" coords="1159,157,1301,184"/>
+<area shape="rect" id="node12" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html" title="NDArray&lt;T,1&gt; is a vector class which uses blas mkl. " alt="" coords="1159,208,1301,235"/>
+<area shape="rect" id="node14" href="$classutl_1_1NDArray_3_01T_00_014_01_4.html" title="NDArray&lt;T,4&gt; is a 4th order tensor. " alt="" coords="1159,259,1301,285"/>
+</map>

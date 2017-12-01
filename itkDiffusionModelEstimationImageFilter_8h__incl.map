@@ -1,0 +1,26 @@
+<map id="Modules/DiffusionModels/include/itkDiffusionModelEstimationImageFilter.h" name="Modules/DiffusionModels/include/itkDiffusionModelEstimationImageFilter.h">
+<area shape="rect" id="node4" href="$itkMaskedImageToImageFilter_8h.html" title="itkMaskedImageToImageFilter.h" alt="" coords="1515,117,1725,143"/>
+<area shape="rect" id="node28" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="2248,348,2347,375"/>
+<area shape="rect" id="node38" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="989,348,1057,375"/>
+<area shape="rect" id="node46" href="$itkSamplingSchemeQSpace_8h.html" title="itkSamplingSchemeQSpace.h" alt="" coords="2110,117,2306,143"/>
+<area shape="rect" id="node50" href="$itkDiffusionModelEstimationImageFilter_8hxx.html" title="itkDiffusionModelEstimation\lImageFilter.hxx" alt="" coords="2330,109,2515,151"/>
+<area shape="rect" id="node7" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="2053,736,2176,763"/>
+<area shape="rect" id="node13" href="$utlITKMacro_8h.html" title="utlITKMacro.h" alt="" coords="1529,430,1633,457"/>
+<area shape="rect" id="node15" href="$itkMaskedImageToImageFilter_8hxx.html" title="itkMaskedImageToImageFilter.hxx" alt="" coords="1359,199,1582,225"/>
+<area shape="rect" id="node18" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="1729,273,1775,300"/>
+<area shape="rect" id="node19" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="1467,512,1541,539"/>
+<area shape="rect" id="node20" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="1694,587,1863,613"/>
+<area shape="rect" id="node21" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="1897,661,2007,688"/>
+<area shape="rect" id="node23" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="1499,587,1619,613"/>
+<area shape="rect" id="node30" href="$utlBlas_8h.html" title="utlBlas.h" alt="" coords="1218,512,1291,539"/>
+<area shape="rect" id="node31" href="$utlExpression_8h.html" title="utlExpression.h" alt="" coords="2099,512,2211,539"/>
+<area shape="rect" id="node32" href="$utlTypeinfo_8h.html" title="Created &quot;07&#45;04&#45;2016. " alt="" coords="2243,661,2341,688"/>
+<area shape="rect" id="node33" href="$utlFunctors_8h.html" title="functors in utl " alt="" coords="1911,430,2009,457"/>
+<area shape="rect" id="node34" href="$utlNDArrayFunctions_8h.html" title="Created &quot;07&#45;03&#45;2016. " alt="" coords="2033,430,2188,457"/>
+<area shape="rect" id="node35" href="$utlVector_8h.html" title="utl::NDArray&lt;T,1&gt; class which uses blas mkl " alt="" coords="2356,430,2441,457"/>
+<area shape="rect" id="node36" href="$utlMatrix_8h.html" title="utl::NDArray&lt;T,2&gt; class which uses blas mkl " alt="" coords="2465,430,2548,457"/>
+<area shape="rect" id="node37" href="$utl4thOrderTensor_8h.html" title="Created &quot;06&#45;21&#45;2016. " alt="" coords="2573,430,2710,457"/>
+<area shape="rect" id="node45" href="$utlITKConceptChecking_8h.html" title="Created &quot;06&#45;10&#45;2016. " alt="" coords="1111,430,1283,457"/>
+<area shape="rect" id="node47" href="$itkSamplingScheme3D_8h.html" title="itkSamplingScheme3D.h" alt="" coords="1845,199,2011,225"/>
+<area shape="rect" id="node49" href="$itkSamplingSchemeQSpace_8hxx.html" title="itkSamplingSchemeQSpace.hxx" alt="" coords="2247,199,2457,225"/>
+</map>

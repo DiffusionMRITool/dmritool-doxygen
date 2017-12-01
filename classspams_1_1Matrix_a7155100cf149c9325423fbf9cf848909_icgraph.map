@@ -1,0 +1,39 @@
+<map id="spams::Matrix::rawX" name="spams::Matrix::rawX">
+<area shape="rect" id="node2" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="220,56,392,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#a442417036fa4deb22192cd4e7e435bd2" title="make a copy of the matrix mat in the current matrix " alt="" coords="225,613,387,640"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ad524bbeff72ecdadb2d1ecbf56dae1de" title="Auxiliary function for ist_groupLasso. " alt="" coords="231,664,381,691"/>
+<area shape="rect" id="node8" href="$namespacespams.html#a9635c5c50e5e3932baf554cd70ab7e36" title="Auxiliary function for ist_groupLasso. " alt="" coords="196,715,416,741"/>
+<area shape="rect" id="node9" href="$namespacespams.html#a516ab0761ddd1e790f10b078a63fd3ce" title="Auxiliary function for lasso. " alt="" coords="241,816,371,843"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="525,772,625,799"/>
+<area shape="rect" id="node11" href="$namespacespams.html#a11a263a784992cfa353524e6a621ccaf" title="Auxiliary function for lasso. " alt="" coords="238,208,374,235"/>
+<area shape="rect" id="node12" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="521,107,628,133"/>
+<area shape="rect" id="node15" href="$namespacespams.html#a6052b09a74f870c5d75a3b4d5d71bb8a" title="Auxiliary function for lasso. " alt="" coords="231,335,381,361"/>
+<area shape="rect" id="node18" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="239,461,373,488"/>
+<area shape="rect" id="node20" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="508,411,641,437"/>
+<area shape="rect" id="node23" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="527,512,622,539"/>
+<area shape="rect" id="node24" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="508,563,641,589"/>
+<area shape="rect" id="node25" href="$namespacespams.html#aeb0f4c65b1fcdee7aabe6e9c7dd28197" title="Auxiliary functoni for coreLARS (Cholesky downdate) " alt="" coords="225,867,387,893"/>
+<area shape="rect" id="node26" href="$classspams_1_1Matrix.html#a2ef7c6e2a719146f5f94967c11606731" title="spams::Matrix::singularValues" alt="" coords="207,917,405,944"/>
+<area shape="rect" id="node29" href="$classspams_1_1Matrix.html#ac87f4daac8cac1e5f7fc1c1681c5d0ce" title="spams::Matrix::svd" alt="" coords="239,968,373,995"/>
+<area shape="rect" id="node31" href="$namespacespams.html#a277f0996ca00910d067acef5924b47e4" title="spams::UtlMatrixToMatrix" alt="" coords="219,1085,393,1112"/>
+<area shape="rect" id="node38" href="$namespacespams.html#a0b84187ac0391b662f217964f35e8094" title="spams::VnlMatrixToMatrix" alt="" coords="219,1136,393,1163"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="768,208,911,235"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="485,5,665,32"/>
+<area shape="rect" id="node7" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="496,689,653,716"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="505,157,644,184"/>
+<area shape="rect" id="node14" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="490,259,659,285"/>
+<area shape="rect" id="node16" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="504,309,645,336"/>
+<area shape="rect" id="node17" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="464,360,685,387"/>
+<area shape="rect" id="node19" href="$namespacespams.html#a4c2c75f7becf58d5830733655a400da1" title="Auxiliary function of omp. " alt="" coords="503,461,646,488"/>
+<area shape="rect" id="node21" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="789,411,890,437"/>
+<area shape="rect" id="node22" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="1049,411,1150,437"/>
+<area shape="rect" id="node27" href="$classspams_1_1FISTA_1_1TraceNorm.html#a88c9d5670e9887ac776952d63204716f" title="spams::FISTA::TraceNorm\l::eval" alt="" coords="485,830,665,871"/>
+<area shape="rect" id="node28" href="$classspams_1_1FISTA_1_1TraceNorm.html#a4b9a798adc751011a122da6eb1c41208" title="spams::FISTA::TraceNorm\l::fenchel" alt="" coords="485,895,665,937"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1TraceNorm.html#a35d8257a24954b984bf5393476fd75e1" title="spams::FISTA::TraceNorm\l::prox" alt="" coords="485,961,665,1002"/>
+<area shape="rect" id="node32" href="$classitk_1_1SpamsWeightedLassoSolver.html#a009217b48d3217bc3505509b2ea203b0" title="itk::SpamsWeightedLassoSolver\l::SetA" alt="" coords="1513,1087,1725,1129"/>
+<area shape="rect" id="node34" href="$classitk_1_1SpamsWeightedLassoSolver.html#a996a8ac5ee9c62f003c5d8aee6626dd8" title="itk::SpamsWeightedLassoSolver\l::SetB" alt="" coords="1253,1154,1465,1195"/>
+<area shape="rect" id="node35" href="$classitk_1_1SpamsWeightedLassoSolver.html#afc9cdcb38eef7b52c211492981125719" title="itk::SpamsWeightedLassoSolver\l::Setb" alt="" coords="993,1154,1205,1195"/>
+<area shape="rect" id="node36" href="$classitk_1_1SpamsWeightedLassoSolver.html#abc2634e0a90d30badf8c10bbf1d9b9b0" title="itk::SpamsWeightedLassoSolver\l::SetW" alt="" coords="733,1129,945,1170"/>
+<area shape="rect" id="node37" href="$classitk_1_1SpamsWeightedLassoSolver.html#afbdcc1a94cece6adea1f6040f5211646" title="itk::SpamsWeightedLassoSolver\l::Setw" alt="" coords="469,1078,681,1119"/>
+<area shape="rect" id="node33" href="$classitk_1_1SpamsWeightedLassoSolver.html#a0f55b64a719d3f83e1a4926a81ccbe19" title="itk::SpamsWeightedLassoSolver\l::SpamsWeightedLassoSolver" alt="" coords="1773,1087,1985,1129"/>
+</map>

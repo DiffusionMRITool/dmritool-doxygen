@@ -1,0 +1,12 @@
+<map id="spams::Matrix::normFsq" name="spams::Matrix::normFsq">
+<area shape="rect" id="node2" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="260,5,393,32"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1LossCur.html#a8320c9e22441ecf9871a5390418b05b5" title="spams::FISTA::LossCur\l::eval" alt="" coords="245,57,409,98"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1SqLossMat.html#a39c39e936e984987102906f7e6e35e82" title="spams::FISTA::SqLossMat\l::eval" alt="" coords="236,122,417,163"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1LossCur.html#a104bfec4199910094a675de4ba729eaa" title="spams::FISTA::LossCur\l::fenchel" alt="" coords="245,187,409,229"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1SqLossMat.html#afb6056861771801b04ce9520f1a3bd4b" title="spams::FISTA::SqLossMat\l::fenchel" alt="" coords="236,253,417,294"/>
+<area shape="rect" id="node9" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="248,319,405,345"/>
+<area shape="rect" id="node10" href="$namespacespams_1_1FISTA.html#a41b5466d14d6f8ae8e4cf149a3237ee6" title="spams::FISTA::LagrangianADMM" alt="" coords="217,369,436,396"/>
+<area shape="rect" id="node11" href="$classspams_1_1FISTA_1_1SqLossMat.html#a8ca44252b92068abcd291f8b99376a88" title="spams::FISTA::SqLossMat\l::test_backtracking" alt="" coords="236,421,417,462"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="484,5,585,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="633,5,735,32"/>
+</map>

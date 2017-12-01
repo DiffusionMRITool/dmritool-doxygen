@@ -1,0 +1,31 @@
+<map id="Modules/Math/include/itkSHCoefficientsFit.h" name="Modules/Math/include/itkSHCoefficientsFit.h">
+<area shape="rect" id="node2" href="$utlITKMacro_8h.html" title="utlITKMacro.h" alt="" coords="5,408,109,435"/>
+<area shape="rect" id="node4" href="$utl_8h.html" title="helper functions specifically used in dmritool " alt="" coords="1155,95,1202,121"/>
+<area shape="rect" id="node5" href="$DMRITOOLConfigure_8h.html" title="DMRITOOLConfigure.h" alt="" coords="765,333,923,360"/>
+<area shape="rect" id="node7" href="$utlSTDHeaders_8h.html" title="utlSTDHeaders.h" alt="" coords="587,856,709,883"/>
+<area shape="rect" id="node13" href="$utlCore_8h.html" title="utlCore.h" alt="" coords="1468,632,1543,659"/>
+<area shape="rect" id="node33" href="$utlNDArray_8h.html" title="utlNDArray.h" alt="" coords="1049,408,1148,435"/>
+<area shape="rect" id="node39" href="$utlMath_8h.html" title="utlMath.h" alt="" coords="641,557,717,584"/>
+<area shape="rect" id="node42" href="$utlVNL_8h.html" title="help functions for VNL " alt="" coords="1543,408,1617,435"/>
+<area shape="rect" id="node43" href="$utlVNLIO_8h.html" title="utlVNLIO.h" alt="" coords="1406,333,1493,360"/>
+<area shape="rect" id="node44" href="$utlITK_8h.html" title="utlITK.h" alt="" coords="673,333,741,360"/>
+<area shape="rect" id="node45" href="$utlVNLBlas_8h.html" title="utlVNLBlas.h" alt="" coords="1619,333,1717,360"/>
+<area shape="rect" id="node46" href="$utlVNLLapack_8h.html" title="utlVNLLapack.h" alt="" coords="1615,259,1729,285"/>
+<area shape="rect" id="node47" href="$utlDMRI_8h.html" title="utlDMRI.h" alt="" coords="1057,333,1140,360"/>
+<area shape="rect" id="node48" href="$itkSphericalHarmonicsGenerator_8h.html" title="itkSphericalHarmonicsGenerator.h" alt="" coords="1267,177,1488,203"/>
+<area shape="rect" id="node49" href="$utlDMRIStoredTables_8h.html" title="Created &quot;11&#45;12&#45;2015. " alt="" coords="931,259,1090,285"/>
+<area shape="rect" id="node50" href="$itkMultiVolumeImageToVectorImageFilter_8h.html" title="itkMultiVolumeImageToVector\lImageFilter.h" alt="" coords="1665,169,1863,211"/>
+<area shape="rect" id="node14" href="$utlCommandLineParser_8h.html" title="small but powerful CMD parser, borrowed from CImg, http://cimg.sourceforge.net/ " alt="" coords="1873,707,2042,733"/>
+<area shape="rect" id="node17" href="$utlCoreMacro_8h.html" title="macros for utlCore " alt="" coords="879,781,990,808"/>
+<area shape="rect" id="node20" href="$utlCore11_8h.html" title="utl functions using c++11 Created &quot;07&#45;02&#45;2016 " alt="" coords="802,856,891,883"/>
+<area shape="rect" id="node22" href="$utlSmartAssert_8h.html" title="utlSmartAssert.h" alt="" coords="1075,707,1195,733"/>
+<area shape="rect" id="node31" href="$utlConstants_8h.html" title="Created &quot;09&#45;22&#45;2016. " alt="" coords="539,707,645,733"/>
+<area shape="rect" id="node32" href="$utlCoreMKL_8h.html" title="utlCoreMKL.h" alt="" coords="1694,707,1797,733"/>
+<area shape="rect" id="node21" href="$utlTypeinfo_8h.html" title="Created &quot;07&#45;04&#45;2016. " alt="" coords="513,931,610,957"/>
+<area shape="rect" id="node35" href="$utlBlas_8h.html" title="utlBlas.h" alt="" coords="2427,632,2501,659"/>
+<area shape="rect" id="node36" href="$utlExpression_8h.html" title="utlExpression.h" alt="" coords="677,632,789,659"/>
+<area shape="rect" id="node37" href="$utlFunctors_8h.html" title="functors in utl " alt="" coords="893,557,992,584"/>
+<area shape="rect" id="node38" href="$utlNDArrayFunctions_8h.html" title="Created &quot;07&#45;03&#45;2016. " alt="" coords="649,483,804,509"/>
+<area shape="rect" id="node40" href="$utlVector_8h.html" title="utl::NDArray&lt;T,1&gt; class which uses blas mkl " alt="" coords="1281,483,1367,509"/>
+<area shape="rect" id="node41" href="$utlMatrix_8h.html" title="utl::NDArray&lt;T,2&gt; class which uses blas mkl " alt="" coords="1073,483,1156,509"/>
+</map>

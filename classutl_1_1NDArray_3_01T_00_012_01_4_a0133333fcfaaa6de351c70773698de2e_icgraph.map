@@ -1,0 +1,51 @@
+<map id="utl::NDArray&lt; T, 2 &gt;::Rows" name="utl::NDArray&lt; T, 2 &gt;::Rows">
+<area shape="rect" id="node2" href="$namespaceutl.html#a56d03e7a0ff99a8718f4ad3d77076964" title="utl::CartesianToSpherical" alt="" coords="199,157,368,183"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#ab0d7e42be41159f0c59c6f78a978fdbc" title="utl::ComputeSHMatrix" alt="" coords="460,207,612,234"/>
+<area shape="rect" id="node18" href="$namespaceutl.html#a971ff3b7ff6f398990879a13b33e8896" title="utl::ConnectUtlMatrix" alt="" coords="463,831,609,858"/>
+<area shape="rect" id="node22" href="$namespaceutl.html#a9d564514be5f80daedb5e778850b0e7f" title="utl::Convert2To1Tensor" alt="" coords="204,309,363,335"/>
+<area shape="rect" id="node23" href="$namespaceutl.html#aedc2d485f36581b79fcf0124c6e7f4e8" title="utl::Convert2To4Tensor" alt="" coords="204,359,363,386"/>
+<area shape="rect" id="node24" href="$namespaceutl.html#afcf0bbd55b4bc1601d489d3be65d3d89" title="utl::FlipOrientations" alt="" coords="216,410,351,437"/>
+<area shape="rect" id="node27" href="$namespaceutl.html#a46a406faa63405491ee037f8a3dab3a7" title="dgesdd_UtlMatrix dgesdd is faster than dgesvd. http://www.netlib.org/lapack/explore&#45;html/db/db4/dgesd..." alt="" coords="214,933,353,959"/>
+<area shape="rect" id="node29" href="$namespaceutl.html#a89d6801f4d311a84878362803063245e" title="utl::RotationMatrixToAxis\lAngle" alt="" coords="738,1129,909,1171"/>
+<area shape="rect" id="node30" href="$namespaceutl.html#a0f64578b6d8a60cf72e6410dd7d3ab6d" title="dgesvd_UtlMatrix " alt="" coords="214,562,353,589"/>
+<area shape="rect" id="node31" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a3a4e67aa94eda6b5ac4f71a31b4e1d50" title="utl::NDArray\&lt; T, 2\l \&gt;::GetCrop" alt="" coords="218,613,349,655"/>
+<area shape="rect" id="node32" href="$namespaceutl.html#a56127830fca2d2edda22a58206d4285a" title="utl::GetDTIDesignMatrix" alt="" coords="201,679,365,706"/>
+<area shape="rect" id="node33" href="$namespaceutl.html#a9183e09fc03d7e66c07a4333a6eb21a5" title="utl::GetEqualityConstraint\lProjection" alt="" coords="450,1124,622,1165"/>
+<area shape="rect" id="node34" href="$namespaceutl.html#a14e9054cd4f85c074611f8034f8e14da" title="utl::GetMXArrayFromUtlMatrix" alt="" coords="437,506,635,533"/>
+<area shape="rect" id="node35" href="$namespaceutl.html#ac3e904108db21207a2c0cef396f9cc0e" title="utl::GetUtlMatrixFromMXArray" alt="" coords="184,258,383,285"/>
+<area shape="rect" id="node36" href="$namespaceutl.html#a8fb23cb4570159275294f8f4c7c9b870" title="utl::InnerProduct" alt="" coords="224,882,343,909"/>
+<area shape="rect" id="node37" href="$namespaceutl.html#af8af6f335e3b41ab9587e774ef7dc061" title="utl::InverseMatrix" alt="" coords="222,781,345,807"/>
+<area shape="rect" id="node38" href="$namespaceutl.html#a5a1c4c97b38db2ce6ea6e8952afb3770" title="utl::InverseSymmericMatrix" alt="" coords="445,730,627,757"/>
+<area shape="rect" id="node39" href="$namespaceutl.html#aa8adfe7e5f4710cf9205372ca4c1cec8" title="utl::MatchBVectorAndGradient\lMatrix" alt="" coords="184,1035,383,1076"/>
+<area shape="rect" id="node40" href="$namespacespams.html#acab5f566c0a1abcd0bd541fa5bcb1b08" title="spams::MatrixToUtlMatrix" alt="" coords="197,1101,370,1127"/>
+<area shape="rect" id="node41" href="$namespaceutl.html#a7408a9b4c699722fb56d19868ccfbeaa" title="utl::NormalizeGrad" alt="" coords="218,1151,349,1178"/>
+<area shape="rect" id="node42" href="$namespaceutl.html#a3982621a418338ae4a9eccb9d07038b0" title="utl::operator*" alt="" coords="235,1202,331,1229"/>
+<area shape="rect" id="node43" href="$namespaceutl.html#a789b547c74c70a93425dcba58ceeeb55" title="utl::PInverseSymmericMatrix" alt="" coords="188,1253,379,1279"/>
+<area shape="rect" id="node44" href="$namespaceutl.html#a3d3f61f4f296952c4304560d9833287c" title="utl::PrintUtlMatrix" alt="" coords="474,582,598,609"/>
+<area shape="rect" id="node45" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#af1767598608acde65705c74e8e82c107" title="utl::NDArray\&lt; T, 2\l \&gt;::SetCrop" alt="" coords="218,1355,349,1396"/>
+<area shape="rect" id="node46" href="$namespaceutl.html#ac70478956f981407c3ce500b12b63672" title="utl::SphericalToCartesian" alt="" coords="199,1421,368,1447"/>
+<area shape="rect" id="node47" href="$namespaceutl.html#aea73b7073226d6553897cd2dc33b4846" title="dsyev_VnlMatrix eigen&#45;decomposition for symmetric matrix. http://www.netlib.org/lapack/explore&#45;html/d..." alt="" coords="217,1471,349,1498"/>
+<area shape="rect" id="node48" href="$namespaceutl.html#a58f7f622fed33f0b0c5465fc3ec4588d" title="dsyevd_UtlMatrix eigen&#45;decomposition for symmetric matrix. dsyevd is faster than dsyev http://www..." alt="" coords="214,1522,353,1549"/>
+<area shape="rect" id="node49" href="$namespacespams.html#a277f0996ca00910d067acef5924b47e4" title="spams::UtlMatrixToMatrix" alt="" coords="197,1573,370,1599"/>
+<area shape="rect" id="node50" href="$group__utlHelperFunctions.html#gaaef9a8d7333ff94f2083f63653730976" title="utl::UtlMatrixToVnlMatrix" alt="" coords="200,1623,367,1650"/>
+<area shape="rect" id="node3" href="$mexGetSamplesFromSPFCoefficients_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="490,258,582,285"/>
+<area shape="rect" id="node16" href="$classutl_1_1GradientTable.html#ae6952d6c86522529d7aa2f8fbad575f6" title="utl::GradientTable\l::GetGrad" alt="" coords="473,41,599,83"/>
+<area shape="rect" id="node17" href="$classitk_1_1SamplingScheme3D.html#a409ec08fdd19f7d6c4ddca6ebb3cc420" title="itk::SamplingScheme3D\l::GetOrientationsSpherical" alt="" coords="449,141,623,183"/>
+<area shape="rect" id="node5" href="$classitk_1_1SHCoefficientsPowerImageFilter.html#aac52d36adb264d8e986cfa87df4c72fb" title="itk::SHCoefficientsPower\lImageFilter::BeforeThreadedGenerateData" alt="" coords="689,71,957,112"/>
+<area shape="rect" id="node6" href="$mexGetSHBasisMatrix_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="777,370,869,397"/>
+<area shape="rect" id="node7" href="$classitk_1_1GeneralizedHighOrderTensorImageFilter.html#adbfd449cd20a7e8c5263ad14118b50e8" title="itk::GeneralizedHighOrder\lTensorImageFilter::ComputeBasis\lMatrix" alt="" coords="713,421,934,477"/>
+<area shape="rect" id="node8" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a4158c13fc5b10fa372ec7422350e270e" title="itk::SphericalPolarFourier\lImageFilter::ComputeBasisMatrix" alt="" coords="715,501,932,543"/>
+<area shape="rect" id="node9" href="$classitk_1_1MeshFromSHCoefficientsImageFilter.html#ac20e9884e2158c4d92e7d4a7639c772e" title="itk::MeshFromSHCoefficients\lImageFilter::ComputeBasisMatrix" alt="" coords="715,304,932,345"/>
+<area shape="rect" id="node10" href="$classitk_1_1DiffusionModelEstimationInSphericalCoordinateImageFilter.html#abb28975d6d898100d4c44decbb59a507" title="itk::DiffusionModelEstimation\lInSphericalCoordinateImageFilter\l::ComputeSHMatrix" alt="" coords="716,567,931,623"/>
+<area shape="rect" id="node11" href="$classitk_1_1SHCoefficientsRotation.html#a72031851956dccc76b7941dd2c358140" title="GetRotatedSHCoefficient rotate SH coefficient vector by a given rotation matrix. " alt="" coords="730,136,917,177"/>
+<area shape="rect" id="node12" href="$classitk_1_1SHCoefficientsRotation.html#aa16c97885e7e61ebb0e0fe27dc073ad6" title="itk::SHCoefficientsRotation\l::Initialize" alt="" coords="732,5,915,47"/>
+<area shape="rect" id="node13" href="$classitk_1_1Functor_1_1SHCoefficientsFit.html#a8c0f453649914074a3d56577e7953ae6" title="itk::Functor::SHCoefficients\lFit::Initialize" alt="" coords="731,648,916,689"/>
+<area shape="rect" id="node14" href="$SHCoefficientsToSphericalFunctionSamples_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="calculate samples of a spherical function from its SH coefficients " alt="" coords="798,202,849,229"/>
+<area shape="rect" id="node15" href="$PrintImage_8cxx.html#ab65108991dbca233c6db38ed0901f5fc" title="PrintImage" alt="" coords="781,253,866,279"/>
+<area shape="rect" id="node19" href="$classitk_1_1SphericalPolarFourierImageFilter.html#ab395cb9f0ae41ff713909cca4906cb47" title="itk::SphericalPolarFourier\lImageFilter::BeforeThreadedGenerateData" alt="" coords="1005,765,1273,807"/>
+<area shape="rect" id="node20" href="$classitk_1_1SamplingSchemeQSpaceIncrementalEstimationFilter.html#a27f928cb51b16bdf86a8a09b64e2fb1d" title="itk::SamplingSchemeQSpace\lIncrementalEstimationFilter\l::Initialization" alt="" coords="727,882,920,938"/>
+<area shape="rect" id="node21" href="$classitk_1_1SphericalPolarFourierImageFilter.html#a1fefb4f6fb921817483a157c4a9dd87e" title="itk::SphericalPolarFourier\lImageFilter::ThreadedGenerateData" alt="" coords="708,765,939,807"/>
+<area shape="rect" id="node25" href="$classitk_1_1MeshFromSphericalFunctionTessellatedSamplesImageFilter.html#a14f95d5edd488c89d39a06f4d3c1dd4d" title="itk::MeshFromSphericalFunction\lTessellatedSamplesImageFilter\l::ComputeBasisMatrix" alt="" coords="431,426,641,482"/>
+<area shape="rect" id="node26" href="$classitk_1_1DiscreteBasisMatrixGenerator.html#a9e935bba962e934f47fa60d7900b8b0c" title="itk::DiscreteBasisMatrix\lGenerator::Flip" alt="" coords="455,309,617,351"/>
+<area shape="rect" id="node28" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a18abb055f76c7558fec55c3b4af951ea" title="SVD. " alt="" coords="471,944,601,985"/>
+</map>

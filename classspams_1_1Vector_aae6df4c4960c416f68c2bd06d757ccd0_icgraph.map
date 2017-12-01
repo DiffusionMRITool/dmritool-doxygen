@@ -1,0 +1,8 @@
+<map id="spams::Vector::normalize2" name="spams::Vector::normalize2">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="232,161,427,188"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="752,161,895,188"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="733,262,913,289"/>
+<area shape="rect" id="node3" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="494,212,666,238"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="475,44,685,86"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="483,110,677,137"/>
+</map>

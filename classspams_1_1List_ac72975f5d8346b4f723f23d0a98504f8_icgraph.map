@@ -1,0 +1,15 @@
+<map id="spams::List::empty" name="spams::List::empty">
+<area shape="rect" id="node2" href="$classspams_1_1MaxFlow.html#ad2dcfdcc58536b0af5b9c16a1dd767c7" title="spams::MaxFlow::check_flow" alt="" coords="201,5,397,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1MaxFlow.html#a6aeaeffc64064b75f4e721f61b335dd4" title="spams::MaxFlow::component\l_relabelling" alt="" coords="201,57,396,98"/>
+<area shape="rect" id="node4" href="$namespacespams.html#abb00351ac7c01f37efaed4070b7ea74d" title="spams::count_cc_graph" alt="" coords="218,123,379,149"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a9e0766ada6d431cf75e5e4414f06f494" title="spams::count_paths_dags" alt="" coords="211,173,386,200"/>
+<area shape="rect" id="node6" href="$classspams_1_1MaxFlow.html#a65d5e79b9f3e600742023e03a7d69dbf" title="spams::MaxFlow::extractConnex\lComponents" alt="" coords="191,225,406,266"/>
+<area shape="rect" id="node7" href="$classspams_1_1MaxFlow.html#a202e1f433b718eb2071dda5d78ae1bef" title="spams::MaxFlow::global\l_relabelling" alt="" coords="217,290,381,331"/>
+<area shape="rect" id="node8" href="$classspams_1_1MaxFlow.html#a5d174ea8165335e478252539560d0489" title="spams::MaxFlow::norm" alt="" coords="219,356,378,383"/>
+<area shape="rect" id="node9" href="$classspams_1_1MaxFlow.html#a640059ac183585d8a0ffc62cd70dd13f" title="spams::MaxFlow::project_box" alt="" coords="200,407,397,433"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a23c5e278179f90790286b528df5b5ea0" title="spams::remove_cycles" alt="" coords="220,457,377,484"/>
+<area shape="rect" id="node11" href="$classspams_1_1MaxFlow.html#a642ca71a11aef4e2bb364c28e3de18ad" title="spams::MaxFlow::splitComponent" alt="" coords="188,508,409,535"/>
+<area shape="rect" id="node12" href="$classspams_1_1MaxFlow.html#a1dab0f192e8dcf379fb45c96ab526394" title="spams::MaxFlow::sub\l_gradient" alt="" coords="223,559,374,601"/>
+<area shape="rect" id="node13" href="$classspams_1_1MinCostFlow.html#a351b3dd71968e135fc7b5278f79819f6" title="the function assumes the graph is a DAG " alt="" coords="225,625,372,666"/>
+<area shape="rect" id="node14" href="$classspams_1_1MaxFlow.html#a70c1c3798035f9097f2c5b97ca42c4ff" title="spams::MaxFlow::update\l_capacities" alt="" coords="214,690,383,731"/>
+</map>

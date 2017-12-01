@@ -1,0 +1,8 @@
+<map id="spams::VectorToUtlVector" name="spams::VectorToUtlVector">
+<area shape="rect" id="node2" href="$classutl_1_1NDArrayBase.html#a6144d23cdfdd3013d2248f6d529af00e" title="utl::NDArrayBase::GetData" alt="" coords="231,5,413,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="261,56,383,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="249,107,395,133"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html#a9de8191990cce80ea64287b87043af22" title="utl::NDArray\&lt; T, 1\l \&gt;::ReSize" alt="" coords="257,158,387,199"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArrayBase.html#af1085c886d5e10b1c562456e4864cff9" title="utl::NDArrayBase::Size" alt="" coords="243,224,401,251"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArrayBase.html#a425e6d02b0bc1c285e18d07af2eb1e66" title="utl::NDArrayBase::ReSize" alt="" coords="461,165,637,192"/>
+</map>

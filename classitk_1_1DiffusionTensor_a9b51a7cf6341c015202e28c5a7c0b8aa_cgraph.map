@@ -1,0 +1,10 @@
+<map id="itk::DiffusionTensor::GetEigenValuesVectors" name="itk::DiffusionTensor::GetEigenValuesVectors">
+<area shape="rect" id="node2" href="$classitk_1_1DiffusionTensor.html#a4f097786095dced9a1cc96f6c0743f5e" title="analytic way to calculate eigenValues (in ascending order) and eigenVectors. In mathematica, Eigenvectors[( { {a, b, c}, {b, d, e}, {c, e, f} } )] " alt="" coords="223,27,439,69"/>
+<area shape="rect" id="node3" href="$group__utlMath.html#ga793e076c420044a456bd2a5499008205" title="utl::PolynomialRoot" alt="" coords="487,5,623,32"/>
+<area shape="rect" id="node4" href="$classitk_1_1DiffusionTensor.html#a85cbd8f5236948eed97fc8ff2f8e7654" title="itk::DiffusionTensor\l::SetEigenValues" alt="" coords="487,57,623,98"/>
+<area shape="rect" id="node5" href="$classitk_1_1DiffusionTensor.html#a826c36c16f7fe8b178996a172371ec92" title="itk::DiffusionTensor\l::SetEigenVectors" alt="" coords="671,57,807,98"/>
+<area shape="rect" id="node6" href="$classitk_1_1DiffusionTensor.html#abb61db1ef3f45ae5df43d08ea889ece6" title="itk::DiffusionTensor\l::GetVnlMatrix" alt="" coords="855,57,991,98"/>
+<area shape="rect" id="node7" href="$classitk_1_1DiffusionTensor.html#aefa888562e8a329ee204085a4365ee00" title="itk::DiffusionTensor\l::SetVnlMatrix" alt="" coords="1039,57,1175,98"/>
+<area shape="rect" id="node8" href="$classitk_1_1DiffusionTensor.html#ae8bd47f1efacf375e946f016192ef465" title="itk::DiffusionTensor\l::Rotate" alt="" coords="1223,27,1359,69"/>
+<area shape="rect" id="node9" href="$classitk_1_1DiffusionTensor.html#a239c1b7ef6748ad2b90de85041b04417" title="itk::DiffusionTensor\l::GetRotate" alt="" coords="1407,57,1543,98"/>
+</map>

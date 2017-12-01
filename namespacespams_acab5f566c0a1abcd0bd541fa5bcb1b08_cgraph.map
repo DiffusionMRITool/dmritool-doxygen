@@ -1,0 +1,10 @@
+<map id="spams::MatrixToUtlMatrix" name="spams::MatrixToUtlMatrix">
+<area shape="rect" id="node2" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a930154628e8961e14d72b23bd097c149" title="utl::NDArray\&lt; T, 2\l \&gt;::Columns" alt="" coords="253,5,383,47"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArrayBase.html#a6144d23cdfdd3013d2248f6d529af00e" title="utl::NDArrayBase::GetData" alt="" coords="227,71,409,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="256,122,380,149"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="258,173,378,199"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#abe2e28029c1383dbb4d1100c762681b0" title="utl::NDArray\&lt; T, 2\l \&gt;::ReSize" alt="" coords="253,224,383,265"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a0133333fcfaaa6de351c70773698de2e" title="utl::NDArray\&lt; T, 2\l \&gt;::Rows" alt="" coords="253,289,383,331"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="257,355,379,382"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArrayBase.html#a425e6d02b0bc1c285e18d07af2eb1e66" title="utl::NDArrayBase::ReSize" alt="" coords="457,231,633,258"/>
+</map>

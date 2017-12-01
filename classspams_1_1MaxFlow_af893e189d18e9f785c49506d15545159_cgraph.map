@@ -1,0 +1,12 @@
+<map id="spams::MaxFlow::init_split_variables" name="spams::MaxFlow::init_split_variables">
+<area shape="rect" id="node2" href="$classspams_1_1List.html#a7e306e462f940032408c352810c34dcb" title="spams::List::end" alt="" coords="223,5,341,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#aac5be2c27933a429bc6a4e7879eb52fd" title="returns pB[i] " alt="" coords="209,56,355,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#a1d5c3fe449efda28a69d91536f1a4a32" title="returns r[i] " alt="" coords="215,107,349,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="200,157,364,184"/>
+<area shape="rect" id="node10" href="$classspams_1_1List.html#a7dd0d4aa84398aaa7d9ee6dc5f8d6e84" title="spams::List::size" alt="" coords="221,208,343,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#ac77e5c0f1817324676a9f9004b5dd109" title="returns v[i] " alt="" coords="214,259,350,285"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="417,81,575,108"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="428,132,564,159"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="426,183,566,209"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="412,233,580,260"/>
+</map>

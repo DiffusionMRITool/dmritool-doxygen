@@ -1,0 +1,18 @@
+<map id="utl::NDArrayBase::Scale" name="utl::NDArrayBase::Scale">
+<area shape="rect" id="node2" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html#a490f185e8847144e32a0f0584b8d091b" title="utl::NDArray\&lt; T, 1\l \&gt;::GetRotateAxis" alt="" coords="229,85,360,127"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a70eb01271b8a4e826abf4eea91ac328e" title="utl::NDArray\&lt; T, 2\l \&gt;::GetTranspose" alt="" coords="229,151,360,192"/>
+<area shape="rect" id="node17" href="$classutl_1_1NDArrayBase.html#a5c7f057dc1e0f03cca68bcb7c468af25" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::operator/=" alt="" coords="220,216,369,257"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a8352ebe530e4ce8e1d62cdd2cec9a375" title="utl::NDArray\&lt; T, 2\l \&gt;::ExpM" alt="" coords="438,41,569,83"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#a46a406faa63405491ee037f8a3dab3a7" title="dgesdd_UtlMatrix dgesdd is faster than dgesvd. http://www.netlib.org/lapack/explore&#45;html/db/db4/dgesd..." alt="" coords="434,107,573,134"/>
+<area shape="rect" id="node12" href="$namespaceutl.html#a0f64578b6d8a60cf72e6410dd7d3ab6d" title="dgesvd_UtlMatrix " alt="" coords="434,158,573,185"/>
+<area shape="rect" id="node13" href="$namespaceutl.html#a9183e09fc03d7e66c07a4333a6eb21a5" title="utl::GetEqualityConstraint\lProjection" alt="" coords="417,209,589,251"/>
+<area shape="rect" id="node14" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#ab3166311a8a45a6aa5598f6803661631" title="utl::NDArray\&lt; T, 2\l \&gt;::LogM" alt="" coords="438,275,569,316"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a18abb055f76c7558fec55c3b4af951ea" title="SVD. " alt="" coords="670,100,801,141"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#a78903bd75119b4398e44aa3055c44da1" title="utl::PInverseMatrix" alt="" coords="913,78,1045,105"/>
+<area shape="rect" id="node11" href="$namespaceutl.html#a89d6801f4d311a84878362803063245e" title="utl::RotationMatrixToAxis\lAngle" alt="" coords="894,129,1065,171"/>
+<area shape="rect" id="node8" href="$classitk_1_1SHCoefficientsPowerImageFilter.html#aac52d36adb264d8e986cfa87df4c72fb" title="itk::SHCoefficientsPower\lImageFilter::BeforeThreadedGenerateData" alt="" coords="1125,5,1393,47"/>
+<area shape="rect" id="node9" href="$classitk_1_1SHCoefficientsRotation.html#aa16c97885e7e61ebb0e0fe27dc073ad6" title="itk::SHCoefficientsRotation\l::Initialize" alt="" coords="1168,71,1351,112"/>
+<area shape="rect" id="node10" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a826d665e1b59497d978e8ae5415960ba" title="utl::NDArray\&lt; T, 2\l \&gt;::PInverseMatrix" alt="" coords="1194,136,1325,177"/>
+<area shape="rect" id="node15" href="$namespaceutl.html#ac7f95227a5db1da26f1a1b314f573470" title="utl::GetMeanOfRotationMatrix" alt="" coords="637,282,833,309"/>
+<area shape="rect" id="node16" href="$namespaceutl.html#ade36975dfe2796ef39f5be4968c627cf" title="utl::GetMeanOfRotationMatrix" alt="" coords="881,282,1077,309"/>
+</map>

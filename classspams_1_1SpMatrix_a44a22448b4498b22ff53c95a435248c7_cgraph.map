@@ -1,0 +1,11 @@
+<map id="spams::SpMatrix::mult" name="spams::SpMatrix::mult">
+<area shape="rect" id="node2" href="$classspams_1_1SpVector.html#a29cb81350b93f8d2ec95f61a15ae0e8e" title="spams::SpVector::L" alt="" coords="214,5,353,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpVector.html#a0c28ab7b0d9ba70d4931058e961670b9" title="access table r " alt="" coords="216,56,351,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="211,107,356,133"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="208,157,359,184"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="407,208,573,235"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="214,259,353,285"/>
+<area shape="rect" id="node10" href="$classspams_1_1SpVector.html#a2c8868805743c3340f9e6ddfd77b6f13" title="access table r " alt="" coords="214,309,353,336"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="419,107,561,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="429,157,551,184"/>
+</map>

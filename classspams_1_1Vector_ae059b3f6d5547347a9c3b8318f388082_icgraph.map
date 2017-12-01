@@ -1,0 +1,24 @@
+<map id="spams::Vector::div" name="spams::Vector::div">
+<area shape="rect" id="node2" href="$namespacespams.html#a6052b09a74f870c5d75a3b4d5d71bb8a" title="Auxiliary function for lasso. " alt="" coords="208,101,357,128"/>
+<area shape="rect" id="node6" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="215,233,350,260"/>
+<area shape="rect" id="node9" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="472,157,605,184"/>
+<area shape="rect" id="node14" href="$classspams_1_1Vector.html#af49a22814e3790e3be24046bbe7f7bd5" title="spams::Vector::l1project\l_weighted" alt="" coords="201,285,365,326"/>
+<area shape="rect" id="node16" href="$namespacespams_1_1FISTA.html#aa9c4ff4992faa04648206f402b8029a2" title="spams::FISTA::update\l_multipliers_ADMM" alt="" coords="205,350,360,391"/>
+<area shape="rect" id="node21" href="$namespacespams_1_1FISTA.html#a8549d99d1488a9931d71fea7f2d75ab0" title="spams::FISTA::update\l_multipliers_LinADMM" alt="" coords="205,481,360,522"/>
+<area shape="rect" id="node23" href="$namespacespams_1_1FISTA.html#a04a516d2ee8b8e59de03c15f1c30f489" title="spams::FISTA::update\l_multipliers_weighted_ADMM" alt="" coords="185,415,380,457"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="454,56,623,83"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="468,107,609,133"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="428,5,649,32"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a4c2c75f7becf58d5830733655a400da1" title="Auxiliary function of omp. " alt="" coords="467,208,610,235"/>
+<area shape="rect" id="node12" href="$namespacespams.html#acdfc0f4c8f68f1e72dcff222f9f71e95" title="spams::omp" alt="" coords="491,309,586,336"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="472,259,605,285"/>
+<area shape="rect" id="node8" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="723,208,865,235"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="743,157,845,184"/>
+<area shape="rect" id="node11" href="$namespacespams.html#ad4db7fc1fa100064b1c18599c5db3fa8" title="spams::somp" alt="" coords="963,157,1065,184"/>
+<area shape="rect" id="node15" href="$classspams_1_1MaxFlow.html#ac6c811364935b84428a862741b4dbe8a" title="spams::MaxFlow::project\l_weighted" alt="" coords="454,361,623,402"/>
+<area shape="rect" id="node17" href="$namespacespams_1_1FISTA.html#a5cb54317ec0b5ef00ae81dae36649096" title="spams::FISTA::ADMM" alt="" coords="461,427,617,453"/>
+<area shape="rect" id="node18" href="$namespacespams_1_1FISTA.html#aa7a8b26fa7b87db42863bd75d9d34f79" title="spams::FISTA::solver_admm" alt="" coords="697,455,891,481"/>
+<area shape="rect" id="node19" href="$namespacespams_1_1FISTA.html#a852fa9b330a4cf203f326058e296d953" title="AbstractMatrixB is basically either SpMatrix or Matrix. " alt="" coords="939,455,1089,481"/>
+<area shape="rect" id="node20" href="$mexSphericalPolarFourierImaging_8cxx.html#abafed13e1b50b1bced22ca4541bebddd" title="callFunction" alt="" coords="1137,455,1229,481"/>
+<area shape="rect" id="node22" href="$namespacespams_1_1FISTA.html#a6994862c705e47d3ad4629a8ecccf817" title="spams::FISTA::LinADMM" alt="" coords="452,484,625,511"/>
+</map>

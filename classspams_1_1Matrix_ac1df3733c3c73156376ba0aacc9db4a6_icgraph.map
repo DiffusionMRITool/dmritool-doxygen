@@ -1,0 +1,7 @@
+<map id="spams::Matrix::toSparse" name="spams::Matrix::toSparse">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1SqLossMat.html#a39c39e936e984987102906f7e6e35e82" title="spams::FISTA::SqLossMat\l::eval" alt="" coords="219,5,400,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1SqLossMat.html#a179c228760e25738125b0071e4ecf2eb" title="spams::FISTA::SqLossMat\l::grad" alt="" coords="219,71,400,112"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a32a66c157fff172065d58b5e3d82a583" title="spams::ist" alt="" coords="268,137,351,163"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1SqLossMat.html#a8ca44252b92068abcd291f8b99376a88" title="spams::FISTA::SqLossMat\l::test_backtracking" alt="" coords="219,188,400,229"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1SqLossMat.html#a7c0e81e3bf02b53ddeae6cd812d48b1c" title="spams::FISTA::SqLossMat\l::var_fenchel" alt="" coords="219,253,400,295"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="spams::Matrix::copyRef" name="spams::Matrix::copyRef">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="431,5,555,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="433,56,553,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="224,157,367,184"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#add425d3354d916bdc0da224a95be4bc4" title="Change the data in the matrix. " alt="" coords="216,107,375,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="423,107,564,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="432,157,555,184"/>
+</map>

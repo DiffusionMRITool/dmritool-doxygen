@@ -1,0 +1,8 @@
+<map id="itk::SamplingSchemeQSpace::Clear" name="itk::SamplingSchemeQSpace::Clear">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingSchemeQSpace.html#adc281fcfa0161fd14f953b109562a592" title="itk::SamplingSchemeQSpace\l::ConvertBVectorToQVector" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingSchemeQSpace.html#a9f89f9e46e296402bdc2a656463352b1" title="itk::SamplingSchemeQSpace\l::ConvertQVectorToBVector" alt="" coords="488,5,681,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpace.html#a5f4e8f103fb14f98e47f3fe02cbff8d4" title="itk::SamplingSchemeQSpace\l::GroupBValues" alt="" coords="729,5,923,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingSchemeQSpace.html#a22379998dd858e99826482311f5fb4a8" title="itk::SamplingSchemeQSpace\l::CorrectBValues" alt="" coords="971,5,1164,47"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingSchemeQSpace.html#a519c213565301dbb4ebce92592d0efd3" title="itk::SamplingSchemeQSpace\l::CorrectRadiusValues" alt="" coords="1212,5,1405,47"/>
+<area shape="rect" id="node7" href="$classitk_1_1SamplingSchemeQSpace.html#ab1e669a8e81bb56c9397efaf00f38d80" title="itk::SamplingSchemeQSpace\l::RemoveSamplesNotIndexed" alt="" coords="1453,5,1651,47"/>
+</map>

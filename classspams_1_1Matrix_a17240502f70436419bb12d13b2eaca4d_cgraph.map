@@ -1,0 +1,12 @@
+<map id="spams::Matrix::conjugateGradient" name="spams::Matrix::conjugateGradient">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="234,5,370,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="231,56,373,83"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#a317bea9c13796ff3a15399b34f64341c" title="returns A&#39;x " alt="" coords="235,107,369,133"/>
+<area shape="rect" id="node9" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="233,157,371,184"/>
+<area shape="rect" id="node10" href="$classspams_1_1Vector.html#af9760154ac346f4c6d4bde89e4d56b9f" title="returns ||A||_2^2 " alt="" coords="223,208,381,235"/>
+<area shape="rect" id="node11" href="$classspams_1_1Vector.html#a62c077f4493d82fb1ba891125e1b56c5" title="scale the vector by a " alt="" coords="233,259,371,285"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="429,107,580,133"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="650,56,773,83"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="640,107,783,133"/>
+<area shape="rect" id="node7" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="628,157,795,184"/>
+</map>

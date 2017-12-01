@@ -1,0 +1,5 @@
+<map id="itk::CastVectorImageFileWriter::CastVectorImageFileWriter" name="itk::CastVectorImageFileWriter::CastVectorImageFileWriter">
+<area shape="rect" id="node2" href="$classitk_1_1CastVectorImageFileWriter.html#ad1c63a77cf132fb750692ba54aea0d26" title="itk::CastVectorImageFile\lWriter::~CastVectorImageFile\lWriter" alt="" coords="276,5,472,61"/>
+<area shape="rect" id="node3" href="$classitk_1_1CastVectorImageFileWriter.html#aa469a8249f84835ef662604515e60c4b" title="itk::CastVectorImageFile\lWriter::SetInput" alt="" coords="520,13,687,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1CastVectorImageFileWriter.html#ae474d66caa6524d945d74d05ce17c2a8" title="itk::CastVectorImageFile\lWriter::GetInput" alt="" coords="735,13,901,54"/>
+</map>

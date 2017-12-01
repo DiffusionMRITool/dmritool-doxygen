@@ -1,0 +1,6 @@
+<map id="itk::IsVectorImage" name="itk::IsVectorImage">
+<area shape="rect" id="node2" href="$group__utlHelperFunctions.html#ga20c11df53fd7fc89babe5378eb953ca1" title="itk::Is3DImage" alt="" coords="203,5,311,32"/>
+<area shape="rect" id="node3" href="$4DImageMath_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="4DImage math. It works for both itk::Image&lt;double,4&gt; and itk::VectorImage&lt;double,3&gt; ..." alt="" coords="380,31,431,57"/>
+<area shape="rect" id="node4" href="$namespaceitk.html#a3f4969dc3895d27e1ab4ad28e92bda7a" title="itk::ReadVectorImage" alt="" coords="183,107,332,133"/>
+<area shape="rect" id="node5" href="$SHCoefficientsToGFA_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="Calculate GFA from SH coefficients. " alt="" coords="380,107,431,133"/>
+</map>

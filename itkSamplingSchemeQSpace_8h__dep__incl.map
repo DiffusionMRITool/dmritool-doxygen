@@ -1,0 +1,51 @@
+<map id="Modules/SamplingScheme/include/itkSamplingSchemeQSpace.h" name="Modules/SamplingScheme/include/itkSamplingSchemeQSpace.h">
+<area shape="rect" id="node2" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="1895,622,2116,663"/>
+<area shape="rect" id="node3" href="$SamplingSchemeQSpace1OptEstimation_8cxx.html" title="Created &quot;01&#45;17&#45;2017. " alt="" coords="2253,102,2544,143"/>
+<area shape="rect" id="node4" href="$SamplingSchemeQSpaceIMOCEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIMOCEstimation.cxx" alt="" coords="2569,102,2866,143"/>
+<area shape="rect" id="node5" href="$SamplingSchemeQSpaceIncrementalEstimation_8cxx.html" title="Applications/SamplingScheme\l/SamplingSchemeQSpaceIncremental\lEstimation.cxx" alt="" coords="2891,95,3133,151"/>
+<area shape="rect" id="node6" href="$SamplingSchemeQSpaceRandomEstimation_8cxx.html" title="Created &quot;01&#45;17&#45;2017. " alt="" coords="3158,102,3469,143"/>
+<area shape="rect" id="node7" href="$itkBasisMatrixGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkBasisMatrixGenerator.h" alt="" coords="3493,102,3715,143"/>
+<area shape="rect" id="node15" href="$itkDiffusionModelGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelGenerator.h" alt="" coords="1731,102,1971,143"/>
+<area shape="rect" id="node18" href="$itkDWIGeneratorBase_8h.html" title="Modules/DWIProcessing\l/include/itkDWIGeneratorBase.h" alt="" coords="1385,310,1596,351"/>
+<area shape="rect" id="node26" href="$itkDiffusionModelEstimationImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.h" alt="" coords="1995,95,2229,151"/>
+<area shape="rect" id="node45" href="$itkDWIReader_8h.html" title="Modules/DWIProcessing\l/include/itkDWIReader.h" alt="" coords="251,518,418,559"/>
+<area shape="rect" id="node49" href="$itkDWIWriter_8h.html" title="Modules/DWIProcessing\l/include/itkDWIWriter.h" alt="" coords="626,414,793,455"/>
+<area shape="rect" id="node50" href="$itkSamplingSchemeQSpace_8hxx.html" title="Modules/SamplingScheme\l/include/itkSamplingSchemeQSpace.hxx" alt="" coords="3740,102,3999,143"/>
+<area shape="rect" id="node8" href="$itkBasisMatrixGenerator_8hxx.html" title="Modules/DiffusionModels\l/include/itkBasisMatrixGenerator.hxx" alt="" coords="3363,206,3599,247"/>
+<area shape="rect" id="node9" href="$itkDiscreteBasisMatrixGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkDiscreteBasisMatrix\lGenerator.h" alt="" coords="3624,199,3827,255"/>
+<area shape="rect" id="node14" href="$itkMeshFromDiscreteFiberODFImageFilter_8h.html" title="Modules/Visualization\l/include/itkMeshFromDiscrete\lFiberODFImageFilter.h" alt="" coords="3918,199,4114,255"/>
+<area shape="rect" id="node10" href="$itkDiscreteBasisMatrixGenerator_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiscreteBasisMatrix\lGenerator.hxx" alt="" coords="3543,303,3745,359"/>
+<area shape="rect" id="node11" href="$itkTensorBasisMatrixGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkTensorBasisMatrix\lGenerator.h" alt="" coords="3769,303,3964,359"/>
+<area shape="rect" id="node12" href="$MeshFromDiscreteFiberODF_8cxx.html" title="Applications/Visualization\l/MeshFromDiscreteFiberODF.cxx" alt="" coords="3964,414,4183,455"/>
+<area shape="rect" id="node13" href="$itkTensorBasisMatrixGenerator_8hxx.html" title="Modules/DiffusionModels\l/include/itkTensorBasisMatrix\lGenerator.hxx" alt="" coords="3745,407,3940,463"/>
+<area shape="rect" id="node16" href="$itkCylinderModelGenerator_8h.html" title="Modules/DiffusionModels\l/include/itkCylinderModelGenerator.h" alt="" coords="1734,206,1970,247"/>
+<area shape="rect" id="node17" href="$itkCylinderModelGenerator_8hxx.html" title="Modules/DiffusionModels\l/include/itkCylinderModelGenerator.hxx" alt="" coords="1728,310,1979,351"/>
+<area shape="rect" id="node19" href="$itkDWIGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.h" alt="" coords="1174,414,1354,455"/>
+<area shape="rect" id="node22" href="$itkDWIGeneratorBase_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGeneratorBase.hxx" alt="" coords="1379,414,1603,455"/>
+<area shape="rect" id="node23" href="$itkDWISingleVoxelGenerator_8h.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.h" alt="" coords="901,414,1150,455"/>
+<area shape="rect" id="node20" href="$DWISimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISimulator.cxx" alt="" coords="720,518,909,559"/>
+<area shape="rect" id="node21" href="$itkDWIGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIGenerator.hxx" alt="" coords="1221,518,1416,559"/>
+<area shape="rect" id="node24" href="$DWISingleVoxelSimulator_8cxx.html" title="Applications/DWIProcessing\l/DWISingleVoxelSimulator.cxx" alt="" coords="493,518,696,559"/>
+<area shape="rect" id="node25" href="$itkDWISingleVoxelGenerator_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWISingleVoxelGenerator.hxx" alt="" coords="934,518,1197,559"/>
+<area shape="rect" id="node27" href="$itkDiffusionModelEstimationImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lImageFilter.hxx" alt="" coords="2359,199,2593,255"/>
+<area shape="rect" id="node28" href="$itkDiffusionModelEstimationInSphericalCoordinateImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lInSphericalCoordinateImageFilter.h" alt="" coords="2100,199,2335,255"/>
+<area shape="rect" id="node29" href="$itkDiffusionModelEstimationInSphericalCoordinateImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkDiffusionModelEstimation\lInSphericalCoordinateImageFilter.hxx" alt="" coords="2375,303,2615,359"/>
+<area shape="rect" id="node30" href="$itkSphericalPolarFourierEstimationImageFilter_8h.html" title="estimate the coeffcients of generalized Spherical Polar Fourier basis which can be separated into dif..." alt="" coords="2141,303,2350,359"/>
+<area shape="rect" id="node31" href="$itkFeaturesFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.h" alt="" coords="2185,407,2413,463"/>
+<area shape="rect" id="node38" href="$itkSphericalPolarFourierEstimationImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lEstimationImageFilter.hxx" alt="" coords="2903,407,3113,463"/>
+<area shape="rect" id="node39" href="$itkSphericalPolarFourierImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.h" alt="" coords="2670,407,2879,463"/>
+<area shape="rect" id="node42" href="$itkGeneralizedHighOrderTensorImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkGeneralizedHighOrder\lTensorImageFilter.h" alt="" coords="1440,511,1653,567"/>
+<area shape="rect" id="node32" href="$itkFeaturesFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.hxx" alt="" coords="2363,511,2591,567"/>
+<area shape="rect" id="node33" href="$itkODFFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkODFFromSPFImageFilter.h" alt="" coords="2043,518,2288,559"/>
+<area shape="rect" id="node34" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="2179,615,2397,671"/>
+<area shape="rect" id="node35" href="$itkProfileFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.h" alt="" coords="2667,511,2882,567"/>
+<area shape="rect" id="node37" href="$itkScalarMapFromSPFImageFilter_8h.html" title="Created &quot;03&#45;18&#45;2014. " alt="" coords="1729,511,1967,567"/>
+<area shape="rect" id="node36" href="$itkProfileFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.hxx" alt="" coords="2667,615,2882,671"/>
+<area shape="rect" id="node40" href="$itkSphericalPolarFourierImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.hxx" alt="" coords="2958,511,3167,567"/>
+<area shape="rect" id="node41" href="$mexGetSPFBasisMatrix_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSPFBasisMatrix.cxx" alt="" coords="3243,518,3477,559"/>
+<area shape="rect" id="node43" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="939,622,1138,663"/>
+<area shape="rect" id="node44" href="$itkGeneralizedHighOrderTensorImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkGeneralizedHighOrder\lTensorImageFilter.hxx" alt="" coords="1440,615,1653,671"/>
+<area shape="rect" id="node46" href="$DWIPreprocess_8cxx.html" title="Applications/DWIProcessing\l/DWIPreprocess.cxx" alt="" coords="448,622,637,663"/>
+<area shape="rect" id="node47" href="$itkDWIReader_8hxx.html" title="Modules/DWIProcessing\l/include/itkDWIReader.hxx" alt="" coords="245,622,424,663"/>
+<area shape="rect" id="node48" href="$mexReadDWIList_8cxx.html" title="Wrapping/Matlab/DWIProcessing\l/mexReadDWIList.cxx" alt="" coords="5,622,221,663"/>
+</map>

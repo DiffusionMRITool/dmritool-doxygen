@@ -1,0 +1,38 @@
+<map id="spams::omp" name="spams::omp">
+<area shape="rect" id="node2" href="$classspams_1_1SpMatrix.html#a35cfd4fd9bf5a2dff2b7169b1a20d8ac" title="clear the matrix " alt="" coords="585,57,743,84"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a0af1da1d512d187ef8a0fe104b034b65" title="use the data from v, r for _v, _r " alt="" coords="148,209,320,236"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="390,336,510,363"/>
+<area shape="rect" id="node5" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="388,285,512,312"/>
+<area shape="rect" id="node14" href="$namespacespams.html#ab000c8b9138df7a7137aac92e4d50838" title="Auxiliary function of omp. " alt="" coords="167,749,301,776"/>
+<area shape="rect" id="node17" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="589,985,739,1012"/>
+<area shape="rect" id="node24" href="$classspams_1_1Matrix.html#a7155100cf149c9325423fbf9cf848909" title="reference a modifiable reference to the data, DANGEROUS " alt="" coords="379,960,521,987"/>
+<area shape="rect" id="node26" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="376,1163,524,1189"/>
+<area shape="rect" id="node27" href="$classspams_1_1Vector.html#a27ebb7c958e5c30a41876ed3425d867a" title="set each value of the vector to val " alt="" coords="383,1011,517,1037"/>
+<area shape="rect" id="node28" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="368,437,532,464"/>
+<area shape="rect" id="node31" href="$namespacespams.html#a70671a263b259b8fcae010568dc63009" title="spams::init_omp" alt="" coords="175,1007,293,1033"/>
+<area shape="rect" id="node32" href="$classspams_1_1Vector.html#ac22fda6887e8882e378e871d5985e4e5" title="returns the maximum value " alt="" coords="155,1264,313,1291"/>
+<area shape="rect" id="node34" href="$classspams_1_1Matrix.html#acfa7b4257219e4b6eb3c47827a001a11" title="perform b = alpha*A&#39;x + beta*b " alt="" coords="149,956,319,983"/>
+<area shape="rect" id="node35" href="$classspams_1_1Vector.html#af9760154ac346f4c6d4bde89e4d56b9f" title="returns ||A||_2^2 " alt="" coords="155,1213,313,1240"/>
+<area shape="rect" id="node36" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="160,387,308,413"/>
+<area shape="rect" id="node6" href="$classspams_1_1SpMatrix.html#aa26c7e40729bd061baed9e762bb8df0e" title="Direct access to _r. " alt="" coords="383,83,517,109"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#ad087e1e8a15cd280de875b211eb52a43" title="return a non&#45;modifiable reference to the data " alt="" coords="389,133,511,160"/>
+<area shape="rect" id="node8" href="$classspams_1_1SpMatrix.html#ab5d8478d47aaee60b0aa7102fdf246a7" title="Direct access to _v. " alt="" coords="382,184,518,211"/>
+<area shape="rect" id="node9" href="$classspams_1_1SpMatrix.html#aa348fb9ffa42731a45fd336dae0d45a1" title="resize the matrix " alt="" coords="368,235,532,261"/>
+<area shape="rect" id="node13" href="$namespacespams.html#ad532d3bc49b745e3ce2e2677689b1769" title="spams::sort" alt="" coords="405,32,495,59"/>
+<area shape="rect" id="node10" href="$classspams_1_1SpMatrix.html#afb215a4090c49ec0401df20d56bf065f" title="returns the number of rows " alt="" coords="596,184,732,211"/>
+<area shape="rect" id="node11" href="$classspams_1_1SpMatrix.html#a0b15e84b9555dab37458e3cda7ade2d1" title="returns the number of columns " alt="" coords="594,235,734,261"/>
+<area shape="rect" id="node12" href="$classspams_1_1SpMatrix.html#a4e778ef153b56cb0eabf48e77fc9a3bc" title="returns the maximum number of non&#45;zero elements " alt="" coords="580,285,748,312"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a316d8bf5c94db4dad2164444e81e29bb" title="A &lt;&#45; A + a*x. " alt="" coords="382,640,518,667"/>
+<area shape="rect" id="node16" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="379,691,521,717"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="818,691,941,717"/>
+<area shape="rect" id="node21" href="$classspams_1_1AbstractMatrix.html#ae8c66a610acaa672f255636cb68b3411" title="copy X(:,i) into Xi " alt="" coords="373,742,527,783"/>
+<area shape="rect" id="node22" href="$classspams_1_1Vector.html#ae059b3f6d5547347a9c3b8318f388082" title="A &lt;&#45; A ./ x. " alt="" coords="384,808,516,835"/>
+<area shape="rect" id="node23" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="378,859,522,885"/>
+<area shape="rect" id="node25" href="$classspams_1_1Vector.html#a528481f78aeaac8fedbd926d432e87ed" title="returns a modifiable reference of the data, DANGEROUS " alt="" coords="377,488,523,515"/>
+<area shape="rect" id="node29" href="$classspams_1_1Vector.html#af1c61585a174867d5628d9709992e47a" title="A &lt;&#45; x .^ 2. " alt="" coords="383,909,517,936"/>
+<area shape="rect" id="node30" href="$classspams_1_1Vector.html#a1c2a39e500bcdba32db98d75a4bd62ba" title="A &lt;&#45; A &#45; x. " alt="" coords="382,589,518,616"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="808,1049,951,1076"/>
+<area shape="rect" id="node20" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="796,985,963,1012"/>
+<area shape="rect" id="node33" href="$classspams_1_1Vector.html#a9f819e4fd15c21ae3195ed58abd8d99e" title="returns the index of the largest value " alt="" coords="380,1264,520,1291"/>
+<area shape="rect" id="node37" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="379,387,521,413"/>
+</map>

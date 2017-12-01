@@ -1,0 +1,6 @@
+<map id="itk::RGBImageToVTKImageDataFilter::RGBImageToVTKImageDataFilter" name="itk::RGBImageToVTKImageDataFilter::RGBImageToVTKImageDataFilter">
+<area shape="rect" id="node2" href="$classitk_1_1RGBImageToVTKImageDataFilter.html#a68034c52cc490332643c52787b53e7b4" title="itk::RGBImageToVTKImageData\lFilter::GetOutput" alt="" coords="312,5,527,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1RGBImageToVTKImageDataFilter.html#adfc895a9541989e5eab9756cde036041" title="itk::RGBImageToVTKImageData\lFilter::SetInput" alt="" coords="575,5,789,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1RGBImageToVTKImageDataFilter.html#a1a2b96447797823ca5e1039fde38367e" title="itk::RGBImageToVTKImageData\lFilter::GetInput" alt="" coords="837,5,1052,47"/>
+<area shape="rect" id="node5" href="$classitk_1_1RGBImageToVTKImageDataFilter.html#afaf93f7bed08aefd93a92e6876026c8a" title="itk::RGBImageToVTKImageData\lFilter::GenerateData" alt="" coords="1100,5,1315,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spams::FISTA::LossMatSup&lt; T, L &gt;" name="spams::FISTA::LossMatSup&lt; T, L &gt;">
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1LossMat.html" title="spams::FISTA::LossMat\l\&lt; T, L \&gt;" alt="" coords="993,5,1159,47"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1LossMatSup.html" title="spams::FISTA::LossMatSup\l\&lt; T, LogLoss\&lt; T, weighted \&gt; \&gt;" alt="" coords="975,71,1177,112"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1LossMatSup.html" title="spams::FISTA::LossMatSup\l\&lt; T, SqLossMissing\&lt; T \&gt; \&gt;" alt="" coords="982,136,1170,177"/>
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1Loss.html" title="spams::FISTA::Loss\l\&lt; T, Matrix\&lt; T \&gt;, Matrix\l\&lt; T \&gt; \&gt;" alt="" coords="341,63,504,119"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1Loss.html" title="spams::FISTA::Loss\l\&lt; T, D, E \&gt;" alt="" coords="5,71,148,112"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1LossMat_3_01T_00_01LogLoss_3_01T_00_01weighted_01_4_01_4.html" title="spams::FISTA::LossMat\l\&lt; T, LogLoss\&lt; T, weighted \&gt; \&gt;" alt="" coords="1227,71,1429,112"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1LossMat_3_01T_00_01SqLossMissing_3_01T_01_4_01_4.html" title="spams::FISTA::LossMat\l\&lt; T, SqLossMissing\&lt; T \&gt; \&gt;" alt="" coords="1237,136,1419,177"/>
+</map>

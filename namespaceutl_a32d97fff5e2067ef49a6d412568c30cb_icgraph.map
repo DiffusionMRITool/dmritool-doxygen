@@ -1,0 +1,9 @@
+<map id="utl::max_element" name="utl::max_element">
+<area shape="rect" id="node2" href="$namespaceutl.html#aeb3bac76450f47a259da2ba4dd0f5835" title="utl::argmax" alt="" coords="243,13,330,39"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArrayBase.html#a1187bd1ac268786eb3a664f2f75565e8" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::ArgMin" alt="" coords="212,64,361,105"/>
+<area shape="rect" id="node5" href="$cblas__template_8h.html#aeb88e107bdd0fa27ab660fa1d529eaa8" title="interface to cblas_i*amax " alt="" coords="239,130,334,157"/>
+<area shape="rect" id="node6" href="$classitk_1_1GeneralizedHighOrderTensorImageFilter.html#a16307ca9c769d2a8db158eabf823a6ae" title="itk::GeneralizedHighOrder\lTensorImageFilter::ComputeScale" alt="" coords="176,181,397,223"/>
+<area shape="rect" id="node8" href="$OrientationsViewer_8cxx.html#a0ddf1224851353fc92bfbff6f499fa97" title="orientations visualization " alt="" coords="261,247,312,274"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArrayBase.html#ab78321c2fe0f5d50087b89e3bf323686" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::MaxValue" alt="" coords="473,5,622,47"/>
+<area shape="rect" id="node7" href="$classitk_1_1GeneralizedHighOrderTensorImageFilter.html#a9c9498c8124d9fcaadec9d0209186736" title="itk::GeneralizedHighOrder\lTensorImageFilter::Generalized\lHighOrderTensorImageFilter" alt="" coords="445,174,649,230"/>
+</map>

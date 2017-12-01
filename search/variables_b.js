@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['l0',['L0',['../structspams_1_1FISTA_1_1ParamFISTA.html#aa9ab62fdcaa7dcf8faee316412409ada',1,'spams::FISTA::ParamFISTA']]],
+  ['lambda',['lambda',['../structspams_1_1ParamDictLearn.html#a41c883bc0f2cd1d4001385bd08304487',1,'spams::ParamDictLearn::lambda()'],['../structspams_1_1FISTA_1_1ParamFISTA.html#aeb478d427eba777041b46aa5f79aa146',1,'spams::FISTA::ParamFISTA::lambda()'],['../structspams_1_1FISTA_1_1ParamReg.html#af204647c9753d5de5169d011d7d8c0bb',1,'spams::FISTA::ParamReg::lambda()']]],
+  ['lambda2',['lambda2',['../structspams_1_1ParamDictLearn.html#a5ef058afc9bcfde5b6b0df7f9d3bc84d',1,'spams::ParamDictLearn::lambda2()'],['../structspams_1_1FISTA_1_1ParamFISTA.html#af0af31cd98f5d4f2fbb16cbd0a3c6850',1,'spams::FISTA::ParamFISTA::lambda2()']]],
+  ['lambda2d1',['lambda2d1',['../structspams_1_1FISTA_1_1ParamReg.html#a076deb429e74e6ef5db8b19674fd80ad',1,'spams::FISTA::ParamReg']]],
+  ['lambda3',['lambda3',['../structspams_1_1ParamDictLearn.html#a0c2023876ddd664f7a86c8e0c0d90d80',1,'spams::ParamDictLearn::lambda3()'],['../structspams_1_1FISTA_1_1ParamFISTA.html#ab4098656c4af0037b229cc34a40b9052',1,'spams::FISTA::ParamFISTA::lambda3()']]],
+  ['lambda3d1',['lambda3d1',['../structspams_1_1FISTA_1_1ParamReg.html#a52a6129e38a4ce4f3032f8db9feaf293',1,'spams::FISTA::ParamReg']]],
+  ['lambda4',['lambda4',['../structspams_1_1ParamDictLearn.html#aa8f835f2cd4c0fdb14dcd4a7321847b1',1,'spams::ParamDictLearn']]],
+  ['learnedspfdictionary_5fsh8_5fra4_5fk250',['LearnedSPFDictionary_SH8_RA4_K250',['../namespaceutl.html#acc1d489883713febbae9266db1e30e0b',1,'utl']]],
+  ['learnedspfenergy_5fsh8_5fra4_5fk250',['LearnedSPFEnergy_SH8_RA4_K250',['../namespaceutl.html#a4697653d18c58f215e42e20a95cdb469',1,'utl']]],
+  ['length_5fnames',['length_names',['../structspams_1_1FISTA_1_1ParamFISTA.html#aaee54cbd35c33ef75a835215626e5941',1,'spams::FISTA::ParamFISTA']]],
+  ['level_5f',['level_',['../classsmart__assert_1_1assert__context.html#a76ae2c7c591e4537496f67ebba7540a4',1,'smart_assert::assert_context']]],
+  ['lighting',['Lighting',['../classvtk_1_1vtkPolyDataViewer.html#a831efc1ab4584ff9db0f5aa7ae69daba',1,'vtk::vtkPolyDataViewer']]],
+  ['lin_5fadmm',['lin_admm',['../structspams_1_1FISTA_1_1ParamFISTA.html#a1c42770332734a5763cef4731405297c',1,'spams::FISTA::ParamFISTA']]],
+  ['line_5f',['line_',['../classsmart__assert_1_1assert__context.html#a0356cdb36962a0670e42e5fdff9516b4',1,'smart_assert::assert_context']]],
+  ['linf',['linf',['../structspams_1_1FISTA_1_1ParamReg.html#af749297452c7d9b34538948532f872ec',1,'spams::FISTA::ParamReg']]],
+  ['log',['log',['../structspams_1_1ParamDictLearn.html#af11f236e8c493294894766235e7a25c8',1,'spams::ParamDictLearn::log()'],['../structspams_1_1FISTA_1_1ParamFISTA.html#a472fce785bdc781f0a3c3bbb56a22642',1,'spams::FISTA::ParamFISTA::log()']]],
+  ['log10e',['LOG10E',['../group__utlMath.html#ga02a829b23efd78e0b8df2ca8cdeec736',1,'utl']]],
+  ['log2e',['LOG2E',['../group__utlMath.html#ga904bd125baa3bbcdc70d946f3659d5d6',1,'utl']]],
+  ['loglevel',['LogLevel',['../namespaceutl.html#aec19140c8a38a8f0b77aa92fc0f526e4',1,'utl']]],
+  ['logname',['logName',['../structspams_1_1ParamDictLearn.html#a832a8441ec0676f96767c2fb208ab650',1,'spams::ParamDictLearn::logName()'],['../structspams_1_1FISTA_1_1ParamFISTA.html#a0b1d22f44e0c4a78cba62e22d74b6c17',1,'spams::FISTA::ParamFISTA::logName()']]],
+  ['loss',['loss',['../structspams_1_1FISTA_1_1ParamFISTA.html#a177177710a9c0ff746ea174f5fa5776c',1,'spams::FISTA::ParamFISTA']]],
+  ['low',['low',['../cblas__alt__template_8h.html#ae84c4aec1471c4ec7f892fc439169a66',1,'low():&#160;cblas_alt_template.h'],['../cblas__template_8h.html#ae84c4aec1471c4ec7f892fc439169a66',1,'low():&#160;cblas_template.h']]],
+  ['lower',['lower',['../cblas__alt__template_8h.html#a17ae1b83727db4230c8df98b4ee953fc',1,'cblas_alt_template.h']]],
+  ['lutexp',['lutExp',['../namespaceitk.html#a071f26f9674f084839f96d8752363202',1,'itk']]]
+];

@@ -1,0 +1,11 @@
+<map id="spams::FISTA::duality_gap" name="spams::FISTA::duality_gap">
+<area shape="rect" id="node2" href="$namespacespams_1_1FISTA.html#a8e3e1d13ef076a7e87bd99dbdd22b97d" title="spams::FISTA::duality_gap" alt="" coords="235,242,416,269"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1Loss.html#a24ba6805b416d2e5bb8d05600132f6d3" title="spams::FISTA::Loss\l::eval" alt="" coords="483,5,626,47"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1Regularizer.html#a5eb238ff0c8e51e4b379e1ccadbb6fe8" title="spams::FISTA::Regularizer\l::eval" alt="" coords="464,71,645,112"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1Loss.html#aec3bfd83464032687160b94bbc7b1d09" title="spams::FISTA::Loss\l::fenchel" alt="" coords="483,136,626,177"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1Regularizer.html#af4be8ede2d5f9c819cce7f07892d990d" title="spams::FISTA::Regularizer\l::fenchel" alt="" coords="464,201,645,243"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1Loss.html#ac1912abbfcc0aeec914359690f25737a" title="spams::FISTA::Loss\l::is_fenchel" alt="" coords="483,267,626,308"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1Regularizer.html#aa770358f59b815597b3ef1bf52f75cd0" title="spams::FISTA::Regularizer\l::is_fenchel" alt="" coords="464,332,645,373"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1Regularizer.html#ac72841776f5be4c3b9515937d93fb901" title="spams::FISTA::Regularizer\l::is_intercept" alt="" coords="464,397,645,439"/>
+<area shape="rect" id="node10" href="$classspams_1_1FISTA_1_1Loss.html#a710a55909be587a4583288f23f0656db" title="spams::FISTA::Loss\l::var_fenchel" alt="" coords="483,463,626,504"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="Modules/Solvers/include/itkSolverBase.h" name="Modules/Solvers/include/itkSolverBase.h">
+<area shape="rect" id="node2" href="$itkIterativeSolverBase_8h.html" title="Modules/Solvers/include\l/itkIterativeSolverBase.h" alt="" coords="1655,102,1821,143"/>
+<area shape="rect" id="node28" href="$itkSolverBase_8hxx.html" title="Modules/Solvers/include\l/itkSolverBase.hxx" alt="" coords="1867,102,2031,143"/>
+<area shape="rect" id="node29" href="$itkL2RegularizedLeastSquaresSolver_8h.html" title="Modules/Solvers/include\l/itkL2RegularizedLeastSquares\lSolver.h" alt="" coords="2055,95,2258,151"/>
+<area shape="rect" id="node31" href="$itkSpamsWeightedLassoSolver_8h.html" title="Modules/Solvers/include\l/itkSpamsWeightedLassoSolver.h" alt="" coords="2579,206,2798,247"/>
+<area shape="rect" id="node3" href="$itkIterativeSolverBase_8hxx.html" title="Modules/Solvers/include\l/itkIterativeSolverBase.hxx" alt="" coords="1626,206,1805,247"/>
+<area shape="rect" id="node4" href="$itkL1RegularizedLeastSquaresFISTASolver_8h.html" title="Modules/Solvers/include\l/itkL1RegularizedLeastSquares\lFISTASolver.h" alt="" coords="1829,199,2031,255"/>
+<area shape="rect" id="node5" href="$SphericalPolarFourierImaging_8cxx.html" title="Applications/DiffusionModels\l/SphericalPolarFourierImaging.cxx" alt="" coords="2015,622,2237,663"/>
+<area shape="rect" id="node6" href="$itkSphericalPolarFourierEstimationImageFilter_8h.html" title="estimate the coeffcients of generalized Spherical Polar Fourier basis which can be separated into dif..." alt="" coords="2191,303,2400,359"/>
+<area shape="rect" id="node12" href="$mexSphericalPolarFourierImaging_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexSphericalPolarFourier\lImaging.cxx" alt="" coords="1276,615,1493,671"/>
+<area shape="rect" id="node27" href="$itkL1RegularizedLeastSquaresFISTASolver_8hxx.html" title="Modules/Solvers/include\l/itkL1RegularizedLeastSquares\lFISTASolver.hxx" alt="" coords="1097,303,1299,359"/>
+<area shape="rect" id="node7" href="$itkFeaturesFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.h" alt="" coords="1564,407,1792,463"/>
+<area shape="rect" id="node20" href="$itkSphericalPolarFourierEstimationImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lEstimationImageFilter.hxx" alt="" coords="2191,407,2400,463"/>
+<area shape="rect" id="node21" href="$itkSphericalPolarFourierImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.h" alt="" coords="1957,407,2167,463"/>
+<area shape="rect" id="node24" href="$itkGeneralizedHighOrderTensorImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkGeneralizedHighOrder\lTensorImageFilter.h" alt="" coords="2694,511,2907,567"/>
+<area shape="rect" id="node8" href="$itkFeaturesFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkFeaturesFromSPFImage\lFilter.hxx" alt="" coords="1796,511,2024,567"/>
+<area shape="rect" id="node9" href="$itkODFFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkODFFromSPFImageFilter.h" alt="" coords="1475,518,1721,559"/>
+<area shape="rect" id="node13" href="$itkProfileFromSPFImageFilter_8h.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.h" alt="" coords="1033,511,1248,567"/>
+<area shape="rect" id="node17" href="$itkScalarMapFromSPFImageFilter_8h.html" title="Created &quot;03&#45;18&#45;2014. " alt="" coords="220,511,459,567"/>
+<area shape="rect" id="node10" href="$SPFToODF_8cxx.html" title="Applications/DiffusionModels\l/SPFToODF.cxx" alt="" coords="1517,622,1708,663"/>
+<area shape="rect" id="node11" href="$itkODFFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkODFFromSPFImageFilter.hxx" alt="" coords="1733,622,1991,663"/>
+<area shape="rect" id="node14" href="$SPFToProfile_8cxx.html" title="Applications/DiffusionModels\l/SPFToProfile.cxx" alt="" coords="823,622,1013,663"/>
+<area shape="rect" id="node15" href="$itkProfileFromSPFImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkProfileFromSPFImage\lFilter.hxx" alt="" coords="1037,615,1252,671"/>
+<area shape="rect" id="node16" href="$mexGetSamplesFromSPFCoefficients_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSamplesFromSPFCoefficients.cxx" alt="" coords="483,622,799,663"/>
+<area shape="rect" id="node18" href="$SPFToScalarMap_8cxx.html" title="calculate RTO map from SPF coefficients Created &quot;03&#45;18&#45;2014 " alt="" coords="5,622,196,663"/>
+<area shape="rect" id="node19" href="$itkScalarMapFromSPFImageFilter_8hxx.html" title="Created &quot;03&#45;18&#45;2014. " alt="" coords="220,615,459,671"/>
+<area shape="rect" id="node22" href="$itkSphericalPolarFourierImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkSphericalPolarFourier\lImageFilter.hxx" alt="" coords="2359,511,2568,567"/>
+<area shape="rect" id="node23" href="$mexGetSPFBasisMatrix_8cxx.html" title="Wrapping/Matlab/Diffusion\lModels/mexGetSPFBasisMatrix.cxx" alt="" coords="2099,518,2334,559"/>
+<area shape="rect" id="node25" href="$MeanDiffusivityEstimator_8cxx.html" title="Applications/DiffusionModels\l/MeanDiffusivityEstimator.cxx" alt="" coords="2932,622,3131,663"/>
+<area shape="rect" id="node26" href="$itkGeneralizedHighOrderTensorImageFilter_8hxx.html" title="Modules/DiffusionModels\l/include/itkGeneralizedHighOrder\lTensorImageFilter.hxx" alt="" coords="2694,615,2907,671"/>
+<area shape="rect" id="node30" href="$itkL2RegularizedLeastSquaresSolver_8hxx.html" title="Modules/Solvers/include\l/itkL2RegularizedLeastSquares\lSolver.hxx" alt="" coords="2055,199,2258,255"/>
+<area shape="rect" id="node32" href="$itkSpamsWeightedLassoSolver_8hxx.html" title="Modules/Solvers/include\l/itkSpamsWeightedLassoSolver.hxx" alt="" coords="2876,310,3109,351"/>
+<area shape="rect" id="node33" href="$test__Spams_8cxx.html" title="Wrapping/Matlab/Tests\l/test_Spams.cxx" alt="" coords="2694,310,2851,351"/>
+</map>

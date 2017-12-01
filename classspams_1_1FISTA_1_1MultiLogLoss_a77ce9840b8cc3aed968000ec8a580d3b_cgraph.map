@@ -1,0 +1,7 @@
+<map id="spams::FISTA::MultiLogLoss::fenchel" name="spams::FISTA::MultiLogLoss::fenchel">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="257,5,381,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="259,56,379,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="245,107,393,133"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a814e18f80eb74cdd4695a41c1b52db59" title="spams::xlogx" alt="" coords="269,157,369,184"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="441,107,584,133"/>
+</map>

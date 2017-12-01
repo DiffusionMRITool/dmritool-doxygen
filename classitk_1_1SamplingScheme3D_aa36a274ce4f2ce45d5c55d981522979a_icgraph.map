@@ -1,0 +1,8 @@
+<map id="itk::SamplingScheme3D::CalculatePackingDensity" name="itk::SamplingScheme3D::CalculatePackingDensity">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a4308cbe42586604336afa27912552076" title="itk::SamplingScheme3D\l::CalculateElectrostaticEnergy\lMatrix" alt="" coords="231,5,429,61"/>
+<area shape="rect" id="node6" href="$OrientationStatistics_8cxx.html#abada68025d9cbbc18ea79d56072bbc4c" title="processOrientation" alt="" coords="265,85,395,112"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingScheme3D.html#a35f35aceaf9610fcb97a76b1a60b943f" title="itk::SamplingScheme3D\l::CalculateInnerProductMatrix" alt="" coords="477,13,672,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingScheme3D.html#a0c5f6263e76645195960a3e1f35de259" title="itk::SamplingScheme3D\l::AppendOrientationAndRadius\lValue" alt="" coords="720,5,921,61"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingScheme3D.html#a1d457e045aed2e5ffe6d558baa3b3644" title="itk::SamplingScheme3D\l::AppendOrientation" alt="" coords="969,13,1132,54"/>
+<area shape="rect" id="node7" href="$OrientationStatistics_8cxx.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="obtain energies, minimal angles from a given set of orientations " alt="" coords="549,85,600,112"/>
+</map>

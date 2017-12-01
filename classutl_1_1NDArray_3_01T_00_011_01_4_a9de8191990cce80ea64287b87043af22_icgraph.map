@@ -1,0 +1,11 @@
+<map id="utl::NDArray&lt; T, 1 &gt;::ReSize" name="utl::NDArray&lt; T, 1 &gt;::ReSize">
+<area shape="rect" id="node2" href="$namespaceutl.html#a9d564514be5f80daedb5e778850b0e7f" title="utl::Convert2To1Tensor" alt="" coords="205,5,364,32"/>
+<area shape="rect" id="node3" href="$namespaceutl.html#a0f64578b6d8a60cf72e6410dd7d3ab6d" title="dgesvd_UtlMatrix " alt="" coords="215,56,354,83"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#ac7b7f26d86954ea2d7bb7b5b8db2f76d" title="utl::NDArray\&lt; T, 2\l \&gt;::GetDiagonal" alt="" coords="219,107,350,149"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray_3_01T_00_011_01_4.html#ad93f9e3acd68b2e79ee1c33c81be5149" title="utl::NDArray\&lt; T, 1\l \&gt;::GetSubVector" alt="" coords="219,173,350,214"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#a55a6b286f7f52899fa4a46450bbc5654" title="utl::GetUtlVectorFromMXArray" alt="" coords="184,239,385,265"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#a89d6801f4d311a84878362803063245e" title="utl::RotationMatrixToAxis\lAngle" alt="" coords="199,290,370,331"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#aea73b7073226d6553897cd2dc33b4846" title="dsyev_VnlMatrix eigen&#45;decomposition for symmetric matrix. http://www.netlib.org/lapack/explore&#45;html/d..." alt="" coords="219,356,351,383"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a58f7f622fed33f0b0c5465fc3ec4588d" title="dsyevd_UtlMatrix eigen&#45;decomposition for symmetric matrix. dsyevd is faster than dsyev http://www..." alt="" coords="215,407,354,433"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a28d8f608de13fcbb0cf8df2070ab9127" title="spams::VectorToUtlVector" alt="" coords="196,457,373,484"/>
+</map>

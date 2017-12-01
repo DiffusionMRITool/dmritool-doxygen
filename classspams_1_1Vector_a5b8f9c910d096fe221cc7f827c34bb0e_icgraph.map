@@ -1,0 +1,8 @@
+<map id="spams::Vector::setPointer" name="spams::Vector::setPointer">
+<area shape="rect" id="node2" href="$classspams_1_1FISTA_1_1GroupProx.html#aaa739d124004fcfe6934cdbf2e8137ac" title="spams::FISTA::GroupProx\l::eval" alt="" coords="233,5,411,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1GroupProx.html#a77a2d4d7245baef4eadd5f0464042f09" title="spams::FISTA::GroupProx\l::fenchel" alt="" coords="233,71,411,112"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1GroupProx.html#a532a16cb155b3caef37e4f89b3429afb" title="spams::FISTA::GroupProx\l::prox" alt="" coords="233,136,411,177"/>
+<area shape="rect" id="node5" href="$classspams_1_1SpVector.html#a38540ea89ef9127b7cc0f5627815fa90" title="create a reference on the vector r " alt="" coords="228,202,416,229"/>
+<area shape="rect" id="node7" href="$classspams_1_1SpVector.html#a2bfca57075fe416dbb99937aa1f78b5d" title="creates a reference on the vector val " alt="" coords="239,253,405,279"/>
+<area shape="rect" id="node6" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="464,227,607,254"/>
+</map>

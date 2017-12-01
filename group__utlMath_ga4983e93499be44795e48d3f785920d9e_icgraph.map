@@ -1,0 +1,6 @@
+<map id="utl::GetExpLegendreCoef" name="utl::GetExpLegendreCoef">
+<area shape="rect" id="node2" href="$group__utlMath.html#ga4cc9babd934cc8011cc5d569afe2f67c" title="utl::GetExpProductLegendreCoef" alt="" coords="223,13,437,39"/>
+<area shape="rect" id="node4" href="$group__utlMath.html#ga7dfcf77b245cc8b530497fb63f108612" title="get the SH coefficients from the symmetric tensor with eigenvalues (e1,e2,e2), e1&gt;e2, and (theta,phi) is the angular direction of the e1 axis. " alt="" coords="223,63,437,90"/>
+<area shape="rect" id="node5" href="$group__utlMath.html#gace4da85c200a55edaad7b08f5aad948a" title="get the derivatives of the SH coefficients with respect to (e1, e2) in the symmetric tensor with eige..." alt="" coords="223,115,437,156"/>
+<area shape="rect" id="node3" href="$group__utlMath.html#ga084863019ed376285f01ac90af7d0c65" title="utl::ComputeDWISHCoefficients\lForGPDCylinder" alt="" coords="485,5,699,47"/>
+</map>

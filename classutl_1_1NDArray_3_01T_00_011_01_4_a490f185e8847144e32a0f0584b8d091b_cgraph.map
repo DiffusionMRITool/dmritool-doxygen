@@ -1,0 +1,6 @@
+<map id="utl::NDArray&lt; T, 1 &gt;::GetRotateAxis" name="utl::NDArray&lt; T, 1 &gt;::GetRotateAxis">
+<area shape="rect" id="node2" href="$group__utlMath.html#ga239d543d1f80f305360a2da8af163ad4" title="utl::CrossProduct" alt="" coords="205,5,329,32"/>
+<area shape="rect" id="node3" href="$group__utlMath.html#ga8bf5405e23508a7ffd8f4289c0291d57" title="utl::DotProduct" alt="" coords="212,56,323,83"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArrayBase.html#ac2c1ce4364786a892f8596faa12fa3e1" title="utl::NDArrayBase::Scale" alt="" coords="184,107,351,133"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArrayBase.html#af1085c886d5e10b1c562456e4864cff9" title="utl::NDArrayBase::Size" alt="" coords="188,157,347,184"/>
+</map>

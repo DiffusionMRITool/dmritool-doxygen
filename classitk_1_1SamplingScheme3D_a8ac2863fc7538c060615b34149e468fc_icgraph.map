@@ -1,0 +1,13 @@
+<map id="itk::SamplingScheme3D::Clear" name="itk::SamplingScheme3D::Clear">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingScheme3D.html#a674e0cf6d95f90a150aa5dfd718cdf90" title="itk::SamplingScheme3D\l::InternalClone" alt="" coords="216,13,379,54"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingScheme3D.html#a3ea7b0dccdbf98f21d3cd7d7447e8e4d" title="itk::SamplingScheme3D\l::NormalizeDirections" alt="" coords="427,13,589,54"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingScheme3D.html#a52f23c9c97930a11cf6b6b4ee14dd24b" title="itk::SamplingScheme3D\l::GetOrientationsCartesianIn\lShell" alt="" coords="637,5,825,61"/>
+<area shape="rect" id="node5" href="$classitk_1_1SamplingScheme3D.html#ab90df7c7d9bdfe6785413ce5e45c1237" title="itk::SamplingScheme3D\l::SetOrientationsSpherical" alt="" coords="873,13,1048,54"/>
+<area shape="rect" id="node6" href="$classitk_1_1SamplingScheme3D.html#a4e9468a1056ff3c35b06dd6cda38858d" title="itk::SamplingScheme3D\l::GetOrientationsSphericalIn\lShell" alt="" coords="1096,5,1283,61"/>
+<area shape="rect" id="node7" href="$classitk_1_1SamplingScheme3D.html#a1f37676da81a69a1d538767f6046a899" title="itk::SamplingScheme3D\l::SetOrientationsCartesian" alt="" coords="1331,13,1507,54"/>
+<area shape="rect" id="node8" href="$classitk_1_1SamplingScheme3D.html#a409ec08fdd19f7d6c4ddca6ebb3cc420" title="itk::SamplingScheme3D\l::GetOrientationsSpherical" alt="" coords="1555,13,1729,54"/>
+<area shape="rect" id="node9" href="$classitk_1_1SamplingScheme3D.html#a082a8b9b7f4dc8568e4c8bbe2f9f10ad" title="itk::SamplingScheme3D\l::GetOrientationsCartesian" alt="" coords="1777,13,1955,54"/>
+<area shape="rect" id="node10" href="$classitk_1_1SamplingScheme3D.html#abd0209c9f9698d6de74d78162c9621ee" title="itk::SamplingScheme3D\l::GetRadiusVectorInShell" alt="" coords="2003,13,2173,54"/>
+<area shape="rect" id="node11" href="$classitk_1_1SamplingScheme3D.html#a738f13c4efafe85fd4a6d2d150a41e8f" title="itk::SamplingScheme3D\l::SetRadiusVector" alt="" coords="2221,13,2384,54"/>
+<area shape="rect" id="node12" href="$classitk_1_1SamplingScheme3D.html#a76d415da0f5c36d50a38d5c364d6ae07" title="itk::SamplingScheme3D\l::SamplingScheme3D" alt="" coords="2432,13,2595,54"/>
+</map>

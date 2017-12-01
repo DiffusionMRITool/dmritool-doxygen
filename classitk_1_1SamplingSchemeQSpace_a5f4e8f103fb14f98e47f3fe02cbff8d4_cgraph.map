@@ -1,0 +1,5 @@
+<map id="itk::SamplingSchemeQSpace::GroupBValues" name="itk::SamplingSchemeQSpace::GroupBValues">
+<area shape="rect" id="node2" href="$classitk_1_1SamplingSchemeQSpace.html#a22379998dd858e99826482311f5fb4a8" title="itk::SamplingSchemeQSpace\l::CorrectBValues" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node3" href="$classitk_1_1SamplingSchemeQSpace.html#a519c213565301dbb4ebce92592d0efd3" title="itk::SamplingSchemeQSpace\l::CorrectRadiusValues" alt="" coords="488,5,681,47"/>
+<area shape="rect" id="node4" href="$classitk_1_1SamplingSchemeQSpace.html#ab1e669a8e81bb56c9397efaf00f38d80" title="itk::SamplingSchemeQSpace\l::RemoveSamplesNotIndexed" alt="" coords="729,5,927,47"/>
+</map>

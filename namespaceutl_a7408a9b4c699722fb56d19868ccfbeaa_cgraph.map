@@ -1,0 +1,8 @@
+<map id="utl::NormalizeGrad" name="utl::NormalizeGrad">
+<area shape="rect" id="node2" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a2a0405d45d87d6c8493869e3b4d049b7" title="utl::NDArray\&lt; T, 2\l \&gt;::Cols" alt="" coords="224,5,355,47"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a6054641951e295cd90144b202a102571" title="utl::NDArray\&lt; T, 2\l \&gt;::GetRow" alt="" coords="224,71,355,112"/>
+<area shape="rect" id="node4" href="$classutl_1_1NDArrayBase.html#adbe15295e32115017d5ac0d1918e6917" title="utl::NDArrayBase::GetTwoNorm" alt="" coords="184,137,395,163"/>
+<area shape="rect" id="node5" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a0133333fcfaaa6de351c70773698de2e" title="utl::NDArray\&lt; T, 2\l \&gt;::Rows" alt="" coords="224,188,355,229"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a251f4cb4adc489688924c69a1392247a" title="utl::NDArray\&lt; T, 2\l \&gt;::SetRow" alt="" coords="224,253,355,295"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArrayBase.html#af1085c886d5e10b1c562456e4864cff9" title="utl::NDArrayBase::Size" alt="" coords="210,319,369,346"/>
+</map>

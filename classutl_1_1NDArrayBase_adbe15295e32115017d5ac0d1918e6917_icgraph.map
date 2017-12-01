@@ -1,0 +1,10 @@
+<map id="utl::NDArrayBase::GetTwoNorm" name="utl::NDArrayBase::GetTwoNorm">
+<area shape="rect" id="node2" href="$namespaceutl.html#ae69323cefccdec9b5b30b9ce15143126" title="utl::DifferenceOfDirection" alt="" coords="277,5,447,32"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArray_3_01T_00_012_01_4.html#a515f42e573dd79172abacb72e459342c" title="utl::NDArray\&lt; T, 2\l \&gt;::GetArrayTwoNorm" alt="" coords="287,57,437,98"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#ac7f95227a5db1da26f1a1b314f573470" title="utl::GetMeanOfRotationMatrix" alt="" coords="264,123,460,149"/>
+<area shape="rect" id="node6" href="$classutl_1_1NDArrayBase.html#a2598d3f0817386667f167c3231b2dc19" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::GetOneNorm" alt="" coords="287,174,437,215"/>
+<area shape="rect" id="node7" href="$classutl_1_1NDArrayBase.html#a4b3a47b082947be3f1ff097d54335c3c" title="utl::NDArrayBase\&lt; T,\l 4 \&gt;::GetRootMeanSquares" alt="" coords="271,239,453,281"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a7408a9b4c699722fb56d19868ccfbeaa" title="utl::NormalizeGrad" alt="" coords="297,305,427,332"/>
+<area shape="rect" id="node9" href="$namespaceutl.html#a89d6801f4d311a84878362803063245e" title="utl::RotationMatrixToAxis\lAngle" alt="" coords="277,357,447,398"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#ade36975dfe2796ef39f5be4968c627cf" title="utl::GetMeanOfRotationMatrix" alt="" coords="508,123,704,149"/>
+</map>

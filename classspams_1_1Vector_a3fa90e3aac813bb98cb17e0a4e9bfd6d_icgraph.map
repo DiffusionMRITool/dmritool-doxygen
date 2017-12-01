@@ -1,0 +1,51 @@
+<map id="spams::Vector::setZeros" name="spams::Vector::setZeros">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#a258373363aa2e329843e323d4efd3f2b" title="center the columns of the matrix " alt="" coords="224,5,408,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#ad30448d39141d4379e2abd38e7c3c805" title="spams::SpMatrix::copyRow" alt="" coords="479,629,663,656"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a516ab0761ddd1e790f10b078a63fd3ce" title="Auxiliary function for lasso. " alt="" coords="251,56,381,83"/>
+<area shape="rect" id="node5" href="$namespacespams.html#a65e08bb8f54dc92cd0add1461f2b2909" title="spams::lasso" alt="" coords="521,107,621,133"/>
+<area shape="rect" id="node6" href="$namespacespams.html#a11a263a784992cfa353524e6a621ccaf" title="Auxiliary function for lasso. " alt="" coords="248,259,384,285"/>
+<area shape="rect" id="node7" href="$namespacespams.html#aff3c779ce72c79a832e7a5ba4c948eff" title="spams::lasso2" alt="" coords="517,259,624,285"/>
+<area shape="rect" id="node8" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="501,309,640,336"/>
+<area shape="rect" id="node10" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="749,360,892,387"/>
+<area shape="rect" id="node11" href="$namespacespams.html#a6052b09a74f870c5d75a3b4d5d71bb8a" title="Auxiliary function for lasso. " alt="" coords="241,360,391,387"/>
+<area shape="rect" id="node12" href="$namespacespams.html#a8ae466865bfe5e3435fec170a10e1d1a" title="spams::lassoWeight" alt="" coords="500,411,641,437"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a3b347988e4fa4c701c23c0a0505a3823" title="spams::lassoWeightPreComputed" alt="" coords="460,461,681,488"/>
+<area shape="rect" id="node14" href="$namespacespams.html#ab20118168fd4a42a5a8a9f52981f7391" title="spams::coreSOMP" alt="" coords="504,812,637,839"/>
+<area shape="rect" id="node16" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="222,513,410,554"/>
+<area shape="rect" id="node19" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="731,943,911,969"/>
+<area shape="rect" id="node20" href="$classspams_1_1SpMatrix.html#a2776c781facdceb66e947e00b857bcec" title="spams::SpMatrix::getData" alt="" coords="483,1811,658,1837"/>
+<area shape="rect" id="node22" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="220,782,412,823"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1SqLoss.html#a0886c5451424175b6dd59501eea1f082" title="spams::FISTA::SqLoss\l::init_prim_var" alt="" coords="491,681,650,722"/>
+<area shape="rect" id="node24" href="$classspams_1_1FISTA_1_1HingeLoss.html#a5fa11b09333d4794ed291d5454a50c74" title="spams::FISTA::HingeLoss\l::init_prim_var" alt="" coords="482,746,659,787"/>
+<area shape="rect" id="node25" href="$classspams_1_1MaxFlow.html#a3a77850f8b768b24c78aced2bb2a9bbc" title="spams::MaxFlow::init\l_split_variables_aux" alt="" coords="243,950,389,991"/>
+<area shape="rect" id="node26" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="237,1016,395,1043"/>
+<area shape="rect" id="node27" href="$classspams_1_1Vector.html#af49a22814e3790e3be24046bbe7f7bd5" title="spams::Vector::l1project\l_weighted" alt="" coords="234,1067,398,1109"/>
+<area shape="rect" id="node28" href="$classspams_1_1Matrix.html#a6a4a2c32e5fe31ee420bfe63cf95cd67" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="247,1133,385,1160"/>
+<area shape="rect" id="node29" href="$classspams_1_1SpMatrix.html#ac87dd38d4f644d8229ced07154b2767d" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="493,1031,648,1057"/>
+<area shape="rect" id="node30" href="$classspams_1_1ShiftMatrix.html#abd6d6f3a9a5e86d4e95e98b093a38fd9" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="505,1982,637,2023"/>
+<area shape="rect" id="node31" href="$classspams_1_1DoubleRowMatrix.html#a43355eb41641f8dfa4b78cb94805f4c4" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="484,1082,657,1123"/>
+<area shape="rect" id="node32" href="$classspams_1_1Matrix.html#a107d1f28bd278e41632829e7ab13cd49" title="perform b = alpha*A&#39;x + beta*b " alt="" coords="231,1336,401,1363"/>
+<area shape="rect" id="node33" href="$classspams_1_1SpMatrix.html#acb3f72cb939000ae6ac6de52931a92d1" title="y &lt;&#45; A&#39;*x " alt="" coords="477,1149,664,1176"/>
+<area shape="rect" id="node34" href="$classspams_1_1ShiftMatrix.html#a45962c33ce022621686249f14dc36952" title="b &lt;&#45; alpha A&#39;x + beta b " alt="" coords="505,1203,637,1245"/>
+<area shape="rect" id="node35" href="$classspams_1_1Matrix.html#ad2f3dc3bfec9ea5ea699b66e40cc288a" title="returns the l2 norms of the columns " alt="" coords="499,1274,642,1315"/>
+<area shape="rect" id="node36" href="$classspams_1_1Matrix.html#a5c4dddcc98a7127d46156cd97522ee93" title="returns the l2 norms of the columns " alt="" coords="499,1349,642,1390"/>
+<area shape="rect" id="node37" href="$classspams_1_1Matrix.html#ae39a41cd4113d884dcbc745ce53ed48a" title="returns the linf norms of the columns " alt="" coords="499,1433,642,1474"/>
+<area shape="rect" id="node38" href="$classspams_1_1Matrix.html#abbf5e00180181e8c2ac82293f7efb477" title="returns the linf norms of the columns " alt="" coords="499,965,642,1006"/>
+<area shape="rect" id="node39" href="$classspams_1_1FISTA_1_1normL2.html#a7e2c8c462da6e4635b51e0f8f82a0276" title="spams::FISTA::normL2\l::prox" alt="" coords="237,1691,395,1733"/>
+<area shape="rect" id="node40" href="$classspams_1_1FISTA_1_1Rank.html#a7d53c72fa56298c64a1f52c9977ff985" title="spams::FISTA::Rank\l::prox" alt="" coords="243,1757,389,1798"/>
+<area shape="rect" id="node41" href="$classspams_1_1FISTA_1_1GraphLasso.html#a84ff014795213f051e7a66bbf07f576c" title="spams::FISTA::GraphLasso\l::prox_split" alt="" coords="223,1822,409,1863"/>
+<area shape="rect" id="node42" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="241,848,391,875"/>
+<area shape="rect" id="node43" href="$classspams_1_1Matrix.html#ac3c65bd853c967d1693e231f3ba646d4" title="whiten " alt="" coords="486,1537,655,1564"/>
+<area shape="rect" id="node44" href="$classspams_1_1SpMatrix.html#a03f17814af0a159dea2abfe7e94a5699" title="spams::SpMatrix::sum_cols" alt="" coords="478,1589,663,1616"/>
+<area shape="rect" id="node45" href="$classspams_1_1Tree__Seq.html#a9d55cbb9a74867cdd91ffdece99924e0" title="spams::Tree_Seq::sub_grad" alt="" coords="223,2040,409,2067"/>
+<area shape="rect" id="node46" href="$classspams_1_1FISTA_1_1None.html#a91f43354a21932ead9678233b6b5751c" title="spams::FISTA::None\l::sub_grad" alt="" coords="243,2091,389,2133"/>
+<area shape="rect" id="node47" href="$classspams_1_1MaxFlow.html#a1dab0f192e8dcf379fb45c96ab526394" title="spams::MaxFlow::sub\l_gradient" alt="" coords="241,2157,391,2198"/>
+<area shape="rect" id="node48" href="$classspams_1_1SpVector.html#a56a93275bb8df4c1dccbc2c2c52fcf21" title="resize the vector as a sparse matrix " alt="" coords="235,2223,397,2249"/>
+<area shape="rect" id="node49" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#aaaa990843ebcc1b1c4ca6a02ba79fdb6" title="spams::FISTA::MultiLogLoss\l::var_fenchel" alt="" coords="220,2274,412,2315"/>
+<area shape="rect" id="node50" href="$classspams_1_1Matrix.html#a141b1aa24de1b7fe6e41cc3fe2f52424" title="whiten " alt="" coords="241,2340,391,2367"/>
+<area shape="rect" id="node9" href="$namespacespams.html#a1f84e00ff855ed21b2a9308ce408ebe9" title="second implementation using matrix inversion lemma " alt="" coords="486,360,655,387"/>
+<area shape="rect" id="node15" href="$namespacespams.html#a66c52576473e47a6e94bf9abbab93488" title="spams::somp" alt="" coords="770,812,871,839"/>
+<area shape="rect" id="node17" href="$classspams_1_1FISTA_1_1FusedLasso.html#a7cb5da5b7aa175bcc492817f5d54152c" title="spams::FISTA::FusedLasso\l::prox" alt="" coords="477,563,664,605"/>
+<area shape="rect" id="node18" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="473,512,668,539"/>
+<area shape="rect" id="node21" href="$classspams_1_1SpMatrix.html#a4e9a19caa977cd8b389db26ee9618458" title="spams::SpMatrix::getGroup" alt="" coords="729,1811,912,1837"/>
+</map>

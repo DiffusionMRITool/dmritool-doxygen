@@ -1,0 +1,24 @@
+<map id="utl::GetScalarsDimentionByName" name="utl::GetScalarsDimentionByName">
+<area shape="rect" id="node2" href="$namespaceitk.html#a286ccaf539233fa8546ed7649f520474" title="itk::GetDimensionOfProperties" alt="" coords="221,214,421,241"/>
+<area shape="rect" id="node20" href="$namespaceitk.html#aee22dd9e9803cad3bf026e60fba7e3f9" title="itk::GetDimensionOfScalars" alt="" coords="229,269,414,295"/>
+<area shape="rect" id="node21" href="$namespaceutl.html#ac6a286bdf3cffafc95cf1a2b7112ccf0" title="utl::GetScalarsByName" alt="" coords="241,319,401,346"/>
+<area shape="rect" id="node22" href="$namespaceutl.html#a75cd5e71d069b7a2bd231105b6c1bca7" title="utl::RemoveScalarsByName" alt="" coords="469,53,657,79"/>
+<area shape="rect" id="node23" href="$namespaceutl.html#ac605f0c2239ad00228d21a209923c6be" title="utl::SetScalarsByName" alt="" coords="242,370,401,397"/>
+<area shape="rect" id="node3" href="$classitk_1_1Fiber.html#afe3c0d1bd808e84982442208c329b7c9" title="itk::Fiber::PrintSelf" alt="" coords="498,103,629,130"/>
+<area shape="rect" id="node13" href="$namespaceitk.html#a5c44d10ae1d7da2a187443b8be28a978" title="itk::PrintTractVisHeader" alt="" coords="482,322,645,349"/>
+<area shape="rect" id="node15" href="$namespaceitk.html#a12fe61e4ae510ca844a3755400547dd3" title="itk::ReadTrackVisHeader" alt="" coords="479,271,648,298"/>
+<area shape="rect" id="node16" href="$classitk_1_1FiberTractsReader.html#a1d1aa53f6e81e05c993a58d4ff89fb22" title="itk::FiberTractsReader\l::ReadTractsTRK" alt="" coords="724,264,876,305"/>
+<area shape="rect" id="node18" href="$classitk_1_1FiberTractsWriter.html#a3efa82570b3fca739cad54ddf34d138e" title="itk::FiberTractsWriter\l::WriteTractsTRK" alt="" coords="491,205,636,247"/>
+<area shape="rect" id="node4" href="$classitk_1_1Fiber.html#a32fbbdd85bcb668c1b937e345f51de9b" title="itk::Fiber::RemoveProperties\lByName" alt="" coords="705,64,895,105"/>
+<area shape="rect" id="node12" href="$classitk_1_1Fiber.html#a182846692c1e0cfe44371f076a2098c4" title="itk::Fiber::~Fiber" alt="" coords="2025,105,2144,131"/>
+<area shape="rect" id="node5" href="$classitk_1_1Fiber.html#ab6bd2bb7a46555bc963e45db99d83fbe" title="itk::Fiber::GetPoint" alt="" coords="1191,71,1323,98"/>
+<area shape="rect" id="node6" href="$classitk_1_1Fiber.html#a0f8487c5e54cb1cd6dfa1b9ce6e32c88" title="itk::Fiber::RemoveScalars\lByName" alt="" coords="943,5,1117,47"/>
+<area shape="rect" id="node7" href="$classitk_1_1Fiber.html#ae8384d88ca18b5b5bb118b9e9c067802" title="itk::Fiber::GetPointDistance\lStats" alt="" coords="1165,5,1349,47"/>
+<area shape="rect" id="node8" href="$classitk_1_1Fiber.html#abb22da73a8908734b3d38b6f109b3e61" title="itk::Fiber::DistanceToPoint" alt="" coords="1397,29,1576,55"/>
+<area shape="rect" id="node10" href="$classitk_1_1Fiber.html#adf4e2515b954c191820da2f2e1fdf851" title="itk::Fiber::GetDirection" alt="" coords="1821,29,1975,55"/>
+<area shape="rect" id="node9" href="$classitk_1_1Fiber.html#a267c3d6180692898e87c2ab57144cc0d" title="itk::Fiber::DeepClone" alt="" coords="1624,79,1771,106"/>
+<area shape="rect" id="node11" href="$classitk_1_1Fiber.html#a1b874682c2df4f64789c7d839ee2c0f2" title="itk::Fiber::InternalClone" alt="" coords="1819,79,1977,106"/>
+<area shape="rect" id="node14" href="$classitk_1_1FiberTracts.html#a1f5912131f402024895404f72ae0ba85" title="itk::FiberTracts::PrintFibers\lHeader" alt="" coords="709,329,891,371"/>
+<area shape="rect" id="node17" href="$classitk_1_1FiberTractsReader.html#afd26cbaf6ab589b105845427ac5b2eeb" title="itk::FiberTractsReader\l::Update" alt="" coords="954,264,1106,305"/>
+<area shape="rect" id="node19" href="$classitk_1_1FiberTractsWriter.html#abbfecafe8575e85416c58b4e79938f67" title="itk::FiberTractsWriter\l::Update" alt="" coords="727,199,873,240"/>
+</map>

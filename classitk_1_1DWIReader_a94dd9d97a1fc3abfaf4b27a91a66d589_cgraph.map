@@ -1,0 +1,25 @@
+<map id="itk::DWIReader::DWIReader" name="itk::DWIReader::DWIReader">
+<area shape="rect" id="node2" href="$classitk_1_1DWIReader.html#aa0168bf1ac51c7b4b3e908eb8f42fd38" title="itk::DWIReader::Determine\lIsInput4DImage" alt="" coords="244,267,425,308"/>
+<area shape="rect" id="node3" href="$classitk_1_1DWIReader.html#aa656b74cc9168ef23a7f465e5e19965a" title="itk::DWIReader::ReadFrom\lConfigurationFile" alt="" coords="473,267,656,308"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#a01aefd113942834a6ef1030b36f59955" title="utl::ReadLinesFirstlineCheck" alt="" coords="951,46,1141,73"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#a772e14808dbd7244cca523966e421e2c" title="utl::GetPath" alt="" coords="753,46,845,73"/>
+<area shape="rect" id="node9" href="$group__utlHelperFunctions.html#gac02996de4bb5698414358a3407286cd0" title="itk::IsImageEmpty" alt="" coords="1667,569,1796,596"/>
+<area shape="rect" id="node10" href="$namespaceutl.html#ace21d694314841e980b1751b34b763eb" title="utl::IsFileExist" alt="" coords="746,148,853,174"/>
+<area shape="rect" id="node11" href="$group__utlHelperFunctions.html#gaead8e9d8d1f66f77d3187566dfda6f3e" title="itk::VerifyImageInformation" alt="" coords="710,198,889,225"/>
+<area shape="rect" id="node13" href="$namespaceutl.html#ad9cadf4152bef0ec398194098e87b885" title="utl::ReadVector" alt="" coords="743,97,856,124"/>
+<area shape="rect" id="node14" href="$namespaceutl.html#a57ed7348d74d4b776eb5cfd3521e3120" title="utl::IsNumber" alt="" coords="749,300,850,326"/>
+<area shape="rect" id="node15" href="$namespaceutl.html#a6a133587558e12a2026a4fc953be8e2b" title="utl::IsInVector" alt="" coords="747,350,851,377"/>
+<area shape="rect" id="node16" href="$namespacespams.html#a6e0c56710b83e6ea3b2a757f8d202466" title="template version of the fabs function " alt="" coords="754,401,845,428"/>
+<area shape="rect" id="node17" href="$namespaceutl.html#a8d7adc65edbba21144935c61345ddb71" title="utl::PrintVector" alt="" coords="745,249,854,276"/>
+<area shape="rect" id="node19" href="$group__utlHelperFunctions.html#ga1014cd7bbf1f61aa57d0b06681e4eec6" title="itk::PrintVariableLength\lVector" alt="" coords="721,452,878,494"/>
+<area shape="rect" id="node20" href="$classitk_1_1DWIReader.html#a909aae22b05922702a9eab0f986e81e8" title="itk::DWIReader::CorrectDWI" alt="" coords="704,594,895,621"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#a261ca3bfd527eedc3cec6ebe10e7b047" title="utl::ReadLines" alt="" coords="1245,21,1352,48"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#a182ec809013fd5d9a9a577d27c8f53e4" title="utl::IsInt" alt="" coords="1263,72,1334,98"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#af0ebadfea9fed78719d9ff890802e751" title="utl::SplitString" alt="" coords="1481,21,1585,48"/>
+<area shape="rect" id="node12" href="$namespaceutl.html#a2f26e9ad4930cb313e5b7cf33e457827" title="Return the minimum between a and b. " alt="" coords="1013,198,1079,225"/>
+<area shape="rect" id="node18" href="$namespaceutl.html#a565f666d52eef73b0ab44d6dda1592db" title="utl::GetContainerStats" alt="" coords="970,354,1122,381"/>
+<area shape="rect" id="node21" href="$namespaceutl.html#a66a032acbe4a23130388238feed472df" title="Return the maximum between a and b. " alt="" coords="1011,670,1081,697"/>
+<area shape="rect" id="node22" href="$classitk_1_1DWIReader.html#a577accd756b635fbf82a6cd5669e1b35" title="itk::DWIReader::NormalizeDWI" alt="" coords="943,620,1149,646"/>
+<area shape="rect" id="node23" href="$classitk_1_1DWIReader.html#ab7703372b7f203cfb217befc210e4f92" title="itk::DWIReader::GenerateData" alt="" coords="1197,620,1400,646"/>
+<area shape="rect" id="node24" href="$classitk_1_1DWIReader.html#aedf23dcb8f75d331472ef8cfefb9083a" title="itk::DWIReader::PrintSelf" alt="" coords="1448,620,1619,646"/>
+</map>

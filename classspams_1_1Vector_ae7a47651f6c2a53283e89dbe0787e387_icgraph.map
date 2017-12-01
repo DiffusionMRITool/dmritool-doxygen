@@ -1,0 +1,17 @@
+<map id="spams::Vector::toSparse" name="spams::Vector::toSparse">
+<area shape="rect" id="node2" href="$namespacespams.html#af80fe0fe3eddfe7bccfd94d14bcfe35d" title="auxiliary function for ist_groupLasso " alt="" coords="249,5,395,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1FISTA_1_1SqLossMissing.html#addc17cdda59b9d268a42dafd5e500567" title="spams::FISTA::SqLossMissing\l::eval" alt="" coords="220,57,424,98"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1SqLoss.html#a1a43d12df0140fc73f70d1572931a3e0" title="spams::FISTA::SqLoss\l::eval" alt="" coords="243,122,401,163"/>
+<area shape="rect" id="node5" href="$classspams_1_1FISTA_1_1HingeLoss.html#ad11da4cc2cf81053d538f01a5e7998f5" title="spams::FISTA::HingeLoss\l::eval" alt="" coords="233,187,411,229"/>
+<area shape="rect" id="node6" href="$classspams_1_1FISTA_1_1LogLoss.html#a838c3eed03ce5818f1fd9c9d5a71f01b" title="spams::FISTA::LogLoss\l::eval" alt="" coords="240,253,404,294"/>
+<area shape="rect" id="node7" href="$classspams_1_1FISTA_1_1SqLossMissing.html#aa0d0a28ed86a60e82dca1dbc0d52435d" title="spams::FISTA::SqLossMissing\l::grad" alt="" coords="220,318,424,359"/>
+<area shape="rect" id="node8" href="$classspams_1_1FISTA_1_1SqLoss.html#abc8f0e9bd366c61ed8d4d2b7755b7e9d" title="spams::FISTA::SqLoss\l::grad" alt="" coords="243,383,401,425"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1LogLoss.html#a711291c93a89475e0d9257f1e1bfd41b" title="spams::FISTA::LogLoss\l::grad" alt="" coords="240,449,404,490"/>
+<area shape="rect" id="node10" href="$namespacespams.html#a572fef54adbe30fe799643f8bcb372b4" title="spams::ist" alt="" coords="281,515,363,541"/>
+<area shape="rect" id="node11" href="$classspams_1_1ShiftMatrix.html#abd6d6f3a9a5e86d4e95e98b093a38fd9" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="256,566,388,607"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1SqLoss.html#a4651187ece5e6148e5d16eb72f3f0153" title="spams::FISTA::SqLoss\l::test_backtracking" alt="" coords="243,631,401,673"/>
+<area shape="rect" id="node13" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="232,697,412,724"/>
+<area shape="rect" id="node14" href="$classspams_1_1FISTA_1_1SqLossMissing.html#a825aa4069468fb43a8aa55958fd6724e" title="spams::FISTA::SqLossMissing\l::var_fenchel" alt="" coords="220,749,424,790"/>
+<area shape="rect" id="node15" href="$classspams_1_1FISTA_1_1SqLoss.html#adca6f3fabe324aff996e581eb2a26947" title="spams::FISTA::SqLoss\l::var_fenchel" alt="" coords="243,814,401,855"/>
+<area shape="rect" id="node16" href="$classspams_1_1FISTA_1_1LogLoss.html#ab92d35d079f7c5a2f2a51ea9b55b734e" title="spams::FISTA::LogLoss\l::var_fenchel" alt="" coords="240,879,404,921"/>
+</map>

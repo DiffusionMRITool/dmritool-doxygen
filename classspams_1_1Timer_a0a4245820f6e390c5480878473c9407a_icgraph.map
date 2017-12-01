@@ -1,0 +1,6 @@
+<map id="spams::Timer::printElapsed" name="spams::Timer::printElapsed">
+<area shape="rect" id="node2" href="$classspams_1_1MinCostFlow.html#a939d1f0eb6f80ac2bb7f82da5354197f" title="spams::MinCostFlow\l::compute_min_cost" alt="" coords="253,5,399,47"/>
+<area shape="rect" id="node3" href="$classspams_1_1Graph.html#afcabf1bfe12efce030e5388710253bf9" title="spams::Graph::proximal\l_operator" alt="" coords="245,71,407,112"/>
+<area shape="rect" id="node4" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="255,137,397,163"/>
+<area shape="rect" id="node5" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="236,187,416,214"/>
+</map>

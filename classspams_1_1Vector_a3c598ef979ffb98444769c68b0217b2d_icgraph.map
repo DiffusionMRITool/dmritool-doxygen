@@ -1,0 +1,6 @@
+<map id="spams::Vector::setn" name="spams::Vector::setn">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4feed74fbcff1499be4239f3a4c8628f" title="extract the rows of a matrix corresponding to a binary mask " alt="" coords="193,31,368,57"/>
+<area shape="rect" id="node3" href="$namespacespams.html#a6c268958b34aadd6b512261605f44d94" title="second implementation using matrix inversion lemma " alt="" coords="416,5,555,32"/>
+<area shape="rect" id="node4" href="$namespacespams.html#a1edcb9d7d71c79899a23a374af8dcda2" title="spams::omp_mask" alt="" coords="419,68,552,95"/>
+<area shape="rect" id="node5" href="$classspams_1_1MaxFlow.html#ac6c811364935b84428a862741b4dbe8a" title="spams::MaxFlow::project\l_weighted" alt="" coords="196,133,365,174"/>
+</map>

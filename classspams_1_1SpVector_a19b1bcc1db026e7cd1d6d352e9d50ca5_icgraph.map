@@ -1,0 +1,5 @@
+<map id="spams::SpVector::dot" name="spams::SpVector::dot">
+<area shape="rect" id="node2" href="$classspams_1_1ShiftMatrix.html#a82fb8426cec48f174399fb6084f290ad" title="spams::ShiftMatrix::m" alt="" coords="223,5,374,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1DoubleRowMatrix.html#ab91857fece76ff2511d6983e89f05a2d" title="spams::DoubleRowMatrix::m" alt="" coords="203,56,395,83"/>
+<area shape="rect" id="node4" href="$classspams_1_1SpMatrix.html#afd096c6144e3c3a850ac0d0b8fdced69" title="perform b = alpha*A*x + beta*b, when x is sparse " alt="" coords="205,107,392,133"/>
+</map>

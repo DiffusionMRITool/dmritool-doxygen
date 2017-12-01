@@ -1,0 +1,38 @@
+<map id="itk::DiffusionTensor::GetRotate" name="itk::DiffusionTensor::GetRotate">
+<area shape="rect" id="node2" href="$classitk_1_1DiffusionTensor.html#a9fc0b1c447f82706cfc028e99a805008" title="itk::DiffusionTensor\l::GetQuadraticForm" alt="" coords="189,97,327,139"/>
+<area shape="rect" id="node3" href="$classitk_1_1DiffusionTensor.html#acb0dd488ea5751f6ad51ae21e47d9bd1" title="itk::DiffusionTensor\l::GetSphericalSamples" alt="" coords="375,97,531,139"/>
+<area shape="rect" id="node4" href="$classitk_1_1DiffusionTensor.html#ae2fc13750c7614c1207c601252913c63" title="itk::DiffusionTensor\l::GetDWISamples" alt="" coords="579,97,715,139"/>
+<area shape="rect" id="node5" href="$classitk_1_1DiffusionTensor.html#a793e5003ea980a65ef161e45848c73f8" title="itk::DiffusionTensor\l::GetODFSamples" alt="" coords="763,97,899,139"/>
+<area shape="rect" id="node6" href="$classitk_1_1DiffusionTensor.html#a308dad400bb973bb765b7c5aa636bb43" title="itk::DiffusionTensor\l::GetEAPSamples" alt="" coords="947,97,1083,139"/>
+<area shape="rect" id="node7" href="$classitk_1_1DiffusionTensor.html#a67070c3bafafbbf085c34b9f25111958" title="itk::DiffusionTensor\l::GetReturnToOrigin" alt="" coords="1131,97,1269,139"/>
+<area shape="rect" id="node8" href="$classitk_1_1DiffusionTensor.html#aca988072ff4cf7db969d1befb89cd68d" title="itk::DiffusionTensor\l::GetMeanSquaredDisplacement" alt="" coords="1317,97,1528,139"/>
+<area shape="rect" id="node9" href="$classitk_1_1DiffusionTensor.html#a4038a7297393cd3279169d3d74f50da5" title="itk::DiffusionTensor\l::GetGA" alt="" coords="1576,97,1712,139"/>
+<area shape="rect" id="node10" href="$classitk_1_1DiffusionTensor.html#aa3a4e42844b24002715ee92dbae54d11" title="itk::DiffusionTensor\l::GetFA" alt="" coords="1760,97,1896,139"/>
+<area shape="rect" id="node11" href="$classitk_1_1DiffusionTensor.html#afd28ad0580030d368d10cc88abb3ec09" title="itk::DiffusionTensor\l::GetADC" alt="" coords="1944,97,2080,139"/>
+<area shape="rect" id="node12" href="$classitk_1_1DiffusionTensor.html#ab507b2b8a9eab00ff8cd475f3a565fe0" title="itk::DiffusionTensor\l::GetRA" alt="" coords="2128,97,2264,139"/>
+<area shape="rect" id="node13" href="$classitk_1_1DiffusionTensor.html#a171fb047cde0b4c1317f1ec7d4ca9e6d" title="itk::DiffusionTensor\l::GetMODE" alt="" coords="2312,97,2448,139"/>
+<area shape="rect" id="node14" href="$classitk_1_1DiffusionTensor.html#ae90c1be5c50a5cbfee7fe9803a2af1ac" title="itk::DiffusionTensor\l::GetDeterminant" alt="" coords="3600,89,3736,131"/>
+<area shape="rect" id="node15" href="$classitk_1_1DiffusionTensor.html#ac93d45a730b3b797a045fc7e6332e147" title="itk::DiffusionTensor\l::GetNorm" alt="" coords="3784,119,3920,160"/>
+<area shape="rect" id="node32" href="$classitk_1_1DiffusionTensor.html#aa35411ff044520ea97bcd5c227d5b069" title="itk::DiffusionTensor\l::IsPositive" alt="" coords="2496,39,2632,80"/>
+<area shape="rect" id="node16" href="$classitk_1_1DiffusionTensor.html#a4d7a4b28478b4ef2b7698f5ad2de66c6" title="itk::DiffusionTensor::Log" alt="" coords="3968,126,4133,153"/>
+<area shape="rect" id="node17" href="$classitk_1_1DiffusionTensor.html#aefa888562e8a329ee204085a4365ee00" title="itk::DiffusionTensor\l::SetVnlMatrix" alt="" coords="4628,64,4764,105"/>
+<area shape="rect" id="node20" href="$classitk_1_1DiffusionTensor.html#a79fcc26f838a8ac30d8e7303d00b2473" title="itk::DiffusionTensor::Exp" alt="" coords="4181,126,4348,153"/>
+<area shape="rect" id="node18" href="$classitk_1_1DiffusionTensor.html#ae8bd47f1efacf375e946f016192ef465" title="itk::DiffusionTensor\l::Rotate" alt="" coords="4825,5,4961,47"/>
+<area shape="rect" id="node19" href="$classitk_1_1DiffusionTensor.html#a239c1b7ef6748ad2b90de85041b04417" title="itk::DiffusionTensor\l::GetRotate" alt="" coords="5009,31,5145,72"/>
+<area shape="rect" id="node21" href="$classitk_1_1DiffusionTensor.html#ac949e58dfc53608b4a260b0aa2324d90" title="itk::DiffusionTensor::Pow" alt="" coords="4396,151,4567,178"/>
+<area shape="rect" id="node22" href="$namespacespams.html#a6e0c56710b83e6ea3b2a757f8d202466" title="template version of the fabs function " alt="" coords="4651,130,4741,157"/>
+<area shape="rect" id="node23" href="$classitk_1_1DiffusionTensor.html#ae792aa7356e6924ecac740fa5dcf2ac8" title="itk::DiffusionTensor::Inv" alt="" coords="4615,181,4777,207"/>
+<area shape="rect" id="node24" href="$classitk_1_1DiffusionTensor.html#ab4d7cda9220730e30c0bd4c4a41d829b" title="itk::DiffusionTensor\l::Sqrt" alt="" coords="4825,173,4961,215"/>
+<area shape="rect" id="node25" href="$group__utlMath.html#gaf54a9304b91d9eec581e43ed5780ac73" title="utl::Pow" alt="" coords="5227,173,5298,199"/>
+<area shape="rect" id="node26" href="$classitk_1_1DiffusionTensor.html#a57898be4f60aa7793d75354f11355544" title="itk::DiffusionTensor\l::InvSqrt" alt="" coords="5009,224,5145,265"/>
+<area shape="rect" id="node27" href="$classitk_1_1DiffusionTensor.html#a8782741a97a75c4060027e6f3b96510e" title="itk::DiffusionTensor\l::EuclideanDistance" alt="" coords="5193,224,5332,265"/>
+<area shape="rect" id="node28" href="$classitk_1_1DiffusionTensor.html#a290100d7bcbb0586d9ad9b1fed3936ff" title="itk::DiffusionTensor\l::KLDistance" alt="" coords="5380,224,5516,265"/>
+<area shape="rect" id="node29" href="$classitk_1_1DiffusionTensor.html#aff6de3f0a3e0c790e434449f269b52ce" title="itk::DiffusionTensor\l::GeodesicDistance" alt="" coords="5564,224,5701,265"/>
+<area shape="rect" id="node30" href="$group__utlMath.html#ga75c52783cf06759a8681eb83fae046d1" title="utl::Log" alt="" coords="5933,261,5999,287"/>
+<area shape="rect" id="node31" href="$classitk_1_1DiffusionTensor.html#a4734f80ed7703016e72c92302d966798" title="itk::DiffusionTensor\l::LogEucDistance" alt="" coords="5749,283,5885,324"/>
+<area shape="rect" id="node33" href="$classitk_1_1DiffusionTensor.html#a68d3c5e1a2841a1610f60a7ad6bbc89d" title="itk::DiffusionTensor\l::Positivize" alt="" coords="2680,39,2816,80"/>
+<area shape="rect" id="node34" href="$classitk_1_1DiffusionTensor.html#a89a414085dcecd83ddd02d275da8a1d7" title="itk::DiffusionTensor\l::IsZero" alt="" coords="2864,39,3000,80"/>
+<area shape="rect" id="node35" href="$classitk_1_1DiffusionTensor.html#ab03492db970d4b5088fd0cbc23971bf3" title="itk::DiffusionTensor\l::IsDiagonal" alt="" coords="3048,39,3184,80"/>
+<area shape="rect" id="node36" href="$classitk_1_1DiffusionTensor.html#ae2d5638cfbef9b1c500c7536f97cbced" title="itk::DiffusionTensor\l::IsFinite" alt="" coords="3232,39,3368,80"/>
+<area shape="rect" id="node37" href="$classitk_1_1DiffusionTensor.html#a3270d40d628347860a633f741f17e113" title="itk::DiffusionTensor\l::HasNans" alt="" coords="3416,39,3552,80"/>
+</map>

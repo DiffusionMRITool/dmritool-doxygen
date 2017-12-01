@@ -1,0 +1,4 @@
+<map id="spams::Matrix::addRow" name="spams::Matrix::addRow">
+<area shape="rect" id="node2" href="$classspams_1_1Matrix.html#af66d7c49dc5f95994664b8c78f87806c" title="perform C = A*B, when B is sparse " alt="" coords="223,5,361,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1SpMatrix.html#a0213405be3925cad6d961814a44b7c66" title="perform C = a*A*B + b*C, possibly transposing A or B. " alt="" coords="215,56,369,83"/>
+</map>

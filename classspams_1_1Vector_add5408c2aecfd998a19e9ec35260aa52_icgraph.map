@@ -1,0 +1,40 @@
+<map id="spams::Vector::sum" name="spams::Vector::sum">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#aeb420ce8b59e79e9997fa325df9e9a60" title="compute the sum of the differences " alt="" coords="226,5,381,32"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#a69d20e071af6ebcbdc22ab5538cc9858" title="spams::Vector::fusedProject\lHomotopy" alt="" coords="463,34,651,75"/>
+<area shape="rect" id="node11" href="$classspams_1_1Matrix.html#a45b93795afcf074ed716e9f77be922ad" title="center the columns of the matrix " alt="" coords="229,107,378,133"/>
+<area shape="rect" id="node13" href="$namespacespams.html#a9635c5c50e5e3932baf554cd70ab7e36" title="Auxiliary function for ist_groupLasso. " alt="" coords="193,157,413,184"/>
+<area shape="rect" id="node15" href="$classspams_1_1Vector.html#a9739c956086d1567c30d6006f5cb5e3e" title="returns A&#39;x, when x is sparse " alt="" coords="237,208,370,235"/>
+<area shape="rect" id="node16" href="$classspams_1_1FISTA_1_1TraceNorm.html#a88c9d5670e9887ac776952d63204716f" title="spams::FISTA::TraceNorm\l::eval" alt="" coords="213,259,393,301"/>
+<area shape="rect" id="node17" href="$classspams_1_1Vector.html#aa4bc5a63c5daab19ba4aeeff5d7d5036" title="spams::Vector::fusedProject" alt="" coords="209,325,397,352"/>
+<area shape="rect" id="node18" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ab220823d910c7e6b11e9be21cb889168" title="spams::FISTA::MultiLogLoss\l::grad" alt="" coords="207,377,399,418"/>
+<area shape="rect" id="node19" href="$classspams_1_1Vector.html#ad138379591c79a85214f96d7b25e496e" title="compute the Kuhlback&#45;Leiber divergence " alt="" coords="238,443,369,469"/>
+<area shape="rect" id="node20" href="$classspams_1_1Vector.html#aea0ce32e2ba67021f7ebde55681746fa" title="spams::Vector::l1l2project" alt="" coords="470,384,645,411"/>
+<area shape="rect" id="node22" href="$classspams_1_1Vector.html#a62eab6ce32dbae8be23d7f7a7302c6f8" title="spams::Vector::l1project" alt="" coords="221,493,385,520"/>
+<area shape="rect" id="node24" href="$classspams_1_1Vector.html#a04a7d6e62b23dc8aed0efc40073426d2" title="whiten " alt="" coords="230,595,377,621"/>
+<area shape="rect" id="node28" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#aaaa990843ebcc1b1c4ca6a02ba79fdb6" title="spams::FISTA::MultiLogLoss\l::var_fenchel" alt="" coords="707,703,899,745"/>
+<area shape="rect" id="node36" href="$classspams_1_1ShiftMatrix.html#a45962c33ce022621686249f14dc36952" title="b &lt;&#45; alpha A&#39;x + beta b " alt="" coords="237,751,369,793"/>
+<area shape="rect" id="node37" href="$classspams_1_1Vector.html#a4276ae49a235fd35a7831e081b844dd3" title="spams::Vector::nnz" alt="" coords="235,817,371,844"/>
+<area shape="rect" id="node38" href="$classspams_1_1Vector.html#a3c1eadd95c8aa8d73e8f6e9b2bad243a" title="replace each value by its exponential " alt="" coords="222,868,385,895"/>
+<area shape="rect" id="node4" href="$classspams_1_1FISTA_1_1FusedLasso.html#a7cb5da5b7aa175bcc492817f5d54152c" title="spams::FISTA::FusedLasso\l::prox" alt="" coords="710,34,897,75"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#aa8b5ad7aa031b620705cc99e7f830d83" title="spams::Vector::sparseProject" alt="" coords="706,267,901,293"/>
+<area shape="rect" id="node6" href="$classspams_1_1Trainer.html#a8bb2db26e7441e4a1aaa4a35c1585366" title="clean the dictionary " alt="" coords="973,216,1145,243"/>
+<area shape="rect" id="node7" href="$classspams_1_1Trainer.html#ac0fcddf0150534ca1b6f332aa9673d1a" title="train or retrain using the matrix X " alt="" coords="1231,179,1373,205"/>
+<area shape="rect" id="node8" href="$classspams_1_1Trainer.html#a39f55ac15d389f6f9d1a31cecea355a7" title="spams::Trainer::trainOffline" alt="" coords="1212,255,1392,281"/>
+<area shape="rect" id="node9" href="$classspams_1_1FISTA_1_1LassoConstraint.html#a28a1b35a92a9ffeb8f4e2144c847a576" title="spams::FISTA::LassoConstraint\l::prox" alt="" coords="953,318,1164,359"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a3f308042bd3ba43b8fb17b7ed311d172" title="performs sparse projections of the columns " alt="" coords="962,384,1155,411"/>
+<area shape="rect" id="node12" href="$classspams_1_1FISTA_1_1SqLossMat.html#a7c0e81e3bf02b53ddeae6cd812d48b1c" title="spams::FISTA::SqLossMat\l::var_fenchel" alt="" coords="467,99,648,141"/>
+<area shape="rect" id="node14" href="$namespacespams.html#aef54661c6f58f5830221c4e14cf86248" title="ist for group Lasso " alt="" coords="479,165,636,192"/>
+<area shape="rect" id="node21" href="$classspams_1_1Vector.html#a2a6f189c0d7d99f1f6221166fdc159ce" title="returns true if the returned vector is null " alt="" coords="713,361,894,388"/>
+<area shape="rect" id="node23" href="$classspams_1_1FISTA_1_1normLINF.html#a12d6a570150c66c0ff148d5e260f42d8" title="spams::FISTA::normLINF\l::prox" alt="" coords="471,318,644,359"/>
+<area shape="rect" id="node25" href="$classspams_1_1Matrix.html#ac4640cb20bb72d2723d88b55677d127b" title="whiten " alt="" coords="485,536,630,563"/>
+<area shape="rect" id="node27" href="$classspams_1_1Vector.html#a23815998cb12a24ba3fd3d9ee9d5e9a1" title="spams::Vector::project_sft" alt="" coords="469,653,645,680"/>
+<area shape="rect" id="node29" href="$classspams_1_1Vector.html#a447a6f66d82e0fe0cf4d923ca0aec4c2" title="spams::Vector::project\l_sft_binary" alt="" coords="480,587,635,629"/>
+<area shape="rect" id="node31" href="$classspams_1_1Vector.html#a1e421631828828a6152cf6c264e92b91" title="whiten " alt="" coords="491,704,624,731"/>
+<area shape="rect" id="node32" href="$classspams_1_1Vector.html#a3aaa7b9c9f673b91e462068c022d7241" title="whiten " alt="" coords="474,435,641,461"/>
+<area shape="rect" id="node33" href="$classspams_1_1Vector.html#a048b7d564b76ca6f6314276e2ff943c5" title="whiten " alt="" coords="481,485,634,512"/>
+<area shape="rect" id="node26" href="$classspams_1_1Matrix.html#a3d44794e9cd7e8f7924d457183079207" title="whiten " alt="" coords="728,544,879,571"/>
+<area shape="rect" id="node30" href="$classspams_1_1FISTA_1_1LogLoss.html#ab92d35d079f7c5a2f2a51ea9b55b734e" title="spams::FISTA::LogLoss\l::var_fenchel" alt="" coords="721,595,885,637"/>
+<area shape="rect" id="node34" href="$classspams_1_1FISTA_1_1SqLossMissing.html#a825aa4069468fb43a8aa55958fd6724e" title="spams::FISTA::SqLossMissing\l::var_fenchel" alt="" coords="701,413,905,454"/>
+<area shape="rect" id="node35" href="$classspams_1_1FISTA_1_1SqLoss.html#adca6f3fabe324aff996e581eb2a26947" title="spams::FISTA::SqLoss\l::var_fenchel" alt="" coords="724,478,883,519"/>
+<area shape="rect" id="node39" href="$classspams_1_1FISTA_1_1MultiLogLoss.html#ae51bb4e90a5d341cde1b8a9963f9e3d1" title="spams::FISTA::MultiLogLoss\l::eval" alt="" coords="461,861,653,902"/>
+</map>

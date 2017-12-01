@@ -1,0 +1,9 @@
+<map id="utl::ComputeOrientationalOrderFromSHCoefficients" name="utl::ComputeOrientationalOrderFromSHCoefficients">
+<area shape="rect" id="node2" href="$namespaceutl.html#af03524e35ed66b65512523ee7e7d9b1a" title="utl::GetIndexSHj" alt="" coords="269,5,388,32"/>
+<area shape="rect" id="node3" href="$classutl_1_1NDArrayBase.html#a1cf0242e93c521403687172f0cb4ab3e" title="utl::NDArrayBase::GetSquared\lTwoNorm" alt="" coords="227,57,430,98"/>
+<area shape="rect" id="node4" href="$namespaceutl.html#aadaee3c82e931418c5217520b63f1103" title="utl::RankToDimSH" alt="" coords="262,123,395,149"/>
+<area shape="rect" id="node6" href="$group__utlMath.html#gaef1067bdd426192a88d3981f5c9ce2ef" title="utl::RotationMatrixFromVectors" alt="" coords="227,173,431,200"/>
+<area shape="rect" id="node8" href="$classutl_1_1NDArrayBase.html#af1085c886d5e10b1c562456e4864cff9" title="utl::NDArrayBase::Size" alt="" coords="249,224,408,251"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#a61d547b5411b18e3cef9cc4e963e0730" title="utl::IsEven" alt="" coords="481,123,567,149"/>
+<area shape="rect" id="node7" href="$namespacespams.html#a6e0c56710b83e6ea3b2a757f8d202466" title="template version of the fabs function " alt="" coords="479,173,569,200"/>
+</map>

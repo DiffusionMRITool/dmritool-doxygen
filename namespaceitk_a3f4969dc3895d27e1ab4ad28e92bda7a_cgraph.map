@@ -1,0 +1,6 @@
+<map id="itk::ReadVectorImage" name="itk::ReadVectorImage">
+<area shape="rect" id="node2" href="$namespaceutl.html#ace21d694314841e980b1751b34b763eb" title="utl::IsFileExist" alt="" coords="214,5,321,32"/>
+<area shape="rect" id="node3" href="$group__utlHelperFunctions.html#ga91dfc8cd2d73828648f98cf72d2821d4" title="itk::IsVectorImage" alt="" coords="203,56,332,83"/>
+<area shape="rect" id="node4" href="$group__utlHelperFunctions.html#ga9c982f4a212bf372dbecb43ceeaaf786" title="itk::GetImageType" alt="" coords="380,56,511,83"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#a8aa212b84edbf930f869649ecbdfe1d6" title="utl::IsEndingWith" alt="" coords="559,56,681,83"/>
+</map>

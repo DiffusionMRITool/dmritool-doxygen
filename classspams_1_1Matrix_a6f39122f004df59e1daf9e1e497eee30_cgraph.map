@@ -1,0 +1,17 @@
+<map id="spams::Matrix::merge" name="spams::Matrix::merge">
+<area shape="rect" id="node2" href="$classspams_1_1Vector.html#a4a08cf0ca0606b199d097a1b0d729b73" title="make a copy of x " alt="" coords="212,5,355,32"/>
+<area shape="rect" id="node7" href="$classspams_1_1Matrix.html#ada3f5f1c70845e6b5f78a06f6357371c" title="return the 1D&#45;index of the value of greatest magnitude " alt="" coords="212,56,355,83"/>
+<area shape="rect" id="node8" href="$classspams_1_1Vector.html#ad7f872a03bfcad8a34e5afb9bce3eb71" title="returns the maximum magnitude " alt="" coords="203,157,364,184"/>
+<area shape="rect" id="node10" href="$classspams_1_1Matrix.html#a1df29954e4238f95d6ff5168c5e2dbf9" title="perform b = alpha*A*x+beta*b " alt="" coords="214,107,353,133"/>
+<area shape="rect" id="node11" href="$classspams_1_1Matrix.html#ae11862be7b7cad422d3dbfc708f05e20" title="Number of columns. " alt="" coords="434,259,554,285"/>
+<area shape="rect" id="node12" href="$classspams_1_1Matrix.html#acd98d17dc3e849239867785bf8c02e92" title="Reference the column i into the vector x. " alt="" coords="209,208,357,235"/>
+<area shape="rect" id="node13" href="$classspams_1_1Matrix.html#add56669d89cd16437ff3b3388f08a6b8" title="Resize the matrix. " alt="" coords="209,309,357,336"/>
+<area shape="rect" id="node3" href="$classspams_1_1Vector.html#ab453b8b1a7e4aa9892b886d2854d6bf7" title="resize the vector " alt="" coords="419,81,569,108"/>
+<area shape="rect" id="node5" href="$classspams_1_1Vector.html#a7626e4ab4348e6d688fa375e0c47803f" title="returns the size of the vector " alt="" coords="646,19,769,45"/>
+<area shape="rect" id="node4" href="$classspams_1_1Vector.html#ad8173ce27f6454559c2e8acdcdb1926b" title="clear the vector " alt="" coords="636,169,779,196"/>
+<area shape="rect" id="node6" href="$classspams_1_1Vector.html#a3fa90e3aac813bb98cb17e0a4e9bfd6d" title="Set all values to zero. " alt="" coords="624,81,791,108"/>
+<area shape="rect" id="node9" href="$classspams_1_1Vector.html#ae9ce0b6b62bc908bdb12183084b23292" title="returns the index of the value with largest magnitude " alt="" coords="422,157,566,184"/>
+<area shape="rect" id="node14" href="$classspams_1_1Matrix.html#a88397ce584aab010c90d6f428879512e" title="Clear the matrix. " alt="" coords="423,411,565,437"/>
+<area shape="rect" id="node15" href="$classspams_1_1Matrix.html#a240b3db2f487255b636f71726f24e108" title="spams::Matrix::m" alt="" coords="432,309,556,336"/>
+<area shape="rect" id="node16" href="$classspams_1_1Matrix.html#a658758da0725614d2c2bae5d5a2e08b0" title="Set all the values to zero. " alt="" coords="412,360,576,387"/>
+</map>
